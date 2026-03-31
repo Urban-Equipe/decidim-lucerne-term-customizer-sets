@@ -1,0 +1,15 @@
+id;locale;key;value
+86652;de;activemodel.models.decidim/blogs/create_post_event;Neuer Blog-Post
+87010;de;decidim.blogs.actions.confirm_destroy;Möchtest du diesen Blog-Post wirklich löschen?
+87011;de;decidim.blogs.actions.new;Neuer Blog-Post
+87012;de;decidim.blogs.admin.posts.create.success;Blog-Post erfolgreich erstellt
+87013;de;decidim.blogs.admin.posts.destroy.success;Blog-Post wurde erfolgreich gelöscht
+87014;de;decidim.blogs.admin.posts.edit.title;Blog-Post bearbeiten
+87015;de;decidim.blogs.admin.posts.index.title;Blog-Post
+87016;de;decidim.blogs.admin.posts.update.success;Blog-Post wurde erfolgreich gespeichert
+87017;de;decidim.blogs.models.post.fields.body;Inhalt
+87056;de;decidim.components.blogs.name;Blog (News)
+87262;de;decidim.events.blogs.post_created.email_intro;"Der Blog-Post ""%{resource_title}"" wurde in ""%{participatory_space_title}"" veröffentlicht. Du erhälst diese Benachrichtigung, da du dem Projekt folgst."
+87263;de;decidim.events.blogs.post_created.email_outro;"Du hast diese Benachrichtigung erhalten, weil du ""%{participatory_space_title}"" folgst. Wenn du keine Benachrichtigungen mehr erhalten möchtest, kannst du das in deinen Profileinstellungen angeben."
+87264;de;decidim.events.blogs.post_created.email_subject;Neuer Blog-Post in %{participatory_space_title}
+87265;de;decidim.events.blogs.post_created.notification_title;"Der Beitrag <a href=""%{resource_path}"">%{resource_title}</a> wurde in %{participatory_space_title}veröffentlicht"

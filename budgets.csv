@@ -1,0 +1,39 @@
+id;locale;key;value
+87018;de;decidim.budgets.actions.confirm_destroy;Möchtest du dieses Projekt wirklich löschen?
+87019;de;decidim.budgets.actions.import;Importiere Vorschläge in Projekte
+;de;decidim.budgets.admin.reminders.orders.title;Du wirst eine Erinnerungs-E-Mail an %{count} Benutzer zu senden
+87025;de;decidim.budgets.budgets_list.cancel_order.only_one;Deine Stimme löschen und neu abstimmen.
+87026;de;decidim.budgets.budgets_list.finished_message;Du hast den Abstimmungsprozess beendet. Vielen Dank für deine Teilnahme!
+87027;de;decidim.budgets.budgets_list.if_change_opinion;Wenn du deine Meinung geändert hast, kannst du
+87028;de;decidim.budgets.budgets_list.voted_on;Du hast über %{links} abgestimmt
+87029;de;decidim.budgets.limit_announcement.cant_vote;"Du kannst nicht über dieses Budget abstimmen. <a href=""%{landing_path}"">Versuche es mit einem anderen Budget</a>."
+87030;de;decidim.budgets.limit_announcement.limit_reached;"Du hast aktive Stimmen in %{links}. Um über dieses Budget abstimmen zu können, must du <a href=""%{landing_path}"">deine Stimme löschen und neu </a> beginnen."
+87031;de;decidim.budgets.order_summary_mailer.order_summary.subject;Du hast im Beteiligungsbereich %{space_name} abgestimmt
+87032;de;decidim.budgets.order_summary_mailer.order_summary.voted_on_space;Du hast für das %{budget_name} Budget for the %{space_name} abgestimmt.
+87033;de;decidim.budgets.order_summary_mailer.order_summary.voted_on_space_with_scope;Du hast für das %{budget_name} Budget for the %{space_name} innerhalb %{scope_name} (%{scope_type}) abgestimmt.
+;de;decidim.budgets.projects.budget_confirm.are_you_sure;Wenn du deine Meinung ändern, können du deine Stimme nachträglich ändern.
+87034;de;decidim.budgets.projects.budget_confirm.cancel;Abbrechen
+87035;de;decidim.budgets.projects.budget_confirm.description;Dies sind die Projekte, die du dafür ausgewählt hast, Teil des Budgets zu sein.
+87036;de;decidim.budgets.projects.budget_excess.budget_excess.description;Dieses Projekt überschreitet das maximale Budget und kann nicht hinzugefügt werden. Wenn du möchtest kannst du ein bereits gewähltes Projekt wieder entfernen, oder gemäss deiner Präferenzen abstimmen.
+87037;de;decidim.budgets.projects.budget_excess.description;Dieses Projekt überschreitet das maximale Budget und kann nicht hinzugefügt werden. Wenn du möchtest, kannst du ein Projekt löschen, das du bereits ausgewählt hast.
+87038;de;decidim.budgets.projects.budget_excess.projects_excess.description;Dieses Projekt überschreitet die maximale Anzahl Projekte und kann nicht hinzugefügt werden. Wenn du möchtest kannst du ein bereits gewähltes Projekt wieder entfernen, oder gemäss deiner Präferenzen abstimmen.
+87039;de;decidim.budgets.projects.budget_summary.are_you_sure;Bist du sicher, dass du deine Stimme zurückziehen willst?
+87040;de;decidim.budgets.projects.budget_summary.cancel_order;Lösche deine Stimme und beginne von vorne
+87041;de;decidim.budgets.projects.budget_summary.checked_out.description;Du hast bereits für das Budget gestimmt. Wenn du deine Meinung geändert hast, kannst du %{cancel_link}.
+87042;de;decidim.budgets.projects.exit_modal.message;Deine Stimme wurde nicht registriert, weil du den Abstimmungsprozess noch nicht abgeschlossen hast. Bist du sicher, dass du die Abstimmung beenden möchtest?
+87043;de;decidim.budgets.projects.exit_modal.title;Du hast noch nicht abgestimmt
+87044;de;decidim.budgets.projects.filters.scope;Thema
+;de;decidim.budgets.projects.order_progress.dynamic_help.minimum_reached;Du hast das Minimum erreicht, um abstimmen zu können
+87045;de;decidim.budgets.projects.project.add;Projekt %{resource_name} deiner Stimme hinzufügen
+;de;decidim.budgets.projects.project.remove;Projekt %{resource_name} aus deiner Abstimmung entfernen.
+;de;decidim.budgets.projects.project.you_voted;Du hast dafür gestimmt
+87046;de;decidim.budgets.projects.project_budget_button.add_descriptive;Projekt %{resource_name} deiner Stimme hinzufügen
+;de;decidim.budgets.projects.project_budget_button.added_descriptive;Project %{resource_name} zu deiner Abstimmung hinzugefügt.
+;de;decidim.budgets.vote_reminder_mailer.vote_reminder.email_intro;Du hast deine begonnene Abstimmung zur Verteilung des partizipativen Budgets noch nicht abgeschlossen.
+;de;decidim.budgets.vote_reminder_mailer.vote_reminder.email_outro;"Denken du daran, die Abstimmung vollständig abzuschließen. Wählen du dazu den gewünschten Vorschlag oder die gewünschten Vorschläge aus, denen du deine Stimme geben möchten. Bestätigen du anschliessend deine Auswahl, indem du auf ""Abstimmen"" klicken."
+;de;decidim.budgets.vote_reminder_mailer.vote_reminder.email_subject;Du hast deine Abstimmung bei der Verteilung des partizipativen Budgets noch nicht abgeschlossen
+87919;de;decidim.orders.checkout.error;Während der Bearbeitung deiner Abstimmung ist ein Fehler aufgetreten
+;de;decidim.orders.checkout.success_html;"<p>deine Stimme wurde erfolgreich angenommen.</p> <p class=""text-sm font-normal"">Du kannst die <a class=""text-secondary underline"" href=""%{rest_of_budgets_link}"">restlichen Budgets</a> erkunden.</p>"
+;de;decidim.orders.checkout.success_no_left_budgets_html;deine Stimme wurde erfolgreich abgegeben.
+;de;decidim.orders.destroy.error;Beim Löschen deiner Stimme ist ein Problem aufgetreten.
+87920;de;decidim.orders.destroy.success;Deine Abstimmung wurde erfolgreich abgebrochen

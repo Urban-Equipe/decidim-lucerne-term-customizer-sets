@@ -1,0 +1,163 @@
+id;locale;key;value
+86800;de;activemodel.attributes.assembly.area_id;Gebiet
+86801;de;activemodel.attributes.assembly.assembly_type;Organisationsart
+86802;de;activemodel.attributes.assembly.assembly_type_other;Andere Organisationsart
+86803;de;activemodel.attributes.assembly.banner_image;Banner-Bild (wird je nach Gerät in einem anderen Format angezeigt, daher besser ein Foto als ein Logo).
+86804;de;activemodel.attributes.assembly.closing_date;(Leer lassen)
+86805;de;activemodel.attributes.assembly.closing_date_reason;Grund für Auflösung (leer lassen)
+86806;de;activemodel.attributes.assembly.composition;Öffnungszeiten / Trainingszeiten
+86807;de;activemodel.attributes.assembly.decidim_area_id;Gebiet
+86808;de;activemodel.attributes.assembly.decidim_assemblies_type_id;Organisationsart
+86809;de;activemodel.attributes.assembly.decidim_scope_id;Thema
+86810;de;activemodel.attributes.assembly.developer_group;Kontaktperson
+86811;de;activemodel.attributes.assembly.duration;Enddatum
+86812;de;activemodel.attributes.assembly.github;Webseite
+86813;de;activemodel.attributes.assembly.hashtag;Hashtag (führt auf Twitter)
+86814;de;activemodel.attributes.assembly.hero_image;Hauptbild (kommt in der Organisationübersicht in die Kachel)
+86650;de;activemodel.attributes.assembly.included_at;Zu Dialog Luzern hinzugefügt am
+86815;de;activemodel.attributes.assembly.internal_organisation;Adresse
+86816;de;activemodel.attributes.assembly.is_transparent;Falls der Zugang begrenzt wurde: wir möchten dennoch auf der Übersicht erscheinen
+88280;de;activemodel.attributes.assembly.local_area;Kontaktaufnahme via
+88285;de;activemodel.attributes.assembly.meta_scope;Stichworte
+86792;de;activemodel.attributes.assembly.parent_id;Übergeordnete Organisation
+86793;de;activemodel.attributes.assembly.participatory_processes_ids;Ähnliche Projekte (mit CTRL+Klick wieder abwählen)
+88291;de;activemodel.attributes.assembly.participatory_scope;Mitgliederbeitrag
+88297;de;activemodel.attributes.assembly.participatory_structure;Website
+86819;de;activemodel.attributes.assembly.private_space;Zugang zu allen Inhalten nur auf persönliche Einladung aktivieren (nur nach Beratung empfohlen)
+86820;de;activemodel.attributes.assembly.promoted;Hervorheben (nicht auswählen)
+86821;de;activemodel.attributes.assembly.purpose_of_action;Mitgliedschaft
+86822;de;activemodel.attributes.assembly.scope_id;Thema
+86823;de;activemodel.attributes.assembly.scopes_enabled;Ich möchte mein Projekt einem Thema zuordnen
+86824;de;activemodel.attributes.assembly.short_description;Einleitung / Lead (grösser und fetter als Beschreibung)
+86825;de;activemodel.attributes.assembly.slug;URL-Block (ein Wort, das im Link zu stehen kommen soll).
+86826;de;activemodel.attributes.assembly.subtitle;Untertitel / Slogan
+88303;de;activemodel.attributes.assembly.target;Wer darf mitmachen?
+86828;de;activemodel.attributes.assembly.title;Name der Organisation
+86829;de;activemodel.attributes.assembly.weight;Gewicht (0 stehen lassen)
+83182;de;activerecord.models.decidim/assembly.one;Organisation
+83172;de;activerecord.models.decidim/assembly.other;Organisationen
+83173;de;activerecord.models.decidim/assembly_member.one;Organisationsmitglied
+83183;de;activerecord.models.decidim/assembly_member.other;Organisationsmitglieder
+86672;de;decidim.admin.actions.new_assembly;Neue Organisation
+83174;de;decidim.admin.actions.new_assembly_member;Neues Organisationsmitglied
+83163;de;decidim.admin.actions.new_assembly_type;Neuer Typ von Organisation
+83162;de;decidim.admin.actions.new_assembly_user_role;Neuer Organisations-Admin
+83167;de;decidim.admin.assemblies.create.error;Beim Erstellen einer neuen Organisation ist ein Fehler aufgetreten.
+86693;de;decidim.admin.assemblies.create.success;Die Organisation wurde erfolgreich erstellt.
+86694;de;decidim.admin.assemblies.index.public;Privatpersonen
+86695;de;decidim.admin.assemblies.new.title;Neue Organisation
+83170;de;decidim.admin.assemblies.update.error;Beim Aktualisieren dieser Organisation ist ein Fehler aufgetreten.
+86696;de;decidim.admin.assemblies.update.success;Die Organisation wurde erfolgreich aktualisiert.
+83171;de;decidim.admin.assemblies_copies.create.error;Beim Duplizieren dieser Organisation ist ein Fehler aufgetreten.
+86698;de;decidim.admin.assemblies_copies.create.success;Die Organisation wurde erfolgreich dupliziert.
+86699;de;decidim.admin.assembly_copies.new.select;Wähle die Daten aus, die du duplizieren möchtest
+86700;de;decidim.admin.assembly_copies.new.title;Kopierte Organisationen
+86701;de;decidim.admin.assembly_imports.new.select;Wähle aus, welche Daten du importieren möchtest
+86702;de;decidim.admin.assembly_members.edit.title;Aktualisiere die Organisations-Vorstand.
+86703;de;decidim.admin.assembly_members.index.assembly_members_title;Vorstand
+86704;de;decidim.admin.assembly_members.new.title;Neues Organisationsmitglied.
+86705;de;decidim.admin.assembly_publications.destroy.error;Beim Aufheben der Veröffentlichung dieser Organisation ist ein Fehler aufgetreten.
+86706;de;decidim.admin.assembly_publications.destroy.success;Die Organisation wurde nicht veröffentlicht.
+86848;de;decidim.admin.assembly_user_roles.create.error;Beim Hinzufügen eines Benutzers für diese Organisation ist ein Fehler aufgetreten.
+86849;de;decidim.admin.assembly_user_roles.create.success;Der Administrator wurde dieser Organisation erfolgreich hinzugefügt.
+86850;de;decidim.admin.assembly_user_roles.destroy.success;Benutzer/in wurde erfolgreich von dieser Organisation entfernt.
+86851;de;decidim.admin.assembly_user_roles.edit.title;Aktualisiere das Organisationsmitglied
+86852;de;decidim.admin.assembly_user_roles.index.assembly_admins_title;Organisations-Admins
+86853;de;decidim.admin.assembly_user_roles.new.title;Neuer Organisations-Admin
+86854;de;decidim.admin.assembly_user_roles.update.error;Beim aktualisieren der Benutzerrolle ist ein Fehler aufgetreten.
+86855;de;decidim.admin.assembly_user_roles.update.success;Der Benutzer oder die Benutzerin wurde für diese Organisation erfolgreich aktualisiert.
+86648;de;decidim.admin.menu.assemblies;Organisationen
+86883;de;decidim.admin.menu.assemblies_submenu.assembly_admins;Organisations-Admins
+86884;de;decidim.admin.menu.assemblies_submenu.assembly_members;Vorstand
+86885;de;decidim.admin.menu.assemblies_submenu.info;Organisations-Startseite
+86886;de;decidim.admin.menu.assemblies_submenu.moderations;Als störend gemeldete Inhalte
+86887;de;decidim.admin.menu.assemblies_submenu.private_users;Ausgewählte User (falls es eine geschlossene Gruppe ist)
+83165;de;decidim.admin.menu.assemblies_submenu.see_assembly;Organisation ansehen
+86888;de;decidim.admin.menu.assemblies_types;Organisationstypen
+83166;de;decidim.admin.models.assembly.name;Organisation
+86904;de;decidim.admin.models.assembly_member.name;Vorstands-Mitglied
+86905;de;decidim.admin.models.assembly_member.positions.president;Präsident/in
+86906;de;decidim.admin.models.assembly_member.positions.secretary;Sekretär/in
+86907;de;decidim.admin.models.assembly_member.positions.vice_president;Vizepräsident/in
+86908;de;decidim.admin.models.assembly_user_role.name;Organisations-Admin
+86967;de;decidim.admin.titles.assemblies;Organisationen
+86968;de;decidim.admin.titles.assemblies_types;Organisationstypen
+86739;de;decidim.admin_log.assembly.create;%{user_name} erstellt die %{resource_name} Organisation
+86740;de;decidim.admin_log.assembly.publish;%{user_name} veröffentlichte die Organisation %{resource_name}
+86741;de;decidim.admin_log.assembly.unpublish;%{user_name} unveröffentlicht die %{resource_name} Organisation
+86742;de;decidim.admin_log.assembly.update;%{user_name} aktualisierte die %{resource_name} Organisation
+86743;de;decidim.admin_log.assembly_member.create;%{user_name} erstellt das %{resource_name} Mitglied in der %{space_name} Organisation
+86744;de;decidim.admin_log.assembly_member.update;%{user_name} hat das %{resource_name} Mitglied in der %{space_name} Organisation aktualisiert
+86745;de;decidim.admin_log.assembly_setting.update;%{user_name} aktualisierte die Organisationseinstellungen
+86746;de;decidim.admin_log.assembly_type.create;%{user_name} erstellte den Organisationstyp %{resource_name}
+86747;de;decidim.admin_log.assembly_type.delete;%{user_name} entfernte das Mitglied %{resource_name} aus dem Organisationstyp %{space_name}
+86748;de;decidim.admin_log.assembly_type.publish;%{user_name} veröffentlichte den Organisationstyp %{resource_name}
+86749;de;decidim.admin_log.assembly_type.unpublish;%{user_name} unveröffentlichte den Organisationstyp %{resource_name}
+86750;de;decidim.admin_log.assembly_type.update;%{user_name} aktualisierte den Organisationstyp %{resource_name}
+86751;de;decidim.admin_log.assembly_user_role.create;%{user_name} lud %{resource_name} zur %{space_name} Organisation ein
+86752;de;decidim.admin_log.assembly_user_role.delete;%{user_name} entfernte den Benutzer oder die Benutzerin %{resource_name} von der %{space_name} Organisation
+86753;de;decidim.admin_log.assembly_user_role.update;%{user_name} hat die Rolle von %{resource_name} in der %{space_name} Organisation geändert
+86980;de;decidim.assemblies.admin.assemblies.form.announcement_help;"Hier kannst du eine Ankündigung schreiben. Diese dient dazu, auf aktuell wichtige Informationen hinzuweisen. Zum Beispiel ""wir machen bis am 15.08. Sommerpause"" oder ""aktuell nehmen wir keine neuen Mitglieder auf""."
+86981;de;decidim.assemblies.admin.assemblies.form.duration;Enddatum (falls Auflösung geplant)
+86982;de;decidim.assemblies.admin.assemblies.form.duration_help;Wenn das Bestehen dieser Organisation zeitlich begrenzt ist, wähle das Enddatum aus.
+86983;de;decidim.assemblies.admin.assemblies.form.included_at_help;Wähle das Datum aus, an dem diese Organisation zu Dialog Luzern hinzugefügt wurde.
+86984;de;decidim.assemblies.admin.assemblies.form.metadata;Kurzzusammenfassung (wird rechts in Kasten angezeigt)
+86985;de;decidim.assemblies.admin.assemblies.form.other;Weiteres
+86986;de;decidim.assemblies.admin.assemblies.form.select_a_created_by;Wer hat die Organisation gegründet?
+86987;de;decidim.assemblies.admin.assemblies.form.select_an_area;Wähle ein Gebiet
+86988;de;decidim.assemblies.admin.assemblies.form.select_an_assembly_type;Wähle einen Organisationstyp
+86989;de;decidim.assemblies.admin.assemblies.form.select_parent_assembly;Wähle (falls vorhanden) eine übergeordnete Organiation aus.
+86990;de;decidim.assemblies.admin.assemblies.form.social_handlers;Social Media Profile
+;de;decidim.assemblies.admin.assembly_members.form.non_user_avatar_help;Du solltest die Zustimmung der Personen einholen, bevor du sie als Mitglied veröffentlichen.
+86991;de;decidim.assemblies.admin.assembly_members.form.select_a_position;Wähle eine Position
+86992;de;decidim.assemblies.admin.assembly_members.form.select_user;Wähle eine/n Benutzer/in aus
+83196;de;decidim.assemblies.assemblies.description.data;Organisationsdaten
+88309;de;decidim.assemblies.assemblies.description.developer_group;Kontaktperson
+88282;de;decidim.assemblies.assemblies.description.local_area;Kontaktaufnahme via
+88288;de;decidim.assemblies.assemblies.description.meta_scope;Stichworte
+88294;de;decidim.assemblies.assemblies.description.participatory_scope;Mitgliederbeitrag
+88300;de;decidim.assemblies.assemblies.description.participatory_structure;Website
+88306;de;decidim.assemblies.assemblies.description.target;Wer nimmt teil
+83211;de;decidim.assemblies.assemblies.description.title;Über uns
+83212;de;decidim.assemblies.assemblies.show.title;Über uns
+86993;de;decidim.assemblies.assembly_members.index.members;Vorstand
+83194;de;decidim.assemblies.content_blocks.children_assemblies.name;Organisationen
+86994;de;decidim.assemblies.content_blocks.highlighted_assemblies.name;Hervorgehobene Organisation
+83197;de;decidim.assemblies.content_blocks.related_assemblies.name;Ähnliche Organisationen
+86995;de;decidim.assemblies.created_by.city_council;Verwaltung / Behörden
+86996;de;decidim.assemblies.filter.help;Art der Organisation:
+86997;de;decidim.assemblies.index.title;Organisationen
+86998;de;decidim.assemblies.last_activity.new_assembly;Neue Organisation
+83199;de;decidim.assemblies.pages.home.highlighted_assemblies.active_spaces;Aktive Organisationen
+83200;de;decidim.assemblies.pages.home.highlighted_assemblies.see_all_spaces;Alle Organisationen anzeigen
+86999;de;decidim.assemblies.show.assembly_type;Organisationsart
+87000;de;decidim.assemblies.show.duration;Enddatum
+87001;de;decidim.assemblies.show.private_space;Dies ist eine private Organisation
+86780;de;decidim.assemblies.show.social_networks_title;Diese Organisation auf teilen
+86781;de;decidim.assembly_members.index.title;Vorstand
+87252;de;decidim.events.assemblies.create_assembly_member.email_intro;"Ein Administrator der Organisation <a href=""%{resource_url}"">%{resource_name}</a> hat dich als Mitglied eingeladen."
+87253;de;decidim.events.assemblies.create_assembly_member.email_outro;"Du hast diese Benachrichtigung erhalten, weil du zu einer Organisation eingeladen wurdest. Gehe zur <a href=""%{resource_path}"">Organisationsseite</a>, um mitzuwirken!"
+87254;de;decidim.events.assemblies.create_assembly_member.email_subject;Du wurdest als Mitglied der Organisation %{resource_name} eingeladen!
+87255;de;decidim.events.assemblies.create_assembly_member.notification_title;"Du wurdest als Mitglied der Organisation <a href=""%{resource_path}"">%{resource_name}</a> registriert. Gehe zur <a href=""%{resource_path}"">Organisationsseite</a>, um mitzuwirken!"
+87256;de;decidim.events.assembly.role_assigned.email_intro;Du wurdest als %{role} für die Organisation „%{resource_title}“ ausgewählt.
+87257;de;decidim.events.assembly.role_assigned.email_outro;Du hast diese Benachrichtigung erhalten, weil du ein %{role} der Organisation „%{resource_title}“ bist.
+87258;de;decidim.events.assembly.role_assigned.email_subject;Du wurdest als %{role} für „%{resource_title}“ ausgewählt.
+87259;de;decidim.events.assembly.role_assigned.notification_title;"Du wurdest als %{role} für die Organisation <a href=""%{resource_url}"">%{resource_title}</a> ausgewählt."
+87608;de;decidim.help.participatory_spaces.assemblies.contextual;<p>Eine Organisation ist eine Gruppe von Mitgliedern, die sich regelmässig treffen, um Entscheidungen über einen bestimmten Bereich oder ein bestimmtes Thema zu treffen.</p> <p>Organisationen halten Veranstaltungen ab, einige sind privat und andere sind offen. Wenn sie offen sind, ist es möglich, an ihnen teilzunehmen.</p> <p>Beispiele: Eine Generalversammlung (die einmal im Jahr zusammentritt, um die wichtigsten Aktionslinien der Organisation sowie deine Exekutivorgane per Abstimmung festzulegen), ein Gleichstellungsbeirat (der alle zwei Monate zusammentritt, um Vorschläge zur Verbesserung der Geschlechterbeziehungen vorzulegen oder eine Garantieeinrichtung (die Vorfälle, Missbräuche oder Vorschläge zur Verbesserung der Entscheidungsverfahren sammelt) sind Beispiele für Organisationen.</p>
+87614;de;decidim.help.participatory_spaces.assemblies.page;<p>Eine Organisation ist eine Gruppe von Mitgliedern, die sich regelmässig treffen, um Entscheidungen über einen bestimmten Bereich oder ein bestimmtes Thema zu treffen.</p> <p>Organisationen halten Veranstaltungen ab, einige sind privat und andere sind offen. Wenn sie offen sind, ist es möglich, an ihnen teilzunehmen.</p> <p>Beispiele: Eine Generalversammlung (die einmal im Jahr zusammentritt, um die wichtigsten Aktionslinien der Organisation sowie deine Exekutivorgane per Abstimmung festzulegen), ein Gleichstellungsbeirat (der alle zwei Monate zusammentritt, um Vorschläge zur Verbesserung der Geschlechterbeziehungen vorzulegen oder eine Garantieeinrichtung (die Vorfälle, Missbräuche oder Vorschläge zur Verbesserung der Entscheidungsverfahren sammelt) sind Beispiele für Organisationen.</p>
+87615;de;decidim.help.participatory_spaces.assemblies.title;Was sind Organisationen?
+87764;de;decidim.log.value_types.assembly_presenter.not_found;Die Organisation wurde nicht in der Datenbank gefunden (ID: %{id})
+87765;de;decidim.log.value_types.assembly_type_presenter.not_found;Der Organisationstyp wurde nicht in der Datenbank gefunden (ID: %{id})
+83184;de;decidim.menu.assemblies;Organisationen
+87898;de;decidim.metrics.assemblies.description;Anzahl der erstellten Organisationen
+87899;de;decidim.metrics.assemblies.object;Organisationen
+87900;de;decidim.metrics.assemblies.title;Organisationen
+87942;de;decidim.participatory_processes.show.related_assemblies;Dazugehörige Organisationen
+83193;de;decidim.statistics.assemblies_count;Organisationen
+88251;de;layouts.decidim.assemblies.assembly.take_part;Mehr Informationen
+88252;de;layouts.decidim.assemblies.index.promoted_assemblies;Hervorgehobene Organisationen
+83208;de;layouts.decidim.assemblies.metadata.children_item.one;%{count} Organisation
+83205;de;layouts.decidim.assemblies.metadata.children_item.other;%{count} Organisationen
+83206;de;layouts.decidim.assemblies.order_by_assemblies.assemblies.one;%{count} Organisation
+83207;de;layouts.decidim.assemblies.order_by_assemblies.assemblies.other;%{count} Organisationen
+88275;de;layouts.decidim.assembly_navigation.assembly_member_menu_item;Vorstand

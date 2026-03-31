@@ -1,0 +1,212 @@
+id;locale;key;value
+86798;de;activemodel.attributes.account.delete_reason;Grund, dein Konto zu löschen
+86846;de;activemodel.attributes.confirmation.verification_code;Verifizierungscode
+86847;de;activemodel.attributes.id_document_upload.document_type;Art deines Dokuments
+86580;de;activemodel.attributes.id_document_upload.verification_attachment;Gescannte Kopie deines Dokuments
+86602;de;activemodel.attributes.mobile_phone.mobile_phone_number;Trage hier deine Handynummer ein (Format 07x xxx xx xx)
+;de;activemodel.attributes.user.email;Deine E-Mail
+76542;de;activemodel.attributes.user.name;Mein Name (wird in Beiträgen öffentlich angezeigt)
+76541;de;activemodel.attributes.user.nickname;Kürzel
+;de;activemodel.attributes.user.password_confirmation;Bestätigen du dein Passwort
+;de;activemodel.errors.models.organization.attributes.password.secret_key;Du musst die SECRET_KEY_BASE Umgebungsvariable definieren, um dieses Feld speichern zu können
+;de;decidim.account.delete.alert;Diese Aktion kann nicht rückgängig gemacht werden. Wenn du dein Konto löschen, können du sich nicht mehr anmelden. Mit der Löschung ihres Kontos werden deine Beiträge anonymisiert. Du kannst später wieder ein neues Konto erstellen, aber diese Beiträge werden nicht mehr mit dem neuen Konto verknüpft sein.
+;de;decidim.account.delete.confirm.question;Sind du sicher, dass du dein Konto löschen möchten?
+;de;decidim.account.delete.explanation;Bitte geben du den Grund an, warum du dein Konto löschen möchten (optional).
+;de;decidim.account.delete.leaving_authorizations_behind;Einige Daten, die an deine Autorisierung gebunden sind, werden aus Sicherheitsgründen gespeichert. Wenn du ein anderes Konto erstellen und erneut autorisieren, werden diese Daten auf dein neues Konto wiederhergestellt.
+86660;de;decidim.account.destroy.error;Beim Löschen deines Kontos ist ein Fehler aufgetreten.
+86659;de;decidim.account.destroy.success;Dein Konto wurde erfolgreich gelöscht.
+;de;decidim.account.download_your_data_export.notice;deine Daten werden gerade bereitgestellt. Du erhältst nach Fertigstellung eine E-Mail.
+;de;decidim.account.email_change.body1;Wir haben eine E-Mail an %{unconfirmed_email} gesendet, um deine neue E-Mail-Adresse zu verifizieren.
+86661;de;decidim.account.show.available_locales_helper;Wähle die Sprache aus, die du verwenden möchtest, um in Decidim zu surfen und Benachrichtigungen zu erhalten
+86662;de;decidim.account.update.error;Beim Aktualisieren deines Kontos ist ein Fehler aufgetreten.
+86663;de;decidim.account.update.success;Dein Konto wurde erfolgreich aktualisiert.
+86664;de;decidim.account.update.success_with_email_confirmation;Dein Konto wurde erfolgreich aktualisiert. Du erhältst eine E-Mail zur Bestätigung deiner neuen E-Mail-Adresse.
+;de;decidim.admin.password_change.alert;Du musst dein Passwort ändern, um fortzufahren.
+;de;decidim.authorization_handlers.admin.sms.help.1;Du musst den Code angeben, um verifiziert zu werden.
+86782;de;decidim.authorization_handlers.another_dummy_authorization_handler.explanation;"Lasse dich verifizieren, indem du eine Reisepassnummer eingibst, die mit ""A"" beginnt"
+86783;de;decidim.authorization_handlers.csv_census.explanation;Lasse dich anhand der Volkszählung der Organisation überprüfen
+86759;de;decidim.authorization_handlers.csv_census.name;Zensus der Organisation
+86784;de;decidim.authorization_handlers.dummy_authorization_handler.explanation;"Lasse dich verifizieren, indem du eine Dokumentennummer eingibst, die mit ""X"" endet"
+86785;de;decidim.authorization_handlers.dummy_authorization_handler.fields.allowed_scope_id;Erlaubtes Thema
+86786;de;decidim.authorization_handlers.dummy_authorization_handler.fields.scope_id;Thema
+86787;de;decidim.authorization_handlers.errors.duplicate_authorization;Ein Teilnehmer mit den gleichen Daten ist bereits autorisiert. Ein Administrator wird dich kontaktieren, um eine Daten zu überprüfen.
+86790;de;decidim.authorization_handlers.id_documents.explanation;Lade deine Identitätsdokumente hoch, damit wir deine Identität überprüfen können
+86791;de;decidim.authorization_handlers.postal_letter.explanation;Wir senden dir einen Brief mit einem Code, den du eingeben must, damit wir deine Adresse bestätigen können
+86794;de;decidim.authorization_handlers.sms.explanation;Wir schicken dir einen Code auf dein Handy. Deine Nummer wird dabei nirgends gespeichert!
+86795;de;decidim.authorization_modals.content.expired.explanation;"Deine Autorisierung ist abgelaufen. Um diese Aktion auszuführen, must du mit ""%{authorization}"" erneut autorisiert werden."
+86796;de;decidim.authorization_modals.content.incomplete.cancel;Abbrechen
+86797;de;decidim.authorization_modals.content.incomplete.explanation;"Obwohl du derzeit mit ""%{authorization}"" autorisiert bist, must du erneut autorisieren, da uns folgende Daten fehlen:"
+86977;de;decidim.authorization_modals.content.missing.explanation;"Um diese Aktion durchzuführen, must du mit ""%{authorization}"" autorisiert sein."
+86978;de;decidim.authorization_modals.content.missing.title;U
+;de;decidim.authorization_modals.content.ok.title;Du wurdest autorisiert, während du auf dieser Seite warst. Bitte lade die Seite neu, um deine Aktion ausführen zu können.
+87002;de;decidim.authorization_modals.content.pending.explanation;"Um diese Aktion auszuführen, must du mit ""%{authorization}"" autorisiert sein, aber deine Autorisierung ist noch in Bearbeitung"
+87003;de;decidim.authorization_modals.content.pending.resume;"Überprüfe deinen Autorisierungsfortschritt ""%{authorization}"""
+87004;de;decidim.authorization_modals.content.unauthorized.explanation;Leider kannst du diese Aktion nicht ausführen, da einige deiner Autorisierungsdaten nicht übereinstimmen.
+87005;de;decidim.authorization_modals.content.unauthorized.ok;Ok
+87006;de;decidim.authorization_modals.content.unconfirmed.confirmation_instructions;Erneute Anweisungen zum Entsperren senden:
+87007;de;decidim.authorization_modals.content.unconfirmed.explanation_html;Um diese Aktion auszuführen, musst du autorisiert sein, dazu musst du deine E-Mail bestätigen <strong>%{email}</strong>.
+;de;decidim.devise.omniauth_registrations.new.nickname_help;dein Pseudonym in %{organization}. Kann nur Buchstaben, Zahlen, '-' und '_' enthalten.
+87207;de;decidim.devise.omniauth_registrations.new.sign_up;Bitte vervollständige dein Profil
+87208;de;decidim.devise.omniauth_registrations.new.subtitle;Bitte fülle das folgende Formular aus, um die Anmeldung abzuschliessen
+87209;de;decidim.devise.omniauth_registrations.new.username_help;Öffentlich sichtbarer Name, der in deinen Beiträgen angezeigt wird. Wenn du lieber anonym bleibst, kannst du auch einen Namen erfinden.
+;de;decidim.devise.registrations.create.error;Es gab ein Problem bei der Erstellung deines Kontos.
+87210;de;decidim.devise.registrations.new.subtitle;Registriere dich, um an Diskussionen teilzunehmen und Vorschläge zu unterstützen.
+87211;de;decidim.devise.registrations.new.terms;Nutzungsbedingungen
+87212;de;decidim.devise.registrations.new.username_help;Öffentlich sichtbarer Name, der in deinen Beiträgen angezeigt wird. Wenn du lieber anonym bleibst, kannst du auch einen Namen erfinden.
+87213;de;decidim.devise.sessions.new.sign_in_disabled;Du kannst mit einem externen Konto darauf zugreifen
+87214;de;decidim.devise.sessions.new.sign_up_disabled;Die Anmeldung ist deaktiviert. Du kannst einen vorhandenen Account für den Zugriff verwenden
+87215;de;decidim.devise.sessions.user.timed_out;Du warst zu lange inaktiv und wurdest automatisch abgemeldet. Wenn du den Dienst weiterhin nutzen möchtest, melde dich bitte erneut an.
+86475;de;decidim.devise.shared.newsletter_modal.buttons.check;Newsletter erhalten
+87216;de;decidim.devise.shared.newsletter_modal.buttons.uncheck;Deaktiviere das Kontrollkästchen
+86477;de;decidim.devise.shared.newsletter_modal.notice;"<p>Grüezi!</p>
+ <p>Bist du sicher, dass du keine Newsletter erhalten möchtest? Wenn du das Kästchen nicht ankreuzt, könntest du wichtige Informationen über Mitwirkungsmöglichkeiten auf der Plattform verpassen. Du kannst die Einstellungen für den Newsletter jederzeit ändern.</p>"
+86479;de;decidim.devise.shared.newsletter_modal.title;Erhalt von Newslettern
+;de;decidim.devise.shared.password_fields.hidden_password;dein Passwort ist versteckt
+;de;decidim.devise.shared.password_fields.shown_password;dein Passwort wird angezeigt
+87217;de;decidim.doorkeeper.authorizations.new.connect_your_account_html;Verbinde dein Konto, indem du dich bei <strong>%{organization}</strong> anmeldest
+87218;de;decidim.doorkeeper.authorizations.new.publish_content;Inhalte für dich veröffentlichen
+87133;de;decidim.doorkeeper.authorizations.new.see_email;Deine E-Mail anzeigen
+87188;de;decidim.doorkeeper.authorizations.new.see_name;Deinen Namen anzeigen
+87189;de;decidim.doorkeeper.authorizations.new.see_username;Deinen Benutzernamen anzeigen
+87219;de;decidim.doorkeeper.authorizations.new.wants_to_use_your_account_html;<strong>%{application_name}</strong> möchte dein Konto verwenden
+;de;decidim.system.devise.shared.links.forgot_your_password?;Haben du dein Passwort vergessen?
+88116;de;decidim.verifications.authorizations.create.success;Du wurdest erfolgreich autorisiert.
+;de;decidim.verifications.authorizations.create.transferred;Wir haben die folgenden Mitwirkungsdaten basierend auf deiner Autorisierung wiederhergestellt:
+88117;de;decidim.verifications.authorizations.create.unconfirmed;Du musst deine E-Mail bestätigen, um sich zu autorisieren.
+88118;de;decidim.verifications.authorizations.destroy.success;Du hast die Berechtigung erfolgreich gelöscht.
+88121;de;decidim.verifications.authorizations.first_login.actions.another_dummy_authorization_handler;Überprüfe anhand eines anderen Beispiels des Autorisierungshandlers
+88122;de;decidim.verifications.authorizations.first_login.actions.csv_census;Vergewissere dich anhand der Volkszählung der Organisation
+88123;de;decidim.verifications.authorizations.first_login.actions.dummy_authorization_handler;Überprüfe anhand des Beispielautorisierungshandlers
+88124;de;decidim.verifications.authorizations.first_login.actions.dummy_authorization_workflow;Überprüfe anhand des beispielhaften Autorisierungsworkflows
+88125;de;decidim.verifications.authorizations.first_login.actions.id_documents;Bestätige, indem du dein Identitätsdokument hochlädst
+88126;de;decidim.verifications.authorizations.first_login.actions.postal_letter;Bestätige, indem du einen Bestätigungscode per Post erhälst
+88127;de;decidim.verifications.authorizations.first_login.actions.sms;Lasse dich über einen Bestätigungscode per SMS verifizieren
+88128;de;decidim.verifications.authorizations.first_login.title;Bestätige deine Identität
+88129;de;decidim.verifications.authorizations.first_login.verify_with_these_options;Mit diesen Optionen kannst du deine Identität überprüfen:
+88130;de;decidim.verifications.authorizations.new.authorize_with;Bestätige mit %{authorizer}
+88131;de;decidim.verifications.authorizations.renew_modal.cancel;Abbrechen
+88132;de;decidim.verifications.authorizations.renew_modal.info_renew;Fahre mit der Erneuerung fort, wenn du die Daten aktualisieren möchtest
+88133;de;decidim.verifications.authorizations.skip_verification;Du kannst dies für jetzt und %{link}überspringen
+88134;de;decidim.verifications.csv_census.admin.census.create.error;Beim Import der Volkszählung ist ein Fehler aufgetreten.
+88135;de;decidim.verifications.csv_census.admin.census.create.success;Erfolgreich importiert %{count} Artikel (%{errors} Fehler)
+88136;de;decidim.verifications.csv_census.admin.census.destroy_all.success;Alle Volkszählungsdaten wurden gelöscht
+88137;de;decidim.verifications.csv_census.admin.destroy.confirm;Alles löschen Die Zählung kann nicht rückgängig gemacht werden. Bist du sicher, dass du fortfahren möchtest?
+88138;de;decidim.verifications.csv_census.admin.destroy.title;Lösche alle Volkszählungsdaten
+88139;de;decidim.verifications.csv_census.admin.index.data;Insgesamt wurden %{count} Datensätze geladen. Das letzte Upload-Datum war am %{due_date}
+88140;de;decidim.verifications.csv_census.admin.index.empty;Es gibt keine Zensusdaten. Verwende das folgende Formular, um es mit einer CSV-Datei zu importieren.
+88141;de;decidim.verifications.csv_census.admin.index.title;Aktuelle Volkszählungsdaten
+88142;de;decidim.verifications.csv_census.admin.instructions.body;Dazu must du die Systemverwaltung eingeben und der Organisation die csv_census-Berechtigungen hinzufügen
+88143;de;decidim.verifications.csv_census.admin.instructions.title;Du musst die csv-Zählung für diese Organisation aktivieren
+88144;de;decidim.verifications.csv_census.admin.new.info;Muss eine Datei im CSV-Format sein, mit nur einer Spalte der E-Mail-Adresse:
+88145;de;decidim.verifications.csv_census.admin.new.title;Lade eine neue Volkszählung hoch
+88146;de;decidim.verifications.csv_census.authorizations.new.error;Wir konnten dein Konto nicht bestätigen oder du befindest dich nicht in der Liste der Organisation.
+88147;de;decidim.verifications.csv_census.authorizations.new.success;Dein Konto wurde erfolgreich verifiziert.
+88148;de;decidim.verifications.dummy_authorization.extra_explanation.scope;Die Teilnahme ist auf Benutzer/innnen mit dem Umgang %{scope_name} begrenzt.
+;de;decidim.verifications.dummy_authorization.extra_explanation.user_postal_codes;Die Teilnahme ist auf Teilnehmer mit einer der folgenden Postleitzahlen beschränkt: %{postal_codes}. deine Postleitzahl ist %{user_postal_code}.
+;de;decidim.verifications.dummy_authorization.extra_explanation.user_scope;Die Teilnahme ist auf Teilnehmer aus dem Bereich %{scope_name} beschränkt, und dein Bereich ist %{user_scope_name}.
+88149;de;decidim.verifications.id_documents.admin.config.update.success;Konfiguration erfolgreich aktualisiert
+88150;de;decidim.verifications.id_documents.admin.confirmations.create.error;Überprüfung stimmt nicht überein. Versuche es erneut oder lehne die Überprüfung ab, damit der Benutzer oder die Benutzerin dies ändern kann
+88151;de;decidim.verifications.id_documents.admin.confirmations.create.success;Benutzer/in erfolgreich verifiziert
+88152;de;decidim.verifications.id_documents.admin.confirmations.new.introduce_user_data;Stelle die Daten in das Bild ein
+88153;de;decidim.verifications.id_documents.admin.offline_confirmations.create.error;Die Überprüfung stimmt nicht überein. Versuche es erneut oder teile dem Benutzer mit, es zu ändern
+88154;de;decidim.verifications.id_documents.admin.offline_confirmations.create.success;Benutzer/in erfolgreich verifiziert
+88155;de;decidim.verifications.id_documents.admin.offline_confirmations.new.cancel;Abbrechen
+88156;de;decidim.verifications.id_documents.admin.offline_confirmations.new.introduce_user_data;Gib die Benutzer-E-Mail und die Dokumentdaten ein
+88157;de;decidim.verifications.id_documents.admin.rejections.create.success;Überprüfung abgelehnt Benutzer/in wird aufgefordert, deine Dokumente zu ändern
+88158;de;decidim.verifications.id_documents.authorizations.choose.choose_a_type;Bitte wähle aus, wie du verifiziert werden möchtest:
+88159;de;decidim.verifications.id_documents.authorizations.choose.title;Überprüfe sich anhand deines Ausweisdokuments
+88160;de;decidim.verifications.id_documents.authorizations.create.error;Beim Hochladen deines Dokuments ist ein Problem aufgetreten
+88161;de;decidim.verifications.id_documents.authorizations.create.success;Dokument erfolgreich hochgeladen
+88162;de;decidim.verifications.id_documents.authorizations.edit.being_reviewed;Wir überprüfen deine Dokumente. Diese werden in Kürze bestätigt.
+88163;de;decidim.verifications.id_documents.authorizations.edit.rejection_clarity;Stelle sicher, dass die Informationen im hochgeladenen Bild deutlich sichtbar sind
+88164;de;decidim.verifications.id_documents.authorizations.edit.rejection_correctness;Stelle sicher, dass die eingegebenen Informationen korrekt sind
+88165;de;decidim.verifications.id_documents.authorizations.edit.rejection_notice;Bei der Überprüfung ist ein Problem aufgetreten. Bitte versuche es erneut
+88166;de;decidim.verifications.id_documents.authorizations.new.title;Lade dein Identitätsdokument hoch
+88167;de;decidim.verifications.id_documents.authorizations.update.error;Beim erneuten Laden deines Dokuments ist ein Problem aufgetreten
+88168;de;decidim.verifications.id_documents.authorizations.update.success;Das Dokument wurde erfolgreich neu geladen
+88169;de;decidim.verifications.postal_letter.admin.postages.create.error;Fehler beim Markieren des Briefes als gesendet
+88170;de;decidim.verifications.postal_letter.admin.postages.create.success;Brief erfolgreich als gesendet markiert
+88171;de;decidim.verifications.postal_letter.authorizations.create.error;Es gab ein Problem mit deiner Anfrage
+88172;de;decidim.verifications.postal_letter.authorizations.create.success;Vielen Dank! Wir senden einen Bestätigungscode an deine Adresse
+88173;de;decidim.verifications.postal_letter.authorizations.edit.title;Gib den Bestätigungscode ein, den du erhalten hast
+88174;de;decidim.verifications.postal_letter.authorizations.edit.waiting_for_letter;Wir senden Ihnen bald einen Brief mit deinem Bestätigungscode an deine Adresse
+88175;de;decidim.verifications.postal_letter.authorizations.new.title;Fordere deinen Bestätigungscode an
+88176;de;decidim.verifications.postal_letter.authorizations.update.error;Dein Bestätigungscode stimmt nicht mit unserem überein. Bitte überprüfe den Brief, den wir dir geschickt haben
+88177;de;decidim.verifications.postal_letter.authorizations.update.success;Herzliche Glückwünsche. Du wurdest erfolgreich verifiziert
+88178;de;decidim.verifications.sms.authorizations.create.error;Es gab ein Problem mit deiner Anfrage
+88179;de;decidim.verifications.sms.authorizations.create.success;Vielen Dank! Wir haben eine SMS an dein Telefon gesendet.
+88180;de;decidim.verifications.sms.authorizations.destroy.success;Der Bestätigungscode wurde erfolgreich zurückgesetzt. Bitte gib deine Telefonnummer erneut ein.
+88181;de;decidim.verifications.sms.authorizations.edit.confirm_destroy;Möchtest du den Bestätigungscode wirklich zurücksetzen?
+88182;de;decidim.verifications.sms.authorizations.edit.resend;Du hast den Bestätigungscode nicht erhalten?
+88183;de;decidim.verifications.sms.authorizations.edit.title;Gib hier den Bestätigungscode ein, den du erhalten hast
+88184;de;decidim.verifications.sms.authorizations.new.send;Code an mich senden
+88185;de;decidim.verifications.sms.authorizations.new.title;Bestätigungscode anfordern
+88186;de;decidim.verifications.sms.authorizations.update.error;Dein Bestätigungscode stimmt nicht mit unserem überein. Bitte überprüfe die SMS, die wir dir gesendet haben.
+88187;de;decidim.verifications.sms.authorizations.update.success;Herzlichen Glückwünsch. Dein Konto wurde erfolgreich verifiziert.
+;de;devise.confirmations.confirmed;Deine E-Mail-Adresse wurde erfolgreich bestätigt.
+88192;de;devise.confirmations.new.resend_confirmation_instructions;Hast du keine Entsperrungsanweisungen erhalten?
+88193;de;devise.confirmations.send_instructions;Du erhältst eine E-Mail mit Anweisungen zur Bestätigung deiner E-Mail-Adresse in wenigen Minuten.
+88194;de;devise.confirmations.send_paranoid_instructions;Wenn deine E-Mail-Adresse in unserer Datenbank vorhanden ist, erhältst du innerhalb weniger Minuten eine E-Mail mit Anweisungen zur Bestätigung deiner E-Mail-Adresse.
+88195;de;devise.failure.already_authenticated;Du bist bereits angemeldet.
+88196;de;devise.failure.invited;Du hast eine ausstehende Einladung, akzeptiere sie, um die Erstellung deines Kontos abzuschliessen.
+88197;de;devise.failure.last_attempt;Du hast noch einen Versuch, bevor dein Konto gesperrt ist.
+88198;de;devise.failure.timeout;Deine Sitzung ist abgelaufen. Bitte logge dich erneut ein, um fortzufahren.
+88199;de;devise.failure.unauthenticated;Du musst dich anmelden oder registrieren, bevor du fortfahren kannst.
+88200;de;devise.invitations.edit.header;Beende die Erstellung deines Kontos
+88201;de;devise.invitations.edit.nickname_help;Deine eindeutige ID in %{organization}.
+88202;de;devise.invitations.edit.subtitle;Wenn du die Einladung annehmen willst, gib bitte deinen Benutzernamen und dein Passwort ein.
+88203;de;devise.invitations.invitation_removed;Deine Einladung wurde entfernt.
+88204;de;devise.invitations.updated;Dein Passwort wurde erfolgreich vergeben. Du bist jetzt angemeldet.
+88205;de;devise.invitations.updated_not_active;Dein Passwort wurde erfolgreich vergeben.
+88206;de;devise.mailer.confirmation_instructions.action;Bestätige mein Konto
+88207;de;devise.mailer.confirmation_instructions.instruction;Du kannst deine Konto-E-Mail über den folgenden Link bestätigen:
+88208;de;devise.mailer.confirmation_instructions.subject;Open Community Luzern: E-Mail bestätigen
+88209;de;devise.mailer.email_changed.message;Wir setzen uns mit dir in Verbindung, um dich darüber zu informieren, dass deine E-Mail-Adresse auf %{email} geändert wird.
+88210;de;devise.mailer.invitation_instructions.accept;Die Einladung annehmen
+88211;de;devise.mailer.invitation_instructions.accept_until;Diese Einladung wird in %{due_date}fällig.
+88213;de;devise.mailer.invitation_instructions.ignore;"Wenn du die Einladung nicht annehmen möchtest, ignoriere diese E-Mail.<br />
+Dein Konto wird erst erstellt, Wenn du auf den obigen Link zugreifst und deinen Benutzernamen und dein Passwort festlegst."
+88214;de;devise.mailer.invitation_instructions.invited_you_as_admin;%{invited_by} hat dich als Admin von %{application} eingeladen. Du kannst es über den folgenden Link akzeptieren.
+88215;de;devise.mailer.invitation_instructions.invited_you_as_private_user;%{invited_by} hat dich als private/n Benutzer/in von %{application} eingeladen. Du kannst es über den folgenden Link akzeptieren.
+88216;de;devise.mailer.invitation_instructions.someone_invited_you;Jemand hat dich zu %{application} eingeladen. Du kannst es über den folgenden Link akzeptieren.
+88217;de;devise.mailer.invitation_instructions.someone_invited_you_as_admin;Jemand hat dich als Admin von %{application} eingeladen, du kannst es über den untenstehenden Link akzeptieren.
+88218;de;devise.mailer.invitation_instructions.someone_invited_you_as_private_user;Jemand hat dich als private_user von %{application} eingeladen, du kannst es über den folgenden Link akzeptieren.
+88219;de;devise.mailer.invite_admin.subject;Du wurdest eingeladen, %{organization} zu verwalten
+88220;de;devise.mailer.invite_collaborator.subject;Du wurdest eingeladen, an %{organization}
+88221;de;devise.mailer.invite_private_user.subject;Du wurdest zu einem privaten Partizipationsprozess auf %{organization} eingeladen
+88222;de;devise.mailer.join_meeting.subject;Einladung zu einer Veranstaltung
+88223;de;devise.mailer.organization_admin_invitation_instructions.subject;Du wurdest eingeladen, %{organization} zu verwalten
+88224;de;devise.mailer.password_change.message;Wir kontaktieren dich, um dich darüber zu informieren, dass dein Passwort geändert wurde.
+88225;de;devise.mailer.reset_password_instructions.instruction;Jemand hat einen Link angefordert, um dein Passwort zu ändern. Falls du das selbst warst, dann folge diesem Link:
+88226;de;devise.mailer.reset_password_instructions.instruction_2;Falls du das nicht selbst warst, kannst du diese E-Mail ignorieren.
+88227;de;devise.mailer.reset_password_instructions.instruction_3;Dein Passwort ändert sich erst, wenn du auf den obigen Link zugreifst und ein neues Passwort erstellst.
+88228;de;devise.mailer.unlock_instructions.action;Entsperre mein Konto
+88229;de;devise.mailer.unlock_instructions.instruction;Klicke auf den folgenden Link, um dein Konto zu entsperren:
+88230;de;devise.mailer.unlock_instructions.message;Dein Konto wurde aufgrund einer übermässigen Anzahl fehlgeschlagener Anmeldeversuche gesperrt.
+88231;de;devise.omniauth_callbacks.failure;"Du konntest nicht mit deinem %{kind}-Account angemeldet werden. Grund: ""%{reason}""."
+88232;de;devise.omniauth_callbacks.success;Du hast dich erfolgreich mit deinem %{kind}-Account angemeldet.
+;de;devise.passwords.edit.old_password_help;Um die Änderungen an deinem Konto zu bestätigen, geben du bitte dein aktuelles Passwort ein.
+;de;devise.passwords.edit.password_help;Das Passwort muss aus mindestens %{minimum_characters} Zeichen bestehen, darf nicht zu gewöhnlich sein (z. B. 123456) oder deinen Kontonamen bzw. deine E-Mail-Adresse enthalten.
+;de;devise.passwords.edit.password_help_admin;Das Passwort muss aus mindestens %{minimum_characters} Zeichen bestehen, darf nicht zu gewöhnlich sein (z. B. 123456) oder deinen Kontonamen oder deine E-Mail-Adresse enthalten und muss sich von deinen alten Passwörtern unterscheiden.
+;de;devise.passwords.new.forgot_your_password;Haben du dein Passwort vergessen?
+88233;de;devise.passwords.no_token;Du kannst nicht auf diese Seite zugreifen, ohne von einer E-Mail zum Zurücksetzen des Kennworts zu stammen. Wenn du eine E-Mail zum Zurücksetzen des Passworts erhalten hast, vergewissere dich bitte, dass du die vollständige URL verwendet hast.
+;de;devise.passwords.send_instructions;Du erhältst eine E-Mail mit Anweisungen zum Zurücksetzen deines Passworts in wenigen Minuten.
+88234;de;devise.passwords.send_paranoid_instructions;Wenn deine E-Mail-Adresse in unserer Datenbank vorhanden ist, erhältst du innerhalb weniger Minuten einen Link zur Passwortwiederherstellung unter deiner E-Mail-Adresse.
+;de;devise.passwords.updated;dein Passwort wurde erfolgreich geändert. Du bist jetzt angemeldet.
+;de;devise.passwords.updated_not_active;dein Passwort wurde erfolgreich geändert.
+88235;de;devise.registrations.destroyed;Tschüss! Dein Konto wurde erfolgreich gelöscht. Wir hoffen, dich bald wieder zu sehen.
+88236;de;devise.registrations.signed_up;Herzlich willkommen! Du hast dich erfolgreich angemeldet.
+88237;de;devise.registrations.signed_up_but_inactive;Du hast dich erfolgreich angemeldet. Wir konnten dich jedoch nicht anmelden, weil dein Konto noch nicht aktiviert ist.
+88238;de;devise.registrations.signed_up_but_locked;Du hast dich erfolgreich angemeldet. Wir konnten dich jedoch nicht anmelden, weil dein Konto gesperrt ist.
+88239;de;devise.registrations.signed_up_but_unconfirmed;Eine Nachricht mit einem Bestätigungslink wurde an deine E-Mail-Adresse gesendet. Bitte folge dem Link, um dein Konto zu aktivieren.
+88240;de;devise.registrations.update_needs_confirmation;Du hast dein Konto erfolgreich aktualisiert, aber wir müssen deine neue E-Mail-Adresse bestätigen. Bitte überprüfe deine E-Mail und folge dem Bestätigungslink, um deine neue E-Mail-Adresse zu bestätigen.
+88241;de;devise.registrations.updated;Dein Konto wurde erfolgreich aktualisiert.
+88242;de;devise.sessions.already_signed_out;Erfolgreich abgemeldet
+88243;de;devise.sessions.signed_out;Erfolgreich abgemeldet
+;de;devise.shared.links.forgot_your_password;Haben du dein Passwort vergessen?
+88119;de;devise.unlocks.send_instructions;Du erhältst in wenigen Minuten eine E-Mail mit Anweisungen zum Freischalten deines Kontos.
+88212;de;devise.unlocks.send_paranoid_instructions;Wenn dein Konto existiert, erhältst du eine E-Mail mit Anweisungen, wie du es in wenigen Minuten entsperren können.
+88120;de;devise.unlocks.unlocked;Dein Konto wurde erfolgreich entsperrt. Bitte einloggen, um fortzufahren.
+88268;de;password_validator.email_included_in_password;Ist deiner E-Mail zu ähnlich
+88269;de;password_validator.name_included_in_password;Ist deinem Namen zu ähnlich
+;de;password_validator.nickname_included_in_password;ist deinem Nicknamen zu ähnlich

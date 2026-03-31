@@ -1,0 +1,73 @@
+id;locale;key;value
+87054;de;decidim.components.awesome_iframe.settings.global.iframe_help;"Gib deinen Code als html: <iframe width=""100%"" height=""700"" frameBorder=""0"" allowFullscreen src=""...""></iframe> ein. Andere HTML-Tags werden vom Inhalt entfernt. Stell sicher, dass du 100% als Breite/width verwendest, um gesamten Platz zu füllen."
+87055;de;decidim.components.awesome_map.settings.global.map_center_help;Verwende Dezimalpunkte (z. B. 41.38879, 2.15899). Lass das Feld leer, um alle Markierungen automatisch einzupassen
+;de;decidim.decidim_awesome.account.timezone_select.time_zone_helper;Verwende deine eigene Zeitzone, um die Daten in deiner Ortszeit anzuzeigen, wenn du angemeldet bist.
+;de;decidim.decidim_awesome.admin.admin_accountability.exports.notice;Der Exportauftrag wurde in die Warteschlange gestellt. Du erhältst eine E-Mail, wenn er fertig ist.
+;de;decidim.decidim_awesome.admin.admin_authorizations.conflict_help_html;"Du musst den Konflikt mit dem Benutzer %{user} lösen, bevor du den Benutzer mit dieser Berechtigung autorisieren können.
+<br><br>
+Ein Verifizierungskonflikt tritt auf, wenn ein anderer Benutzer die gleichen Daten hat wie der Benutzer, den du autorisieren möchten. 
+Du kannst diesen Konflikt lösen, indem du die widersprüchliche Autorisierung des anderen Benutzers entfernen oder andere Daten für diesen Benutzer verwenden."
+;de;decidim.decidim_awesome.admin.admin_authorizations.edit.force_verification_help;Überprüfung ist fehlgeschlagen, aber Du kannst sie erzwingen, wenn du sicher sind, dass der Benutzer diese Berechtigung hat.
+83203;de;decidim.decidim_awesome.admin.checks.index.decidim-assemblies;Vom Organisations-Modul
+87186;de;decidim.decidim_awesome.admin.checks.index.decidim-proposals;Decidim-proposals
+;de;decidim.decidim_awesome.admin.checks.index.errors.CSS;"Der ""Head"" enthält nicht die erforderlichen <link> Stylesheet-Einträge. Zur Lösung du kannst sie manuell zu deiner benutzerdefinierten _head.html.erb-Datei hinzufügen"
+;de;decidim.decidim_awesome.admin.checks.index.errors.JavaScript;"Der ""Head"" enthält nicht die erforderlichen <script> Javascript-Einträge. Zur Lösung du kannst sie manuell zu deiner benutzerdefinierten admin/_header.html.erb-Datei hinzufügen"
+;de;decidim.decidim_awesome.admin.config.form.help.hashcash_i18n_key;Du kannst den Text, der den Benutzenden in den Anmelde-Buttons angezeigt wird, mit folgendem i18n-Key anpassen: %{key}
+87163;de;decidim.decidim_awesome.admin.config.form.help.proposal_custom_fields;Create custom proposal fields that applies only in certain parts of the public web (use the restrictions editor for that)
+87187;de;decidim.decidim_awesome.admin.config.form.help.proposal_custom_fields_example;"Data is stored in a XML object using compatible HTML attributes (dl,dt,dd elements) replacing the ""body"" in a normal proposal."
+87190;de;decidim.decidim_awesome.admin.config.form.help.proposal_custom_fields_translations;"Labels, help text, placeholders and default values can use your application custom translations. 
+For that, instead of using a string literal, use the i18n key (it must containt at least one dot).
+For instance:
+- ""activemodel.attributes.proposal.title"" instead of ""Title""
+- ""activemodel.attributes.proposal.address"" instead of ""Address""
+Or use your own keys in combination with other tools to define translations (eg: using the module Term Customizer):
+ - ""myapp.custom_fields.bio"" instead of ""Biography"""
+;de;decidim.decidim_awesome.admin.config.form.help.scoped_admin_styles_variables;Du kannst die folgenden CSS-Variablen für die benutzerdefinierter Farben der Organisation verwenden:
+87191;de;decidim.decidim_awesome.admin.config.form.help.scoped_admins;"Befördere normale Benutzer/innen zu Administratoren, die nur bestimmte Teile der öffentlichen Seite verwalten können (verwende dazu den Editor für Einschränkungen). Beachte, dass Benutzer/innen, die bereits reguläre Administratorrechte haben, ignoriert werden. For instance, if having configured /my-origin => /my-destination, a request to /my-origin?locale=ca  will be redirected to ""/my-destination?locale=ca""."
+;de;decidim.decidim_awesome.admin.config.form.help.scoped_styles_variables;Du kannst die folgenden CSS-Variablen für die benutzerdefinierter Farben der Organisation verwenden:
+;de;decidim.decidim_awesome.admin.config.form_force_authorizations.help;Du kannst Gruppen von Autorisierungsmethoden definieren und den darauf basierenden Zugriff einschränken.
+87192;de;decidim.decidim_awesome.admin.config.form_proposal_custom_fields.new;"Add a new ""custom fields"" box"
+87193;de;decidim.decidim_awesome.admin.config.form_proposal_custom_fields.remove;"Remove this ""custom fields"" box"
+87194;de;decidim.decidim_awesome.admin.config.form_proposal_custom_fields.sure_to_remove;Are you sure you want to destroy this fields box?
+87195;de;decidim.decidim_awesome.admin.config.form_scoped_admins.sure_to_remove;Bist du sicher, dass du diese Gruppe eingeschränkter Admins löschen möchtest?
+87196;de;decidim.decidim_awesome.admin.config.form_scoped_styles.sure_to_remove;Bist du sicher, dass du diese CSS-Box entfernen möchtest?
+87197;de;decidim.decidim_awesome.admin.custom_redirects.form.pass_query_help;"Aktiviere diese Option, wenn du möchtest, dass der Abfrage-String an das Ziel kopiert wird.<br> Wenn du zum Beispiel ""/my-origin"" => ""/my-destination"" konfiguriert hast, wird eine Anfrage an ""/my-origin?locale=ca"" an ""/my-destination?locale=ca"" weitergeleitet."
+87198;de;decidim.decidim_awesome.admin.custom_redirects.index.confirm_destroy;Bist du sicher, dass du diese Umleitung entfernen möchtest?
+87199;de;decidim.decidim_awesome.admin.custom_redirects.index.description;Du kannst eine beliebige Route (beginnend mit <code>/</code>) definieren, um jeden Besucher zu einer Ziel-URL umzuleiten. <br> Ziel kann ein absoluter Pfad sein (z.B.: <code>/processes/ein-prozess</code>) oder mit <code>https://</code> (z.B.: <code>http://decidim.org</code>) beginnen.<br><br> Berücksichtige, dass eine Umleitung nur funktioniert, wenn keine andere Route passt. Es ist nicht möglich, ursprüngliche Routen ausser Kraft zu setzen (dies ist beabsichtigt).<br> Wenn du dir nicht sicher bist, verwende die Funktion «Umleitungen prüfen», um die Umleitung zu testen.
+87200;de;decidim.decidim_awesome.admin.custom_redirects.origin_exists;Die Quell-URL wurde bereits konfiguriert. Bitte bearbeite die bestehende Umleitung, anstatt sie neu zu erstellen.
+;de;decidim.decidim_awesome.admin.hashcash.ip_addresses.help_html;Diese Seite listet alle im System entdeckten IP-Adressen auf, die durch die Anzahl der Hashcash Stempel, die sie generiert haben, sortiert wurden. <br><br> Jeder Stempel ist entweder ein Login oder eine Anmeldeaktion eines Benutzers. Du kannst diese Informationen nutzen, um verdächtige Aktivitäten zu erkennen.
+87201;de;decidim.decidim_awesome.admin.menu.proposal_custom_fields;Vorschläge Custom Felder
+87202;de;decidim.decidim_awesome.admin.menu_hacks.index.confirm_destroy;Bist du sicher, dass du diese Anpassung entfernen willst?
+87203;de;decidim.decidim_awesome.admin.menu_hacks.url_exists;Die gleiche URL ist bereits konfiguriert. bitte bearbeite diese, anstatt sie neu zu erstellen.
+;de;decidim.decidim_awesome.admin.private_data.private_data.help_html;"Mit diesem Tool können du alle privaten Daten für einen bestimmten Beteiligungsbereich oder eine bestimmte Komponente löschen. Dieser Vorgang ist irreversibel und entfernt alle privaten Daten aus der Datenbank.
+<br><br>
+<strong> Was sind private Daten?</strong>
+<br>
+Private Daten sind alle Informationen, die nicht öffentlich verfügbar sind und nur für Administratoren zugänglich sind. Dazu gehören derzeit auch Informationen aus privaten benutzerdefinierten Feldern.
+<br><br>
+<strong>Was passiert, wenn ich private Daten lösche?</strong>
+<br>
+Wenn du private Daten löschen, werden alle privaten Informationen für den ausgewählten Mitwirkungsbereich oder die ausgewählte Komponente dauerhaft aus der Datenbank entfernt. Zu Prüfzwecken wird ein Protokoll dieser Aktion im System gespeichert.
+<br><br>
+<strong>Was geschieht mit öffentlichen Daten?</strong>
+<br> Öffentliche Daten sind von dieser Aktion nicht betroffen. Es werden nur private Daten gelöscht.
+ <br><br>
+<strong>Gibt es eine Mindestwartezeit vor dem Löschen privater Daten?</strong>
+<br>
+Ja, Du kannst keine privaten Daten löschen, wenn die letzte Aktualisierung weniger als %{time_ago} zurückliegt. Du kannst diese Konfiguration in der Initialisierungsdatei ändern."
+;de;decidim.decidim_awesome.admin.proposal_custom_fields.remove_private_data;👉 Du kannst es entfernen
+;de;decidim.decidim_awesome.admin.visibility.info_html;Du kannst zusätzliche Zugriffsbeschränkungen mit %{awesome_link} verwalten.
+;de;decidim.decidim_awesome.amendments.modal.current_amendment_html;"<p>Du kannst <a href=""%{amendment_link}""> hier auf die aktuelle Änderung</a>zugreifen.</p>"
+;de;decidim.decidim_awesome.amendments.modal.explanation_html;"<p>Derzeit wird eine weitere Änderung für diesen Vorschlag bewertet. Um eine neue zu erstellen, müssen du warten, bis die aktuelle akzeptiert oder abgelehnt wird.</p>
+<p>Du kannst auch den Autor dieses Vorschlags durch <a href=""%{proposal_link}"">erreichen und einen Kommentar</a> hinterlassen und versuchen, die Lösung des aktuellen Änderungsantrags zu beschleunigen.</p>"
+;de;decidim.decidim_awesome.config.intergram.auto_no_response;Es scheint, dass im Moment niemand verfügbar ist. Bitte sagen du uns, wie wir du erreichen können und wir melden uns baldmöglichst bei dir.
+;de;decidim.decidim_awesome.config.intergram.intro_message;Hallo! Wie können wir dir helfen?
+87204;de;decidim.decidim_awesome.content_blocks.map.map_center_help;Verwende Dezimalpunkte (z. B. 41.38879, 2.15899). Lass das Feld leer, um alle Markierungen automatisch einzupassen.
+87205;de;decidim.decidim_awesome.map_component.map.api_not_ready;<b>Warnung:</b>Bei dieser Decidim-Installation ist die API mit einer maximalen Komplexität von <b>%{current_complexity}</b> eingestellt. Diese Komponente wird unter dieser Konfiguration wahrscheinlich nicht funktionieren. Wir empfehlen, dass du einen Initializer mit folgendem Code einrichtest (z.B. am Ende von <code>config/initializers/decidim: rb</code>):<br> <br> <pre># Api configuration Decidim::Api::Schema.max_complexity = 5000 Decidim::Api::Schema.max_depth = 50</pre>
+87206;de;decidim.decidim_awesome.map_component.map.error.unavailable;Die Karte ist nicht verfügbar. Bitte konfiguriere die Geokodierung, um diese Komponente zu aktivieren.
+;de;decidim.decidim_awesome.required_authorizations.index.title;Verifizieren du deine Identität
+;de;decidim.decidim_awesome.session.authorization_is_required;Um auf diesen Teil der Plattform zugreifen zu können, müssen du dein Konto mit einer gültigen Berechtigung austatten (%{authorizations}).
+;de;decidim.decidim_awesome.session.login_and_authorization_is_required;Um auf diesen Teil der Plattform zugreifen zu können, müssen du sich einloggen und dein Konto autorisieren.
+;de;decidim.decidim_awesome.voting.voting_cards.default_instructions_html;"<p>Bitte lesen du die Wahlregeln sorgfältig durch, um zu verstehen, wie deine Stimme von %{organization}"" verwendet wird</p>"
+;de;decidim.decidim_awesome.voting.voting_cards.modal.message;deine Stimme wird am %{date} als endgültig betrachtet. Du kannst sie bis dahin ändern
+88254;de;layouts.decidim.decidim_awesome.awesome_config.drag_and_drop_image;_

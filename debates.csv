@@ -1,0 +1,9 @@
+id;locale;key;value
+87070;de;decidim.components.debates.settings.global.announcement;Ankündigung (kommt oberhalb des Textes in einem blauen Balken zu stehen)
+87071;de;decidim.components.debates.settings.global.scope_id;Thema
+87072;de;decidim.components.debates.settings.global.scopes_enabled;Wähle ein Thema aus
+87073;de;decidim.components.debates.settings.step.announcement;Ankündigung (kommt oberhalb des Textes in einem blauen Balken zu stehen)
+87074;de;decidim.components.debates.settings.step.endorsements_blocked;Befürwortungen blockiert
+87075;de;decidim.components.debates.settings.step.endorsements_enabled;Befürwortungen aktiviert
+87184;de;decidim.debates.debates.filters.category_prompt;Wähle eine Kategorie
+87185;de;decidim.debates.debates.form.select_a_category;Bitte wähle eine Kategorie

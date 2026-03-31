@@ -1,0 +1,27 @@
+id;locale;key;value
+83214;de;decidim.menu.help;Info
+87877;de;decidim.menu.processes;Projekte
+87922;de;decidim.pages.admin.models.components.body;Inhalt
+87923;de;decidim.pages.home.extended.debates_explanation;Teile deine Ansichten und bereichere die aus deiner Sicht relevanten Themen.
+87924;de;decidim.pages.home.extended.how_to_participate;Wie kann ich mich beteiligen?
+87927;de;decidim.pages.home.hero.participate_title;Nimm an den Prozessen der Plattform teil
+87928;de;decidim.pages.home.statistics.headline;Statistiken von %{organization}
+87929;de;decidim.pages.home.sub_hero.register_title;Registriere dich, um ein Konto auf der Plattform zu erstellen
+83213;de;decidim.pages.index.subheading;Für weitere Fragen wende dich an info (at) dialogluzern.ch
+;de;decidim.pages.terms_of_service.accept.success;Super! Du hast die Nutzungsbedingungen akzeptiert.
+;de;decidim.pages.terms_of_service.refuse.modal_body;"Wenn du die Nutzungsbedingungen nicht akzeptieren, können du die Plattform nicht mehr nutzen. Du kannst <a href=""%{download_your_data_path}"">deine persönlichen Daten herunterladen</a> und / oder <a href=""%{delete_path}""> ihr Konto löschen</a>."
+88273;de;layouts.decidim.data_consent.dialog.description;Diese Seite verwendet Cookies. Durch die weitere Verwendung dieser Seite stimmst Du der Verwendung von Cookies zu.
+88274;de;layouts.decidim.data_consent.dialog.title;Information
+;de;layouts.decidim.data_consent.modal.description;Wir verwenden Cookies, um die grundlegenden Funktionalitäten der Website zu gewährleisten und dein Online-Erlebnis zu verbessern. Du kannst jederzeit die Verwendung der Cookies konfigurieren und akzeptieren oder deine Zustimmungsoptionen ändern.
+;de;layouts.decidim.data_consent.modal.essential.description;Diese Cookies ermöglichen die Schlüsselfunktionalität der Website und helfen bei der Sicherheit ihrer Benutzenden. Du wirst automatisch im Browser gespeichert und können nicht deaktiviert werden.
+;de;layouts.decidim.data_consent.modal.marketing.description;Diese Cookies sammeln Informationen darüber, wie du die Website nutzen und können verwendet werden, um dir mehr personalisierte Marketing über die verschiedenen Webseiten, die Du verwendest, zu bieten.
+;de;layouts.decidim.data_consent.warning.consent_required;Du musst %{categories} aktivieren, um diesen Inhalt sehen zu können.
+88255;de;layouts.decidim.impersonation_warning.description_html;Du gibst dich als Benutzer/in <b>%{user_name}</b>.
+88256;de;layouts.decidim.impersonation_warning.expire_time_html;"Deine Sitzung wird in <b><span class=""minutes"">%{minutes}</span> Minuten</b>ablaufen."
+;de;layouts.decidim.offline_banner.cache_version_page;Hoppla! dein Netzwerk ist offline. Dies ist eine zuvor gecachte Version der Seite, die du besuchen, möglicherweise ist der Inhalt nicht aktuell.
+88264;de;layouts.decidim.social_media_links.github;Webseite von %{organization}
+88265;de;layouts.decidim.timeout_modal.body;Du bist seit %{minutes} Minuten inaktiv. Wenn du weiterhin inaktiv bist, wirst du aus Sicherheitsgründen automatisch abgemeldet.
+88266;de;layouts.decidim.timeout_modal.title;Möchtest du deine Sitzung fortsetzen?
+;de;layouts.decidim.user_menu.unread_conversations;Du hast ungelesene Unterhaltungen
+;de;layouts.decidim.user_menu.unread_notifications;Du hast ungelesene Benachrichtigungen
+88267;de;layouts.decidim.user_profile.authorizations;Verifikation

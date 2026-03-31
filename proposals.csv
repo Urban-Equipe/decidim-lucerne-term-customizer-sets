@@ -1,0 +1,315 @@
+id;locale;key;value
+86834;de;activemodel.attributes.close_meeting.proposal_ids;Erarbeitete Vorschläge
+86634;de;activemodel.attributes.proposal.automatic_hashtags;Hashtags, die jedem Vorschlag automatisch hinzugefügt werden.
+86635;de;activemodel.attributes.proposal.decidim_scope_id;Thema
+86636;de;activemodel.attributes.proposal.has_address;Hat einen Standort
+86637;de;activemodel.attributes.proposal.suggested_hashtags;Hashtags, die von Nutzenden angewählt werden können.
+86638;de;activemodel.attributes.proposals_import.keep_authors;Behalte die ursprünglichen Autoren
+86656;de;activemodel.models.decidim/proposals/admin/update_proposal_scope_event;Vorschlagsthema geändert
+86657;de;activemodel.models.decidim/proposals/endorsing_enabled_event;Gefällt mir Angabe aktiviert
+86658;de;activemodel.models.decidim/proposals/voting_enabled_event;Stimmabgabe für die Vorschläge aktiviert
+86869;de;decidim.admin.filters.proposals.is_emendation_true.values.true;Änderungsvorschläge
+86870;de;decidim.admin.filters.proposals.scope_id_eq.label;Bereich
+86871;de;decidim.admin.filters.proposals.state_eq.values.accepted;Akzeptiert
+86872;de;decidim.admin.filters.proposals.state_eq.values.evaluating;In Abklärung
+86873;de;decidim.admin.filters.proposals.state_eq.values.rejected;Abgewiesen
+86874;de;decidim.admin.filters.proposals.state_eq.values.validating;Technische Abklärung
+86875;de;decidim.admin.filters.proposals.valuator_role_ids_has.label;Zugewiesen zu dem Schätzer
+87020;de;decidim.budgets.admin.proposals_imports.create.invalid;Beim Importieren der Vorschläge in Projekte ist ein Problem aufgetreten
+87021;de;decidim.budgets.admin.proposals_imports.create.success;%{number} Vorschläge wurden erfolgreich in Projekte importiert
+87022;de;decidim.budgets.admin.proposals_imports.new.create;Importiere Vorschläge in Projekte
+87023;de;decidim.budgets.admin.proposals_imports.new.select_component;Bitte wähle eine Komponente aus
+87024;de;decidim.budgets.admin.proposals_imports.new.title;Vorschläge importieren
+87095;de;decidim.components.proposals.actions.endorse;Gefällt mir
+87096;de;decidim.components.proposals.actions.vote;Stimmabgabe
+87097;de;decidim.components.proposals.settings.global.amendments_enabled;Änderungsvorschläge aktiviert (Spezialfunktion nur nach Absprache)
+87098;de;decidim.components.proposals.settings.global.amendments_enabled_help;Du kannst die Einzelheiten der Vorschlagsänderungen in den einzelnen Einstellungen pro Phase (unten) konfigurieren.
+87099;de;decidim.components.proposals.settings.global.amendments_wizard_help_text;Hilfetext bei Änderungsvorschlägen
+87100;de;decidim.components.proposals.settings.global.announcement;Ankündigung (kommt oberhalb des Textes in einem blauen Balken zu stehen)
+87101;de;decidim.components.proposals.settings.global.collaborative_drafts_enabled;Kollaborative Entwürfe aktiviert (Spezifalfunktion, nur nach Absprache)
+87102;de;decidim.components.proposals.settings.global.comments_enabled;Kommentare unter den Vorschlägen erlauben.
+87103;de;decidim.components.proposals.settings.global.default_sort_order;Vorschlagssortierung
+87104;de;decidim.components.proposals.settings.global.default_sort_order_help;«Standardmässig» bedeutet, dass die Vorschläge nach dem Zufallsprinzip sortiert werden, wenn eine Abstimmung aktiviert ist. Wenn die Stimmabgabe ausgeschaltet ist, werden sie nach den meistgewählten Vorschlägen sortiert.
+87105;de;decidim.components.proposals.settings.global.default_sort_order_options.most_commented;Meist kommentierte
+87106;de;decidim.components.proposals.settings.global.default_sort_order_options.most_endorsed;Meiste Gefällt mir-Angaben
+87107;de;decidim.components.proposals.settings.global.default_sort_order_options.most_followed;Meist gefolgte
+87108;de;decidim.components.proposals.settings.global.default_sort_order_options.most_voted;Meiste Stimmen
+87109;de;decidim.components.proposals.settings.global.default_sort_order_options.with_more_authors;Anzahl Autor/innen
+87110;de;decidim.components.proposals.settings.global.geocoding_enabled;Adresseingabe ermöglichen
+87111;de;decidim.components.proposals.settings.global.minimum_votes_per_user;Falls eine Person mehrere Stimmen abgeben soll, kann hier ein Minimum defniert werden.
+87112;de;decidim.components.proposals.settings.global.new_proposal_body_template;Vorlage für Inhalt von neuen Vorschlägen
+87113;de;decidim.components.proposals.settings.global.new_proposal_body_template_help;Du kannst den vorgefüllten Text der neuen Vorschläge bestimmen
+87114;de;decidim.components.proposals.settings.global.official_proposals_enabled;Vorschläge sollen auch über das Backend eingegeben werden können.
+87115;de;decidim.components.proposals.settings.global.participatory_texts_enabled;Partizipative Texte aktiviert (Spezialfunktion nur nach Absprache)
+87116;de;decidim.components.proposals.settings.global.participatory_texts_enabled_readonly;Du kannst diese Funktion nicht aktivieren, wenn bereits Vorschläge in dieser Komponente erstellt wurden. Erstelle ein neues Vorschlagsmodul in den Komponenteneinstellungen.
+87117;de;decidim.components.proposals.settings.global.proposal_answering_enabled;Ich möchte Rückmeldungen zu den Vorschlägen geben können.
+87118;de;decidim.components.proposals.settings.global.proposal_edit_before_minutes;Vorschläge können von Autoren innerhalb dieser Anzahl Minuten bearbeitet werden. Danach müssen sie per Änderungsvorschlag (siehe unten) angepasst werden.
+87119;de;decidim.components.proposals.settings.global.proposal_edit_time;Defniere, wie lange Vorschläge bearbeitbar sein sollen.
+87120;de;decidim.components.proposals.settings.global.proposal_length;Maximale Anzahl Zeichen im Beschreibungstext
+87121;de;decidim.components.proposals.settings.global.proposal_limit;Definiere hier, falls gewünscht, wie viele Vorschläge pro Person eingegeben werden dürfen (0=unendlich).
+87122;de;decidim.components.proposals.settings.global.proposal_wizard_step_2_help_text;"Hilfetext ""Vergleichen""-Schritt im Vorschlagsassistenten"
+87123;de;decidim.components.proposals.settings.global.resources_permissions_enabled;Berechtigungen können für jeden Vorschlag festgelegt werden (nur falls Verifizierung genutzt wird).
+87124;de;decidim.components.proposals.settings.global.scope_id;Bereich
+87125;de;decidim.components.proposals.settings.global.scopes_enabled;Ich möchte die Vorschläge einem Thema zuordnen.
+87126;de;decidim.components.proposals.settings.global.threshold_per_proposal;Stimmschwellenwert: Maximale Anzahl Stimmen, die ein Vorschlag erreichen kann (0=unendlich).
+87127;de;decidim.components.proposals.settings.global.vote_limit;Falls die Anzahl Stimmen pro Person eingeschränk werden soll, kann hier die Anzahl definiert werden.
+;de;decidim.components.proposals.settings.global.voting_cards_instructions_help;"Standardmässig ""Bitte lesen du die Wahlregeln sorgfältig durch, um zu verstehen, wie deine Stimme von %{organization} verwendet wird"""
+87128;de;decidim.components.proposals.settings.step.amendments_visibility_help;"Wenn die Option ""Ergänzungen sind nur für ihre Autoren sichtbar"" ausgewählt ist, müssen Teilnehmer eingeloggt sein, um die vorgenommenen Ergänzungen zu sehen."
+87129;de;decidim.components.proposals.settings.step.announcement;Ankündigung (kommt oberhalb des Textes in einem blauen Balken zu stehen)
+87130;de;decidim.components.proposals.settings.step.answers_with_costs;Kosten für Vorschlagsantworten aktivieren (nur nach Absprache nutzen)
+87131;de;decidim.components.proposals.settings.step.automatic_hashtags;Hashtags, die jedem Vorschlag automatisch hinzugefügt werden.
+87132;de;decidim.components.proposals.settings.step.comments_blocked;Kommentare blockieren
+87134;de;decidim.components.proposals.settings.step.creation_enabled;Wichtig!! In diesem Schritt können Vorschläge eingereicht werden.
+87135;de;decidim.components.proposals.settings.step.default_sort_order;Reihenfolge der Anzeige von Vorschlägen
+87136;de;decidim.components.proposals.settings.step.default_sort_order_help;«Standardmässig» bedeutet, dass die Vorschläge nach dem Zufallsprinzip sortiert werden, wenn eine Abstimmung aktiviert ist. Wenn die Stimmabgabe ausgeschaltet ist, werden sie nach den meistgewählten Vorschlägen sortiert.
+87137;de;decidim.components.proposals.settings.step.default_sort_order_options.most_commented;Meiste Kommentare
+87138;de;decidim.components.proposals.settings.step.default_sort_order_options.most_endorsed;Meiste Gefällt mir-Angaben
+87139;de;decidim.components.proposals.settings.step.default_sort_order_options.most_followed;Meiste Followers
+87140;de;decidim.components.proposals.settings.step.default_sort_order_options.most_voted;Meiste Stimmen
+87141;de;decidim.components.proposals.settings.step.default_sort_order_options.recent;Aktuellste
+87142;de;decidim.components.proposals.settings.step.default_sort_order_options.with_more_authors;Meiste Autoren
+87143;de;decidim.components.proposals.settings.step.endorsements_blocked;Gefällt mir-Angaben blockieren
+87144;de;decidim.components.proposals.settings.step.endorsements_enabled;Gefällt mir-Angaben ermöglichen
+87145;de;decidim.components.proposals.settings.step.proposal_answering_enabled;In dieser Projektphase sollen Vorschläge beantwortet werden können
+87146;de;decidim.components.proposals.settings.step.publish_answers_immediately;Vorschlagsantworten sofort veröffentlichten (falls nein kann ein Zeitpunkt gewählt werden).
+87147;de;decidim.components.proposals.settings.step.suggested_hashtags;Hashtags, die von Nutzenden angewählt werden können.
+87148;de;decidim.components.proposals.settings.step.votes_blocked;Stimmabgabe ausschalten
+87149;de;decidim.components.proposals.settings.step.votes_enabled;Stimmabgabe aktivieren
+87150;de;decidim.components.proposals.settings.step.votes_hidden;Anzahl Stimmen nicht anzeigen
+;de;decidim.components.reporting_proposals.settings.global.new_proposal_body_template_help;Du kannst einen vorausgefüllten Text in neuen Meldungen bestimmen
+87222;de;decidim.events.accountability.proposal_linked.email_intro;"Der Vorschlag ""%{proposal_title}"" wurde in ein Ergebnis aufgenommen. Du kannst das auf dieser Seite sehen:"
+87223;de;decidim.events.accountability.proposal_linked.email_outro;"Du hast diese Benachrichtigung erhalten, weil du ""%{proposal_title}"" folgst. Wenn du keine Benachrichtigungen mehr erhalten möchtest, kannst du das in deinen Profileinstellungen angeben."
+87224;de;decidim.events.accountability.proposal_linked.notification_title;"Der Vorschlag <a href=""%{proposal_path}"">%{proposal_title}</a> wurde in das Ergebnis <a href=""%{resource_path}"">%{resource_title}</a>umgewandelt."
+87428;de;decidim.events.proposals.admin.proposal_note_created.email_intro;"Jemand hat eine Notiz zum Vorschlag ""%{resource_title}"" hinterlassen. Schau dir diese im <a href=""%{admin_proposal_info_url}"">Admin-Panel</a> an"
+87429;de;decidim.events.proposals.admin.proposal_note_created.email_outro;Du hast diese Benachrichtigung erhalten, weil du als Admin diesen Vorschlag bewerten kanst.
+87430;de;decidim.events.proposals.admin.proposal_note_created.notification_title;"Jemand hat eine Notiz für Vorschlag <a href=""%{resource_path}"">%{resource_title}</a>erstellt. Du kannst diese über <a href=""%{admin_proposal_info_path}"">den Admin-Panel</a> anzeigen"
+87431;de;decidim.events.proposals.collaborative_draft_access_accepted.email_intro;"%{requester_name} wurde als Mitwirkende*r beim kollaborativen Entwurf <a href=""%{resource_path}"">%{resource_title}</a> akzeptiert."
+87432;de;decidim.events.proposals.collaborative_draft_access_accepted.email_outro;"Du hast diese Mitteilung erhalten, weil du zum Bearbeiten von <a href=""%{resource_path}"">%{resource_title}</a> berechtigt bist."
+87433;de;decidim.events.proposals.collaborative_draft_access_accepted.email_subject;%{requester_name} bei %{resource_title} akzeptiert
+87434;de;decidim.events.proposals.collaborative_draft_access_rejected.email_intro;"%{requester_name} wurde als Mitwirkende*r beim kollaborativen Entwurf <a href=""%{resource_path}"">%{resource_title}</a> abgelehnt."
+87435;de;decidim.events.proposals.collaborative_draft_access_rejected.email_outro;"Du hast diese Mitteilung erhalten, weil du zum Bearbeiten von <a href=""%{resource_path}"">%{resource_title}</a> berechtigt bist."
+87436;de;decidim.events.proposals.collaborative_draft_access_rejected.email_subject;%{requester_name} bei %{resource_title} abgelehnt
+87437;de;decidim.events.proposals.collaborative_draft_access_requested.email_intro;"%{requester_name} hat um Zugriff auf deinen kollaborativen Entwurf angefragt. Du kannst den Antrag direkt auf der Entwurfsseite <a href=""%{resource_path}"">%{resource_title}</a> <strong>annehmen oder ablehnen</strong>."
+87438;de;decidim.events.proposals.collaborative_draft_access_requested.email_outro;"Du hast diese Mitteilung erhalten, weil du zum Bearbeiten von <a href=""%{resource_path}"">%{resource_title}</a> berechtigt bist."
+87439;de;decidim.events.proposals.collaborative_draft_access_requested.email_subject;%{requester_name} möchte bei %{resource_title} mitwirken
+87440;de;decidim.events.proposals.collaborative_draft_access_requester_accepted.email_intro;"Du wurdest als Mitwirkende*r beim kollaborativen Entwurf <a href=""%{resource_path}"">%{resource_title}</a> akzeptiert."
+87441;de;decidim.events.proposals.collaborative_draft_access_requester_accepted.email_outro;"Du hast diese Mitteilung erhalten, weil du angefordert hast, beim kollaborativen Entwurf <a href=""%{resource_path}"">%{resource_title}</a> mitzuwirken."
+87442;de;decidim.events.proposals.collaborative_draft_access_requester_accepted.email_subject;Als Mitwirkende*r bei %{resource_title} angenommen
+87443;de;decidim.events.proposals.collaborative_draft_access_requester_rejected.email_intro;"Du wurdest als Mitwirkende*r beim kollaborativen Entwurf <a href=""%{resource_path}"">%{resource_title}</a> abgelehnt."
+87444;de;decidim.events.proposals.collaborative_draft_access_requester_rejected.email_outro;"Du hast diese Mitteilung erhalten, weil du angefordert hast, beim kollaborativen Entwurf <a href=""%{resource_path}"">%{resource_title}</a> mitzuwirken."
+87445;de;decidim.events.proposals.collaborative_draft_access_requester_rejected.email_subject;Als Mitwirkende*r bei %{resource_title} abgelehnt
+87446;de;decidim.events.proposals.collaborative_draft_withdrawn.email_intro;"<a href=""%{author_path}"">%{author_name} %{author_nickname}</a> hat den kollaborativen Entwurf <a href=""%{resource_path}"">%{resource_title}</a> zurückgezogen."
+87447;de;decidim.events.proposals.collaborative_draft_withdrawn.email_outro;"Du hast diese Mitteilung erhalten, weil du zum Bearbeiten von <a href=""%{resource_path}"">%{resource_title}</a> berechtigt warst."
+87448;de;decidim.events.proposals.collaborative_draft_withdrawn.email_subject;Gemeinsamer Entwurf %{resource_title} von %{author_name} %{author_nickname} zurückgezogen.
+87449;de;decidim.events.proposals.creation_enabled.email_intro;Du kannst jetzt neue Vorschläge in %{participatory_space_title} erstellen! Beteilige dich auf dieser Seite:
+87450;de;decidim.events.proposals.creation_enabled.email_outro;"Du hast diese Benachrichtigung erhalten, weil du ""%{participatory_space_title}"" folgst. Wenn du keine Benachrichtigungen mehr erhalten möchtest, kannst du das in deinen Profileinstellungen angeben."
+87451;de;decidim.events.proposals.creation_enabled.notification_title;"Du kannst jetzt <a href=""%{resource_path}"">neue Vorschläge</a> in <a href=""%{participatory_space_url}"">%{participatory_space_title}</a>hinzufügen."
+87452;de;decidim.events.proposals.endorsing_enabled.email_intro;Du kannst Vorschläge in %{participatory_space_title} unterstützen! Beteilige dich auf dieser Seite:
+87453;de;decidim.events.proposals.endorsing_enabled.email_outro;"Du hast diese Benachrichtigung erhalten, weil du ""%{participatory_space_title}"" folgst. Wenn du keine Benachrichtigungen mehr erhalten möchtest, kannst du das in deinen Profileinstellungen angeben."
+87454;de;decidim.events.proposals.endorsing_enabled.notification_title;"Du kannst nun beginnen in <a href=""%{participatory_space_url}"">%{participatory_space_title}</a> <a href=""%{resource_path}"">Vorschlägen zuzustimmen</a>"
+87455;de;decidim.events.proposals.proposal_mentioned.email_intro;"Dein Vorschlag ""%{mentioned_proposal_title}"" wurde <a href=""%{resource_url}"">hier</a> in den Kommentaren erwähnt."
+87456;de;decidim.events.proposals.proposal_mentioned.email_outro;"Du hast diese Benachrichtigung erhalten, weil du ein Autor von ""%{resource_title}"" bist."
+87457;de;decidim.events.proposals.proposal_mentioned.email_subject;"Dein Vorschlag ""%{mentioned_proposal_title}"" wurde erwähnt"
+87458;de;decidim.events.proposals.proposal_mentioned.notification_title;"Dein Vorschlag „%{mentioned_proposal_title}“ wurde hier in den Kommentaren erwähnt: <a href=""%{resource_path}"">in diesem Raum</a>."
+87459;de;decidim.events.proposals.proposal_published.email_intro;"%{author_name} %{author_nickname}, dem du folgst, hat einen neuen Vorschlag mit dem Namen ""%{resource_title}"" veröffentlicht. Sieh es dir an und rede mit:"
+87460;de;decidim.events.proposals.proposal_published.email_outro;Du hast diese Benachrichtigung erhalten, weil du %{author_nickname} bist. Wenn du keine Benachrichtigungen mehr erhalten möchtest, kannst du das in deinen Profileinstellungen angeben.
+87461;de;decidim.events.proposals.proposal_published.notification_title;"Der <a href=""%{resource_path}"">%{resource_title}</a> Vorschlag wurde von <a href=""%{author_path}"">%{author_name} %{author_nickname}</a>veröffentlicht."
+59420;de;decidim.events.proposals.proposal_published_for_admin.email_intro;"Die Meldung <a href=""%{resource_path}"">%{resource_title}</a> wurde von %{author} zu %{participatory_space_title} hinzugefügt."
+;de;decidim.events.proposals.proposal_published_for_admin.email_outro;"Du hast diese Benachrichtigung erhalten, weil du Administrator/in von ""%{participatory_space_title} "" sind."
+60301;de;decidim.events.proposals.proposal_published_for_admin.notification_title;"Die Meldung <a href=""%{resource_path}"">%{resource_title}</a> wurde von %{author} zu %{participatory_space_title} hinzugefügt."
+60302;de;decidim.events.proposals.proposal_published_for_admin.notification_title_official;"Die offizielle Meldung <a href=""%{resource_path}"">%{resource_title}</a> wurde in %{participatory_space_title} hinzugefügt."
+87462;de;decidim.events.proposals.proposal_published_for_space.email_intro;"Der Vorschlag ""%{resource_title}"" wurde zu ""%{participatory_space_title}"" hinzugefügt, welchem du folgst."
+87463;de;decidim.events.proposals.proposal_published_for_space.email_outro;"Du hast diese Benachrichtigung erhalten, weil du ""%{participatory_space_title}"" folgst. Wenn du keine Benachrichtigungen mehr erhalten möchtest, kannst du das in deinen Profileinstellungen angeben."
+86776;de;decidim.events.proposals.proposal_published_for_space.notification_title;Dein Vorschlag wurde veröffentlicht
+;de;decidim.events.proposals.proposal_state_changed.affected_user.email_intro;"Der Status des Vorschlags ""%{resource_title}"" wurde zu ""%{state}"" geändert. Du kannst die Antwort auf dieser Seite lesen:"
+;de;decidim.events.proposals.proposal_state_changed.affected_user.email_outro;"Du hast diese Benachrichtigung erhalten, weil du ein Autor von ""%{resource_title}"" sind."
+;de;decidim.events.proposals.proposal_state_changed.affected_user.email_subject;Der Status deines Vorschlags hat sich geändert (%{state})
+;de;decidim.events.proposals.proposal_state_changed.affected_user.notification_title;"Der Status deines Vorschlags <a href=""%{resource_path}"">%{resource_title}</a> hat sich zu ""%{state}"" geändert."
+;de;decidim.events.proposals.proposal_state_changed.follower.email_intro;"Der Status deines Vorschlags ""%{resource_title}"" wurde zu ""%{state}"" geändert. Du kannst die Antwort auf dieser Seite lesen:"
+;de;decidim.events.proposals.proposal_state_changed.follower.email_outro;"Du hast diese Benachrichtigung erhalten, weil du ""%{resource_title}"" folgen. Falls du keine solchen Benachrichtigungen mehr erhalten möchten, besuchen du den obigen Link."
+87464;de;decidim.events.proposals.proposal_update_category.email_intro;"Ein Administrator hat die Kategorie deines Vorschlags ""%{resource_title}"" aktualisiert, sieh es dir an:"
+87465;de;decidim.events.proposals.proposal_update_category.email_outro;Du hast diese Benachrichtigung erhalten, weil du der Autor des Angebots bist.
+87466;de;decidim.events.proposals.proposal_update_scope.email_intro;Ein Administrator hat den Bereich deines Vorschlags „%{resource_title}“ aktualisiert, sieh es dir das auf dieser Seite an:
+87467;de;decidim.events.proposals.proposal_update_scope.email_outro;Du hast diese Benachrichtigung erhalten, weil du der Autor des Angebots bist.
+87468;de;decidim.events.proposals.proposal_update_scope.notification_title;"Das Thema des Vorschlags <a href=""%{resource_path}"">%{resource_title}</a> wurde von einem Administrator aktualisiert."
+87469;de;decidim.events.proposals.voting_enabled.email_intro;Du kannst für Vorschläge in %{participatory_space_title} abstimmen! Beteilige dich auf dieser Seite:
+87470;de;decidim.events.proposals.voting_enabled.email_outro;Du hast diese Benachrichtigung erhalten, weil du %{participatory_space_title} folgst. Wenn du keine Benachrichtigungen mehr erhalten möchtest, kannst du das in deinen Profileinstellungen angeben.
+87471;de;decidim.events.proposals.voting_enabled.email_subject;In %{participatory_space_title} ist es jetzt möglich, für Vorschläge abzustimmen
+87472;de;decidim.events.proposals.voting_enabled.notification_title;"Du kannst jetzt <a href=""%{resource_path}"">Abstimmungsvorschläge</a> in <a href=""%{participatory_space_url}"">%{participatory_space_title}</a>hinzufügen"
+;de;decidim.gamification.badges.accepted_proposals.conditions.0;Wähle den Bereich für die Teilnahme deiner Interessen mit der Einreichung von Vorschlägen aktiviert
+87551;de;decidim.gamification.badges.accepted_proposals.description;Dieses Abzeichen wird gewährt, wenn du neue Vorschläge einbringst und diese angenommen werden.
+87552;de;decidim.gamification.badges.accepted_proposals.description_another;Diese/r Benutzer/in hat %{score} Vorschläge akzeptiert.
+87553;de;decidim.gamification.badges.accepted_proposals.description_own;Du hast %{score} Vorschläge angenommen.
+87554;de;decidim.gamification.badges.accepted_proposals.next_level_in;Erhalte %{score} weitere Vorschläge, um das nächste Level zu erreichen!
+87555;de;decidim.gamification.badges.accepted_proposals.unearned_another;Diese/r Benutzer/in hat noch keine Vorschläge erhalten.
+87556;de;decidim.gamification.badges.accepted_proposals.unearned_own;Du hast noch keine Vorschläge erhalten.
+;de;decidim.gamification.badges.proposal_votes.conditions.1;Geben du deine Stimme den Vorschlägen, die du mögen oder interessant finden
+87578;de;decidim.gamification.badges.proposal_votes.description;Dieses Abzeichen wird gewährt, wenn du Vorschläge anderer Personen unterstützt.
+87579;de;decidim.gamification.badges.proposal_votes.description_another;Diese/r Benutzer/in hat %{score} Vorschläge unterstützt.
+87580;de;decidim.gamification.badges.proposal_votes.description_own;Du hast %{score} Vorschläge unterstützt.
+87581;de;decidim.gamification.badges.proposal_votes.name;Vorschlag unterstützt
+87582;de;decidim.gamification.badges.proposal_votes.next_level_in;Unterstütze %{score} weitere Vorschläge, um das nächste Level zu erreichen!
+87583;de;decidim.gamification.badges.proposal_votes.unearned_another;Diese/r Benutzer/in hat noch für keine Vorschläge gestimmt.
+87584;de;decidim.gamification.badges.proposal_votes.unearned_own;Du hast noch für keine Vorschläge gestimmt.
+;de;decidim.gamification.badges.proposals.conditions.0;Wähle den Bereich für die Teilnahme deiner Interessen mit der Einreichung von Vorschlägen aktiviert
+87585;de;decidim.gamification.badges.proposals.description;Dieses Abzeichen wird gewährt, wenn du aktiv an neuen Vorschlägen teilnimmst.
+87586;de;decidim.gamification.badges.proposals.description_another;Diese/r Benutzer/in hat %{score} Vorschläge erstellt.
+87587;de;decidim.gamification.badges.proposals.description_own;Du hast %{score} Vorschläge erstellt.
+87588;de;decidim.gamification.badges.proposals.next_level_in;Erstelle %{score} weitere Vorschläge, um das nächste Level zu erreichen!
+87589;de;decidim.gamification.badges.proposals.unearned_another;Diese/r Benutzer/in hat noch keine Vorschläge erstellt.
+87590;de;decidim.gamification.badges.proposals.unearned_own;Du hast noch keine Vorschläge erstellt.
+86046;de;decidim.meetings.actions.invalid_destroy.proposals_count.one;Die Veranstaltung kann nicht gelöscht werden, da %{count} Vorschlag mit dieser verbunden ist:
+86047;de;decidim.meetings.actions.invalid_destroy.proposals_count.other;Die Veranstaltung kann nicht gelöscht werden, da %{count} Vorschläge mit dieser verbunden sind:
+87926;de;decidim.pages.home.extended.proposals_explanation;Mache Vorschläge, unterstütze bestehende und fördere die Änderungen, die du sehen möchtest.
+87945;de;decidim.participatory_spaces.highlighted_proposals.see_all;Alle anzeigen (%{count})
+;de;decidim.proposals.admin.import_proposals_mailer.notify_success.body;Vorschläge erfolgreich aus der Komponente %{origin_component_name} zu %{target_component_name} importiert. Du kannst die Ergebnisse in der Adminoberfläche überprüfen.
+;de;decidim.proposals.admin.imports.help.answers;"Das Importdokument sollte die folgenden Spaltennamen bei CSV- oder Excel-Dateien enthalten bzw. Schlüsselnamen im Falle von JSON-Dateien:
+<ul>
+<li><b>id:</b> ID des Vorschlages zur Beantwortung</li>
+<li><b>state:</b> Einer von ""accepted"", ""evaluating"" oder ""rejected""</li>
+<li><b>answer/de:</b> Antwort in Deutscher Sprache. Dies hängt von der Sprachkonfiguration deiner Plattform ab.</li>
+</ul>"
+;de;decidim.proposals.admin.imports.help.proposals;"Die Datei muss bei CSV- oder Excel-Dateien die folgenden Spaltennamen haben bzw. Schlüsselnamen bei JSON-Dateien:
+<ul>
+<li><b>title/de:</b> Titel in Deutscher Sprache. Dies hängt von der Sprachkonfiguration deiner Plattform ab.</li>
+<li><b>body/de:</b> Beschreibung in Deutscher Sprache. Dies hängt von der Sprachkonfiguration deiner Plattform ab.</li>
+<li><b>scope/id:</b> ID für das Thema</li>
+<li><b>category/id:</b> ID für die Kategorie</li>
+</ul>"
+87950;de;decidim.proposals.admin.participatory_texts.bulk-actions.are_you_sure;Bist du sicher, den gesamten Entwurf des partizipativen Textes zu verwerfen?
+87951;de;decidim.proposals.admin.participatory_texts.import.invalid_file;Die Datei enthält Fehler. Bearbeite den Inhalt der Datei und lade sie erneut hoch.
+87952;de;decidim.proposals.admin.participatory_texts.import.success;Herzlichen Glückwunsch, die folgenden Abschnitte wurden aus dem importierten Dokument analysiert, sie wurden in Vorschläge konvertiert. Jetzt kannst du alles überprüfen und anpassen, bevor du es veröffentlichst.
+87953;de;decidim.proposals.admin.participatory_texts.index.info_1;Die folgenden Abschnitte wurden aus dem importierten Dokument analysiert, sie wurden in Vorschläge konvertiert. Jetzt kannst du alles überprüfen und anpassen, bevor du es veröffentlichst.
+87954;de;decidim.proposals.admin.participatory_texts.new_import.bottom_hint;(Du kannst Dokumentabschnitte in der Vorschau anzeigen und sortieren.)
+87955;de;decidim.proposals.admin.participatory_texts.new_import.document_legend;Füge ein Dokument hinzu, das kleiner als 2MB ist. Für alle Abschnitte bis 3 Ebenen tief werden Vorschläge erstellt. Unterstützte Formate sind: %{valid_mime_types}
+87956;de;decidim.proposals.admin.participatory_texts.publish.invalid;Vorschläge konnten nicht veröffentlicht werden
+87957;de;decidim.proposals.admin.participatory_texts.publish.success;Alle Vorschläge wurden veröffentlicht
+87958;de;decidim.proposals.admin.proposal_notes.create.error;Beim Erstellen dieser Vorschlagsnotiz ist ein Fehler aufgetreten
+87959;de;decidim.proposals.admin.proposal_notes.create.success;Vorschlagsanmerkung erfolgreich erstellt
+76543;de;decidim.proposals.admin.proposal_notes.form.submit;Notiz speichern
+87960;de;decidim.proposals.admin.proposals.answer.invalid;Es gab ein Problem bei der Beantwortung dieses Vorschlags
+87961;de;decidim.proposals.admin.proposals.answer.success;Der Vorschlag wurde erfolgreich beantwortet
+87962;de;decidim.proposals.admin.proposals.create.invalid;Beim Erstellen dieses Vorschlags ist ein Fehler aufgetreten
+87963;de;decidim.proposals.admin.proposals.create.success;Vorschlag erfolgreich erstellt
+87964;de;decidim.proposals.admin.proposals.form.attachment_legend;(Optional) Anhang hinzufügen
+87965;de;decidim.proposals.admin.proposals.form.created_in_meeting;Dieser Vorschlag stammt von einer Veranstaltung
+87966;de;decidim.proposals.admin.proposals.form.select_a_meeting;Veranstaltung auswählen
+87967;de;decidim.proposals.admin.proposals.index.assign_to_valuator;Zuweisen zu dem Schätzer
+87968;de;decidim.proposals.admin.proposals.index.change_scope;Thema ändern
+87969;de;decidim.proposals.admin.proposals.index.unassign_from_valuator;Zuweisung an den Schätzer zurückziehen
+87970;de;decidim.proposals.admin.proposals.index.update_scope_button;Thema aktualisieren
+87971;de;decidim.proposals.admin.proposals.publish_answers.number_of_proposals;Die Antworten für %{number} Vorschläge werden veröffentlicht.
+87972;de;decidim.proposals.admin.proposals.publish_answers.select_a_proposal;Bitte wähle einen Vorschlag
+87973;de;decidim.proposals.admin.proposals.show.assigned_valuators;Zugewiesene Schätzer
+87974;de;decidim.proposals.admin.proposals.show.endorsements_count;Anzahl Befürworter/innen
+87975;de;decidim.proposals.admin.proposals.show.endorsers;Befürworter/innen
+87976;de;decidim.proposals.admin.proposals.show.link;Verknüpfung
+87977;de;decidim.proposals.admin.proposals.show.remove_assignment_confirmation;Bist du sicher, diesen Schätzer von diesem Vorschlag entfernen zu wollen?
+87978;de;decidim.proposals.admin.proposals.show.valuators;Schätzer
+87979;de;decidim.proposals.admin.proposals.show.votes_count;Anzahl der Stimmen
+87980;de;decidim.proposals.admin.proposals.update_category.select_a_category;Bitte wähle eine Kategorie
+87981;de;decidim.proposals.admin.proposals.update_category.select_a_proposal;Bitte wähle einen Vorschlag
+87982;de;decidim.proposals.admin.proposals.update_scope.invalid;Diese Vorschläge gehörten bereits um Thema %{subject_name}: %{proposals}.
+87983;de;decidim.proposals.admin.proposals.update_scope.select_a_proposal;Bitte wähle einen Vorschlag
+87984;de;decidim.proposals.admin.proposals.update_scope.select_a_scope;Bitte wähle einen Thema
+87985;de;decidim.proposals.admin.proposals.update_scope.success;Die Vorschläge wurden erfolgreich zum Thema %{subject_name} aktualisiert: %{proposals}.
+87986;de;decidim.proposals.admin.proposals_imports.create.invalid;Beim Importieren der Vorschläge ist ein Problem aufgetreten
+87987;de;decidim.proposals.admin.proposals_imports.create.success;%{number} Vorschläge wurden erfolgreich importiert
+87988;de;decidim.proposals.admin.proposals_imports.new.no_components;In diesem Mitwirkungsprozess gibt es keine weiteren Vorschlagskomponenten, aus denen die Vorschläge importiert werden könnten.
+87989;de;decidim.proposals.admin.proposals_imports.new.select_component;Bitte wähle eine Komponente aus
+87990;de;decidim.proposals.admin.proposals_imports.new.select_states;Überprüfe den Status der zu importierenden Vorschläge
+87991;de;decidim.proposals.admin.valuation_assignments.create.invalid;Bei der Zuweisung von Vorschlägen an einen Schätzer ist ein Fehler aufgetreten
+87992;de;decidim.proposals.admin.valuation_assignments.create.success;Die Vorschläge wurden erfolgreich dem Schätzer zugewiesen
+87993;de;decidim.proposals.admin.valuation_assignments.delete.invalid;Beim Zurückziehen der Zuweisung von Vorschlägen an einen Schätzer ist ein Fehler aufgetreten
+87994;de;decidim.proposals.admin.valuation_assignments.delete.success;Die Zuweisung der Vorschläge wurden erfolgreich von dem Schätzer zurückgezogen
+87995;de;decidim.proposals.admin_log.valuation_assignment.create;%{user_name} hat den Vorschlag %{resource_name} einem Schätzer zugewiesen
+87996;de;decidim.proposals.admin_log.valuation_assignment.delete;%{user_name} hat die Zuweisung vom Vorschlag %{proposal_title} von einem Schätzer zurückgezogen
+87997;de;decidim.proposals.answers.not_answered;Neu
+87998;de;decidim.proposals.application_helper.filter_origin_values.meetings;Veranstaltungen
+87999;de;decidim.proposals.application_helper.filter_origin_values.user_groups;Gruppen
+88272;de;decidim.proposals.application_helper.filter_state_values.not_answered;Neu
+88000;de;decidim.proposals.collaborative_drafts.collaborative_draft.publish.error;Bei der Veröffentlichung des kollaborativen Entwurfs sind Fehler aufgetreten.
+88001;de;decidim.proposals.collaborative_drafts.collaborative_draft.withdraw.irreversible_action_modal.body;Nach dem Schliessen des Entwurfs wird der Entwurf nicht mehr bearbeitet werden können. Der Entwurf akzeptiert keine neuen Autoren oder Beiträge.
+88002;de;decidim.proposals.collaborative_drafts.collaborative_draft.withdraw.irreversible_action_modal.ok;Ziehe den gemeinsamen Entwurf zurück
+88003;de;decidim.proposals.collaborative_drafts.collaborative_draft.withdraw.success;Gemeinsamer Entwurf erfolgreich zurückgezogen.
+88004;de;decidim.proposals.collaborative_drafts.create.error;Beim Erstellen dieses gemeinsamen Entwurfs ist ein Problem aufgetreten
+88005;de;decidim.proposals.collaborative_drafts.edit.attachment_legend;(Optional) Du kannst einen Anhang hinzufügen
+88006;de;decidim.proposals.collaborative_drafts.edit.select_a_category;Bitte wähle eine Kategorie
+88007;de;decidim.proposals.collaborative_drafts.edit.title;Kollaborativen Entwurf bearbeiten
+88008;de;decidim.proposals.collaborative_drafts.filters.scope;Thema
+88009;de;decidim.proposals.collaborative_drafts.new_collaborative_draft_button.new_collaborative_draft;Neuer kollaborativer Entwurf
+88010;de;decidim.proposals.collaborative_drafts.orders.label;Sortieren nach:
+88011;de;decidim.proposals.collaborative_drafts.requests.accepted_request.error;Konnte nicht als Mitarbeiter akzeptiert werden, versuche es später erneut.
+88012;de;decidim.proposals.collaborative_drafts.requests.accepted_request.success;'@%{User} wurde erfolgreich als Partner akzeptiert
+88013;de;decidim.proposals.collaborative_drafts.requests.access_requested.error;Deine Anfrage konnte nicht abgeschlossen werden. Versuche es später erneut.
+88014;de;decidim.proposals.collaborative_drafts.requests.access_requested.success;Deine Anfrage zur Zusammenarbeit wurde erfolgreich gesendet
+88015;de;decidim.proposals.collaborative_drafts.requests.rejected_request.success;'@%{User} wurde als Collaborator erfolgreich abgelehnt
+88016;de;decidim.proposals.collaborative_drafts.show.edit;Kollaborativen Entwurf bearbeiten
+88017;de;decidim.proposals.collaborative_drafts.show.final_proposal_help_text;Dieser Entwurf ist fertig. Du kannst den endgültigen fertigen Vorschlag sehen
+88019;de;decidim.proposals.collaborative_drafts.show.info-message;Dies ist ein <strong>kollaborativer Vorschlags-Entwurf</strong>. Das bedeutet, dass du den Verfasser*innen helfen kannst, die Idee weiter zu entwickeln, indem du unten Kommentare hinzufügst oder direkt Zugriff auf den Entwurf anforderst. Sobald die Verfasser*innen dir Zugriff gewähren, kannst du Änderungen direkt am Entwurf vornehmen.
+88020;de;decidim.proposals.collaborative_drafts.show.publish_info;Veröffentliche diese Version des Entwurfs oder
+88021;de;decidim.proposals.collaborative_drafts.show.withdraw;Ziehe den Entwurf zurück
+88022;de;decidim.proposals.collaborative_drafts.states.open;Offen
+88023;de;decidim.proposals.collaborative_drafts.update.error;Beim Speichern des kollaborativen Entwurfs sind Fehler aufgetreten.
+88024;de;decidim.proposals.collaborative_drafts.wizard_header.title;Erstelle deinen gemeinsamen Entwurf
+88025;de;decidim.proposals.create.success;Der Vorschlag wurde erfolgreich erstellt. Vergleiche nun, ob bereits ähnliche Vorschläge bestehen.
+88026;de;decidim.proposals.models.proposal.fields.valuator;Schätzer
+88027;de;decidim.proposals.models.proposal.fields.valuators;Schätzer
+88028;de;decidim.proposals.new.limit_reached;Du kannst keine neuen Vorschläge erstellen, da du das Maximum erreicht hast.
+88029;de;decidim.proposals.proposal_votes.create.error;Es gab Fehler bei der Stimmabgabe.
+88030;de;decidim.proposals.proposals.compare.title;Ähnliche Vorschläge
+88031;de;decidim.proposals.proposals.dynamic_map_instructions.description;"Die Koordinaten werden aktualisiert, sobald du auf ""Vorschau"" klickst. Die angezeigte Adresse ändert sich jedoch nicht."
+88032;de;decidim.proposals.proposals.dynamic_map_instructions.instructions;Du kannst den Punkt auf der Karte verschieben.
+88033;de;decidim.proposals.proposals.edit.add_documents;Unterlagen
+88034;de;decidim.proposals.proposals.edit.attachment_legend;(Optional) Füge einen Anhang hinzu
+88018;de;decidim.proposals.proposals.edit.select_a_category;Bitte wähle eine Kategorie
+88035;de;decidim.proposals.proposals.edit_draft.discard;Verwerfe diesen Entwurf
+88036;de;decidim.proposals.proposals.edit_draft.discard_confirmation;Möchtest du diesen Vorschlagsentwurf wirklich verwerfen?
+88037;de;decidim.proposals.proposals.filters.activity;Art
+88038;de;decidim.proposals.proposals.filters.my_proposals;Eigene Vorschläge
+88039;de;decidim.proposals.proposals.filters.origin;Herkunft
+88040;de;decidim.proposals.proposals.filters.related_to;Umsetzung
+88041;de;decidim.proposals.proposals.filters.scope;Thema
+88042;de;decidim.proposals.proposals.filters.voted;Gewählte Vorschläge
+88043;de;decidim.proposals.proposals.index.collaborative_drafts_list;Liste der kollaborativen Entwürfe
+88044;de;decidim.proposals.proposals.index.see_all_withdrawn;Sieh dir alle zurückgezogenen Vorschläge an.
+88271;de;decidim.proposals.proposals.index.text_banner;Diese Impulse wurden von den Autor/innen zurückgezogen.
+88045;de;decidim.proposals.proposals.new.title;Neuen Vorschlag erstellen
+88046;de;decidim.proposals.proposals.orders.most_commented;Anzahl Kommentare
+88047;de;decidim.proposals.proposals.orders.most_endorsed;Grösste Zustimmung
+88048;de;decidim.proposals.proposals.orders.most_followed;Anzahl Followers
+88049;de;decidim.proposals.proposals.orders.most_voted;Anzahl Stimmen
+88050;de;decidim.proposals.proposals.orders.with_more_authors;Von mehreren Autoren erstellt
+88051;de;decidim.proposals.proposals.placeholder.address;Hirschengraben 17, 6003 Luzern
+88052;de;decidim.proposals.proposals.preview.announcement_body;Dein Vorschlag wurde als Entwurf gespeichert. Er muss veröffentlicht werden, damit er auf der Seite erscheint.
+88053;de;decidim.proposals.proposals.preview.announcement_title;Dein Vorschlag wurde noch nicht veröffentlicht
+;de;decidim.proposals.proposals.preview.proposal_edit_before_minutes;Du kannst diesen Vorschlag in den ersten %{count} Minute nach seiner Veröffentlichung bearbeiten. Nach Ablauf dieses Zeitfensters können du diesen nicht mehr bearbeiten.
+88054;de;decidim.proposals.proposals.proposal.view_proposal;Vorschlag anzeigen
+88055;de;decidim.proposals.proposals.proposals.empty;Es gibt noch keinen Vorschlag
+88056;de;decidim.proposals.proposals.proposals.empty_filters;Es gibt keine Vorschläge mit diesem Kriterium
+88057;de;decidim.proposals.proposals.show.link_to_collaborative_draft_help_text;Dieser Vorschlag ist das Ergebnis eines kollaborativen Entwurfs. Vergleiche die älteren Versionen.
+88058;de;decidim.proposals.proposals.show.link_to_collaborative_draft_text;Kollaborativen Entwurf anzeigen
+88059;de;decidim.proposals.proposals.show.withdraw_btn_hint;Du kannst deinen Vorschlag zurückziehen, wenn du es dir anders überlegst, solange du keine Stimmen erhalten hast. Der Vorschlag wird nicht gelöscht, er erscheint in der Liste der zurückgezogenen Vorschläge.
+88060;de;decidim.proposals.proposals.show.withdraw_confirmation_html;Bist du sicher, dass du diesen Vorschlag zurückziehen möchtest?<br><br><strong>Diese Aktion kann nicht rückgängig gemacht werden!</strong>
+88061;de;decidim.proposals.proposals.vote_button.already_voted;Bereits dafür gestimmt
+88062;de;decidim.proposals.proposals.vote_button.already_voted_hover;Meine Stimme zurückziehen
+88063;de;decidim.proposals.proposals.vote_button.maximum_votes_reached;Maximale Anzahl Stimmen vergeben
+88064;de;decidim.proposals.proposals.vote_button.vote;Dafür stimmen
+88065;de;decidim.proposals.proposals.vote_button.votes_blocked;Stimmensammlung deaktivieren
+88066;de;decidim.proposals.proposals.voting_rules.minimum_votes_per_user.description;Du musst mindestens %{votes} Stimmen auf verschiedene Vorschläge verteilen.
+88067;de;decidim.proposals.proposals.voting_rules.minimum_votes_per_user.given_enough_votes;Du hast genug Vorschläge ausgewählt.
+;de;decidim.proposals.proposals.voting_rules.minimum_votes_per_user.votes_remaining;Wählen du %{remaining_votes} weitere Vorschläge, damit deine Auswahl Stimmen gewertet werden kann.
+88068;de;decidim.proposals.proposals.voting_rules.proposal_limit.description;Du kannst bis zu %{limit} Vorschläge erstellen.
+88069;de;decidim.proposals.proposals.voting_rules.threshold_per_proposal.description;Um validiert zu werden, müssen die Vorschläge %{limit} Stimmen erreichen
+88070;de;decidim.proposals.proposals.voting_rules.title;Die Stimmabgabe unterliegt folgenden Regeln:
+88071;de;decidim.proposals.proposals.voting_rules.vote_limit.description;Du kannst bis zu %{limit} Vorschläge auswählen.
+88072;de;decidim.proposals.proposals.voting_rules.vote_limit.votes;Stimmen
+88073;de;decidim.proposals.proposals.wizard_aside.back_from_step_2;Zurück zu Vorschlägen
+88074;de;decidim.proposals.proposals.wizard_steps.step_2;Vergleichen
+88075;de;decidim.proposals.proposals.wizard_steps.title;Schritten zur Erstellung von Vorschlägen
+88076;de;decidim.proposals.proposals_picker.no_proposals;Kein Vorschlag entspricht deinen Suchkriterien oder es ist keine Vorschlag geplant.
+;de;decidim.reporting_proposals.proposals.compare.geocoding.description;Dies sind Vorschläge, die in einem Radius von %{meters} zu dem von dir erstellten sind. Allenfalls hat eine andere Person die die gleiche Situation gemeldet. In diesem Fall können du die bestehende Meldung Unterstützen, anstatt eine neue zu erstellen.
+88077;de;decidim.resource_links.included_proposals.result_proposal;Dieses Ergebnis basiert auf folgenden Vorschlägen
+88078;de;decidim.resource_links.proposals_from_meeting.meeting_proposal;Erarbeitete Vorschläge:
+88097;de;decidim.sortitions.admin.sortitions.form.select_proposal_component;Wähle die Vorschläge aus
+;de;decidim.templates.admin.proposal_answer_templates.form.hint_html;<strong>Tipp:</strong> Du kannst diese Variablen überall in der Antwortvorlage verwenden. Du wirst bei der Verwendung der Vorlage ersetzt

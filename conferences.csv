@@ -1,0 +1,58 @@
+id;locale;key;value
+86838;de;activemodel.attributes.conference.copy_components;Kopiere Komponenten
+86839;de;activemodel.attributes.conference.decidim_scope_id;Thema
+86840;de;activemodel.attributes.conference.hashtag;Hashtag (führt auf Twitter)
+86841;de;activemodel.attributes.conference.participatory_processes_ids;Dazugehörige Projekte
+86842;de;activemodel.attributes.conference.promoted;Hervorgehoben
+86843;de;activemodel.attributes.conference.scope_id;Thema
+86844;de;activemodel.attributes.conference.scopes_enabled;Wähle ein Thema aus
+86845;de;activemodel.attributes.conference.show_statistics;Statistiken anzeigen
+86710;de;decidim.admin.models.registration_type.name;Anmeldeart
+86942;de;decidim.admin.registration_types.create.success;Die Anmelde-Funktion wurde erfolgreich zu dieser Veranstaltung hinzugefügt.
+86943;de;decidim.admin.registration_types.update.success;Die Anmelde-Funktion für diese Veranstaltung wurde erfolgreich aktualisiert.
+87160;de;decidim.conferences.admin.conference_invites.new.explanation;Der Benutzer oder die Benutzerin wird eingeladen, an einer Konferenz teilzunehmen. Wenn die E-Mail nicht registriert ist, wird er ebenfalls zur Organisation eingeladen.
+87161;de;decidim.conferences.admin.conferences.form.available_slots_help;Belasse es auf 0, wenn du unbegrenzte Plätze zur Verfügung hast.
+;de;decidim.conferences.admin.invite_join_conference_mailer.invite.invited_existing_user_to_join_a_conference;%{invited_by} hat du eingeladen, an einer Konferenz um %{application}teilzunehmen. Du kannst dies über die unten stehenden Links ablehnen oder akzeptieren.
+;de;decidim.conferences.admin.invite_join_conference_mailer.invite.invited_user_to_join_a_conference;%{invited_by} hat du eingeladen, an einer Konferenz auf %{application} teilzunehmen. Du kannst die Einladung über den unten stehenden Link akzeptieren.
+87162;de;decidim.conferences.admin.send_conference_diploma_mailer.diploma.diploma_html;"Die Teilnahmebestätigung für die Konferenz <a href=""%{url}"">%{title}</a> ist angehängt."
+87164;de;decidim.conferences.conference.registration_confirm.cancel;Abbrechen
+87165;de;decidim.conferences.conference.show.going;Angemeldet
+87166;de;decidim.conferences.conference_registration_mailer.confirmation.confirmed_html;"Deine Anmeldung zur Konferenz <a href=""%{url}"">%{title}</a> wurde bestätigt."
+87167;de;decidim.conferences.conference_registration_mailer.confirmation.details_1;Du bist mit dem Typ %{registration_type} zur Konferenz angemeldet. Es kostet %{price} und du kannst an folgenden Events teilnehmen:
+87168;de;decidim.conferences.conference_registration_mailer.confirmation.details_2;Du findest die Details der Konferenz im Anhang.
+87169;de;decidim.conferences.conference_registration_mailer.pending_validation.confirmation_pending;Du erhältst in Kürze eine Bestätigung
+87170;de;decidim.conferences.conference_registration_mailer.pending_validation.details;Du hast dich für %{registration_type} Typ mit einem Preis von %{price} angemeldet und können an den folgenden Events teilnehmen:
+87171;de;decidim.conferences.conference_registration_mailer.pending_validation.pending_html;"Deine Anmeldung zur Konferenz <a href=""%{url}"">%{title}</a> steht noch aus."
+87172;de;decidim.conferences.conference_registrations.create.success;Du bist der Konferenz erfolgreich beigetreten.
+;de;decidim.conferences.conference_registrations.create.unauthorized;Du musst sich anmelden, um sich bei der Konferenz anzumelden.
+87173;de;decidim.conferences.conference_registrations.decline_invitation.success;Du hast die Einladung erfolgreich abgelehnt.
+;de;decidim.conferences.conference_registrations.decline_invitation.unauthorized;Du musst sich anmelden, bevor du die Einladung ablehnen.
+87174;de;decidim.conferences.conference_registrations.destroy.success;Du hast die Konferenz erfolgreich verlassen.
+;de;decidim.conferences.conferences.show.already_have_an_account?;Du hast bereits ein Konto?
+;de;decidim.conferences.conferences.show.are_you_new?;Du hast noch nie teilgenommen?
+87175;de;decidim.conferences.conferences.show.login_as;Du bist als %{name} <%{email}> angemeldet
+87176;de;decidim.conferences.conferences.show.make_conference_registration;Registriere dich in der Konferenz:
+87177;de;decidim.conferences.mailer.conference_registration_mailer.confirmation.subject;Die Registrierung deiner Konferenz wurde bestätigt
+87178;de;decidim.conferences.mailer.conference_registration_mailer.pending_validation.subject;Deine Anmeldung zur Konferenz steht noch aus
+87179;de;decidim.conferences.mailer.send_conference_diploma_mailer.diploma.subject;Deine Konferenz-Teilnahmebestätigung wurde gesendet
+87180;de;decidim.conferences.registration_types.index.choose_an_option;Wähle deine Registrierungsoption:
+83202;de;decidim.conferences.show.related_assemblies;Ähnliche Organisationen
+87181;de;decidim.conferences.show.related_participatory_processes;Dazugehörige Projekte
+87296;de;decidim.events.conferences.conference_registration_confirmed.notification_title;"Deine Anmeldung für der Konferenz <a href=""%{resource_url}"">%{resource_title}</a> wurde bestätigt."
+87297;de;decidim.events.conferences.conference_registration_validation_pending.notification_title;"Die Bestätigung deiner Anmeldung für der Konferenz <a href=""%{resource_url}"">%{resource_title}</a> steht noch aus."
+87298;de;decidim.events.conferences.conference_registrations_over_percentage.email_outro;Du hast diese Benachrichtigung erhalten, weil du ein Administrator des Teilnahmebereichs der Konferenz bist.
+87300;de;decidim.events.conferences.conference_registrations_over_percentage.notification_title;"Die <a href=""%{resource_path}"">%{resource_title}</a> Konferenz belegten Slots bist über %{percentage}%."
+87301;de;decidim.events.conferences.conference_updated.email_intro;"Die Konferenz ""%{resource_title}"" wurde aktualisiert. Du kannst die neue Version von deiner Seite lesen:"
+87302;de;decidim.events.conferences.conference_updated.email_outro;"Du hast diese Benachrichtigung erhalten, weil du der Konferenz ""%{resource_title}"" folgst. Wenn du keine Benachrichtigungen mehr erhalten möchtest, kannst du das in deinen Profileinstellungen angeben."
+87303;de;decidim.events.conferences.registrations_enabled.email_intro;"Die ""%{resource_title}"" -Konferenz hat Registrierungen ermöglicht. Du kannst sich auf seiner Seite registrieren:"
+87304;de;decidim.events.conferences.registrations_enabled.email_outro;"Du hast diese Benachrichtigung erhalten, weil du der Konferenz ""%{resource_title}"" folgst. Wenn du keine Benachrichtigungen mehr erhalten möchtest, kannst du das in deinen Profileinstellungen angeben."
+87305;de;decidim.events.conferences.registrations_enabled.email_subject;"Die Konferenz ""%{resource_title}"" hat Registrierungen aktiviert."
+87307;de;decidim.events.conferences.registrations_enabled.notification_title;"Die <a href=""%{resource_path}"">%{resource_title}</a> Konferenz ist nun offen für Registrierungen."
+87308;de;decidim.events.conferences.role_assigned.email_intro;Du wurdest als %{role} für die Konferenz „%{resource_title}“ ausgewählt.
+87309;de;decidim.events.conferences.role_assigned.email_outro;Du hast diese Benachrichtigung erhalten, weil du ein %{role} der Konferenz „%{resource_title}“ bist.
+87310;de;decidim.events.conferences.role_assigned.email_subject;Du wurdest als %{role} für „%{resource_title}“ ausgewählt.
+87311;de;decidim.events.conferences.role_assigned.notification_title;"Du wurdest als %{role} für der Konferenz <a href=""%{resource_url}"">%{resource_title}</a> ausgewählt."
+87312;de;decidim.events.conferences.upcoming_conference.email_intro;"Die ""%{resource_title}"" -Konferenz findet in 2 Tagen statt. Du kannst die Beschreibung von deiner Seite lesen:"
+87313;de;decidim.events.conferences.upcoming_conference.email_outro;"Du hast diese Benachrichtigung erhalten, weil du der Konferenz ""%{resource_title}"" folgst. Wenn du keine Benachrichtigungen mehr erhalten möchtest, kannst du das in deinen Profileinstellungen angeben."
+87314;de;decidim.events.conferences.upcoming_conference.notification_title;"Die <a href=""%{resource_path}"">%{resource_title}</a> Konferenz findet in 2 Tagen statt."
+88253;de;layouts.decidim.conferences.index.promoted_conferences;Hervorgehobene Konferenzen

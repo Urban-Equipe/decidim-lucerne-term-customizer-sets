@@ -1,0 +1,114 @@
+id;locale;key;value
+86604;de;activemodel.attributes.participatory_process.announcement;Ankündigung (kommt oberhalb des Textes in einem blauen Balken zu stehen)
+86605;de;activemodel.attributes.participatory_process.area_id;Gebiet
+86606;de;activemodel.attributes.participatory_process.decidim_area_id;Gebiet
+86607;de;activemodel.attributes.participatory_process.developer_group;Weiteres
+86608;de;activemodel.attributes.participatory_process.hashtag;Hashtag (führt auf Twitter)
+86609;de;activemodel.attributes.participatory_process.hero_image;Hauptbild (kommt in der Projektübersicht in die Kachel)
+88278;de;activemodel.attributes.participatory_process.local_area;Kontaktperson
+88283;de;activemodel.attributes.participatory_process.meta_scope;Projektwebsite
+88289;de;activemodel.attributes.participatory_process.participatory_scope;Stichworte
+88295;de;activemodel.attributes.participatory_process.participatory_structure;Organisation, Bereich
+86614;de;activemodel.attributes.participatory_process.related_process_ids;Dazugehörige Projekte
+86615;de;activemodel.attributes.participatory_process.scope_id;Themenbereich
+86616;de;activemodel.attributes.participatory_process.scope_type_max_depth_id;Thema-Filtertiefe
+86617;de;activemodel.attributes.participatory_process.scopes_enabled;Ich möchte meine Organisation einem Thema zuordnen
+86618;de;activemodel.attributes.participatory_process.short_description;Einleitung / Lead (grösser und fetter als Beschreibung)
+86619;de;activemodel.attributes.participatory_process.slug;URL-Block (ein Wort, das im Link zu stehen kommen soll).
+86620;de;activemodel.attributes.participatory_process.subtitle;Untertitel / Slogan
+88301;de;activemodel.attributes.participatory_process.target;Zielgruppe
+86622;de;activemodel.attributes.participatory_process.title;Name des Projekts
+86623;de;activemodel.attributes.participatory_process.weight;Gewicht (0 stehen lassen)
+88307;de;activemodel.attributes.participatory_process_group.developer_group;Gruppe der Unterstützer
+86624;de;activemodel.attributes.participatory_process_group.hashtag;Hashtag (führt auf Twitter)
+88279;de;activemodel.attributes.participatory_process_group.local_area;Kontaktperson
+88284;de;activemodel.attributes.participatory_process_group.meta_scope;Projektwebsite
+86626;de;activemodel.attributes.participatory_process_group.participatory_process_ids;Dazugehörige Projekte (mit CTRL+Klick wieder abwählen)
+88290;de;activemodel.attributes.participatory_process_group.participatory_scope;Stichworte
+88296;de;activemodel.attributes.participatory_process_group.participatory_structure;Organisation, Bereich
+88302;de;activemodel.attributes.participatory_process_group.target;Zielgruppe
+86630;de;activemodel.attributes.participatory_process_step.cta_path;"""Call to Action""-Pfad (leer lassen)"
+86631;de;activemodel.attributes.participatory_process_step.cta_text;Call to Action-Text (leer lassen)
+86632;de;activemodel.attributes.participatory_process_step.title;Titel der Projektphase
+86895;de;decidim.admin.menu.participatory_processes;Projekte
+86896;de;decidim.admin.menu.participatory_processes_submenu.info;Projekt-Startseite
+86897;de;decidim.admin.menu.participatory_processes_submenu.moderations;Als störend gemeldete Inhalte
+86898;de;decidim.admin.menu.participatory_processes_submenu.private_users;Ausgewählte User (falls es eine geschlossene Gruppe ist)
+86899;de;decidim.admin.menu.participatory_processes_submenu.process_admins;Benutzer/innen bearbeiten
+86900;de;decidim.admin.menu.participatory_processes_submenu.steps;Projekt-Phasen
+86708;de;decidim.admin.models.participatory_process.name;Projekt
+86727;de;decidim.admin.participatory_process_copies.new.select;Wähle aus, welche Daten du duplizieren möchtest
+86728;de;decidim.admin.participatory_process_copies.new.title;Projekt duplizieren
+86729;de;decidim.admin.participatory_process_groups.destroy.error;Beim Löschen der Partizipationsprozessgruppe ist ein Fehler aufgetreten.
+86730;de;decidim.admin.participatory_process_groups.destroy.success;Projekt erfolgreich gelöscht.
+86731;de;decidim.admin.participatory_process_imports.create.error;Beim Importieren dieses Projektes ist ein Fehler aufgetreten.
+86923;de;decidim.admin.participatory_process_imports.create.success;Projekt wurde erfolgreich importiert.
+86924;de;decidim.admin.participatory_process_imports.new.select;Wähle aus, welche Daten du importieren möchtest
+86925;de;decidim.admin.participatory_process_imports.new.title;Projekt importieren
+86926;de;decidim.admin.participatory_process_publications.create.error;Bei der Veröffentlichung dieses Projektes ist ein Fehler aufgetreten.
+86927;de;decidim.admin.participatory_process_publications.destroy.error;Beim Aufheben der Veröffentlichung dieses Projektes ist ein Fehler aufgetreten.
+86928;de;decidim.admin.participatory_process_steps.create.success;Phase des Projekts erfolgreich erstellt
+86929;de;decidim.admin.participatory_process_steps.destroy.error.active_step;Die aktive Phase kann nicht gelöscht werden.
+86930;de;decidim.admin.participatory_process_steps.destroy.error.last_step;Der letzte Schritt eines Projektes kann nicht gelöscht werden.
+86931;de;decidim.admin.participatory_process_steps.destroy.success;Phase des Projekts erfolgreich gelöscht
+;de;decidim.admin.participatory_process_steps.edit.cta_deprecated.body_html;"Die Konfigurierung der Handlungsaufforderung durch die Schritte des partizipativen Prozesses ist mit dem neuen Design veraltet.
+Neu finden du die Einstellung bei der Konfiguration der <b>Startseite</b> unter dem Inhaltsbaustein <b>Banner-Bild und Handlungsaufforderung</b>.
+Du kannst die benötigten Handlungsaufforderungen migrieren. Die Felder <i>Aufruf zum Aktionspfad</i> und
+<i>Aufruf zum Aktionstext</i> werden in der nächsten Version entfernt."
+86932;de;decidim.admin.participatory_process_steps.edit.title;Projek-Phase bearbeiten
+86933;de;decidim.admin.participatory_process_steps.new.title;Neue Projekt-Phase
+86934;de;decidim.admin.participatory_process_steps.update.success;Phase des Projekts erfolgreich aktualisiert.
+86935;de;decidim.admin.participatory_process_user_roles.edit.title;Administrator des Projektes aktualisieren
+86936;de;decidim.admin.participatory_process_user_roles.new.title;Neuer Administrator des Projektes
+86937;de;decidim.admin.participatory_processes.create.error;Beim Erstellen eines neuen Projektes ist ein Fehler aufgetreten.
+86938;de;decidim.admin.participatory_processes.create.success;Partizipativer Prozess erfolgreich erstellt. Konfiguriere jetzt die Phasen.
+86939;de;decidim.admin.participatory_processes.update.error;Beim Aktualisieren dieses Projektes ist ein Fehler aufgetreten.
+86940;de;decidim.admin.participatory_processes_copies.create.error;Beim Duplizieren dieses Projektes ist ein Fehler aufgetreten.
+86972;de;decidim.admin.titles.participatory_processes;Projekte
+86754;de;decidim.admin_log.participatory_process_group.create;%{user_name} hat die Partizipationsprozessgruppe %{resource_name} erstellt
+86755;de;decidim.admin_log.participatory_process_group.update;%{user_name} hat die Partizipationsprozessgruppe %{resource_name} aktualisiert
+86756;de;decidim.admin_log.participatory_process_step.activate;%{user_name} hat die Phase %{resource_name} in %{space_name} aktiviert
+86757;de;decidim.admin_log.participatory_process_step.create;%{user_name} hat die Phase %{resource_name} in %{space_name} erstellt
+86758;de;decidim.admin_log.participatory_process_step.delete;%{user_name} hat die Phase %{resource_name} aus %{space_name} gelöscht
+86760;de;decidim.admin_log.participatory_process_step.update;%{user_name} hat die Phase %{resource_name} in %{space_name} aktualisiert
+87421;de;decidim.events.participatory_process.role_assigned.email_intro;Du wurdest als %{role} für das Projekt „%{resource_title}“ ausgewählt.
+87422;de;decidim.events.participatory_process.role_assigned.email_outro;Du hast diese Benachrichtigung erhalten, weil du ein %{role} des Projektes „%{resource_title}“ bist.
+87299;de;decidim.events.participatory_process.role_assigned.email_subject;Du wurdest als %{role} für „%{resource_title}“ ausgewählt.
+87423;de;decidim.events.participatory_process.role_assigned.notification_title;"Du wurdest als %{role} für das Projekt <a href=""%{resource_url}"">%{resource_title}</a> ausgewählt."
+87424;de;decidim.events.participatory_process.step_activated.email_intro;Der %{resource_title} Schritt ist jetzt für %{participatory_space_title}. Du kannst es auf dieser Seite sehen:
+87425;de;decidim.events.participatory_process.step_activated.email_outro;Du hast diese Benachrichtigung erhalten, weil du %{participatory_space_title} folgst. Wenn du keine Benachrichtigungen mehr erhalten möchtest, kannst du das in deinen Profileinstellungen angeben.
+87426;de;decidim.events.participatory_process.step_changed.email_intro;Die Daten für die Projekt-Phase %{resource_title} bei %{participatory_space_title} wurden aktualisiert. Du kannst es auf dieser Seite sehen:
+87427;de;decidim.events.participatory_process.step_changed.email_outro;Du hast diese Benachrichtigung erhalten, weil du %{participatory_space_title} folgst. Wenn du keine Benachrichtigungen mehr erhalten möchtest, kannst du das in deinen Profileinstellungen angeben.
+87619;de;decidim.help.participatory_spaces.participatory_processes.contextual;"<p>Partizipation bedeutet teilhaben, teilnehmen oder beteiligt sein. Oft werden Synonyme wie Beteiligung, Mitwirkung, Mitbestimmung, Mitsprache oder Einbeziehung verwendet. So vielfältig die Begriffe sind, so vielfältig auch das Verständnis, was Partizipation genau ist. Partizipation ist meistens kein punktuelles Ereignis, sondern ein Prozess mit zahlreichen Phasen. Der Leitfaden <a href=""https://www.stadtluzern.ch/_docn/2791891/200904_Leitfaden_Partizipative_Planungsprozesse.pdf"">«Partizipative Planungsprozesse»</a> der Stadt Luzern bietet eine Übersicht der wichtigsten Themen und Fragen und hilft, Partizipationsprozesse erfolgreich zu planen und durchzuführen.</p>"
+87620;de;decidim.help.participatory_spaces.participatory_processes.page;"<p>Partizipation bedeutet teilhaben, teilnehmen oder beteiligt sein. Oft werden Synonyme wie Beteiligung, Mitwirkung, Mitbestimmung, Mitsprache oder Einbeziehung verwendet. So vielfältig die Begriffe sind, so vielfältig auch das Verständnis, was Partizipation genau ist. Partizipation ist meistens kein punktuelles Ereignis, sondern ein Prozess mit zahlreichen Phasen. Der Leitfaden <a href=""https://www.stadtluzern.ch/_docn/2791891/200904_Leitfaden_Partizipative_Planungsprozesse.pdf"">«Partizipative Planungsprozesse»</a> der Stadt Luzern bietet eine Übersicht der wichtigsten Themen und Fragen und hilft, Partizipationsprozesse erfolgreich zu planen und durchzuführen.</p>"
+87621;de;decidim.help.participatory_spaces.participatory_processes.title;Was bedeutet Partizipation?
+87902;de;decidim.metrics.participatory_processes.description;Anzahl der Projekte in dieser Organisation
+87903;de;decidim.metrics.participatory_processes.object;Projekte
+87904;de;decidim.metrics.participatory_processes.title;Projekte
+88292;de;decidim.participatory_process_groups.content_blocks.extra_data.participatory_scope;Stichworte
+88298;de;decidim.participatory_process_groups.content_blocks.extra_data.participatory_structure;Organisation, Bereich
+88304;de;decidim.participatory_process_groups.content_blocks.extra_data.target;Wer darf mitmachen?
+88286;de;decidim.participatory_process_groups.content_blocks.title.meta_scope;Projektwebsite
+87930;de;decidim.participatory_process_steps.index.process_steps;Phasen des Projekts
+87931;de;decidim.participatory_processes.admin.participatory_processes.form.announcement_help;Der Text, den du hier eingibst, wird den Benutzer/innen direkt unter den Prozessinformationen angezeigt.
+87932;de;decidim.participatory_processes.admin.participatory_processes.form.metadata;Kurzzusammenfassung (wird rechts in Kasten angezeigt)
+87933;de;decidim.participatory_processes.admin.participatory_processes.form.other;Weiteres
+87934;de;decidim.participatory_processes.admin.participatory_processes.form.related_processes;Dazugehörige Projekte (bitte nur wenn die Projektleitung in deiner Organisation liegt anwählen).
+87935;de;decidim.participatory_processes.admin.participatory_processes.form.scope_type_max_depth_help;"Schränkt die maximale Tiefe des Themen-Filters ein; Der Filter zeigt vom Allgemeinen bis zum ausgewählten Themenbereich."
+87936;de;decidim.participatory_processes.admin.participatory_processes.form.select_an_area;Wähle ein Gebiet aus
+87937;de;decidim.participatory_processes.admin.participatory_processes.form.select_process_group;Ordne das Projekt falls gewünscht einer Prozessgruppe unter.
+87938;de;decidim.participatory_processes.content_blocks.highlighted_processes.name;Projekte mit Mitwirkungsmöglichkeiten
+87939;de;decidim.participatory_processes.index.title;Projekte
+88308;de;decidim.participatory_processes.participatory_processes.description.developer_group;Gruppe der Unterstützenden
+88281;de;decidim.participatory_processes.participatory_processes.description.local_area;Kontaktperson
+88287;de;decidim.participatory_processes.participatory_processes.description.meta_scope;Projektwebsite
+88293;de;decidim.participatory_processes.participatory_processes.description.participatory_scope;Stichworte
+88299;de;decidim.participatory_processes.participatory_processes.description.participatory_structure;Organisation, Bereich
+88305;de;decidim.participatory_processes.participatory_processes.description.target;Wer nimmt teil?
+87940;de;decidim.participatory_processes.participatory_processes.filters.explanations.no_active_nor_upcoming;Keine aktiven oder zukünftigen Projekte
+87941;de;decidim.participatory_processes.participatory_processes.filters.explanations.no_active_nor_upcoming_callout;Es gibt keine aktiven oder zukünftigen Projekte. Hier ist eine Liste der vergangenen.
+87943;de;decidim.participatory_processes.show.related_processes;Dazugehörige Projekte
+88260;de;layouts.decidim.participatory_process_groups.participatory_process_group.processes_count;Projekte:
+88261;de;layouts.decidim.participatory_processes.index.promoted_processes;Projekte mit Mitwirkungsmöglichkeiten
+88262;de;layouts.decidim.participatory_processes.participatory_process.active_step;Aktuelle Projekt-Phase:
+88263;de;layouts.decidim.participatory_processes.participatory_process.take_part_in;Mehr zum Projekt %{resource_name}

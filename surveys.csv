@@ -1,0 +1,77 @@
+id;locale;key;value
+86640;de;activemodel.attributes.questionnaire_question.mandatory;Diese Frage muss zwingend beantwortet werden
+86641;de;activemodel.attributes.questionnaire_question.max_characters;Maximale Zeichenanzahl in der Antwort (0 bedeutet kein Limit)
+86649;de;activemodel.errors.models.questionnaire.request_invalid;Bei der Bearbeitung der Anfrage ist ein Fehler aufgetreten. Bitte versuche es nochmal
+87151;de;decidim.components.surveys.settings.global.announcement;Ankündigung (kommt oberhalb des Textes in einem blauen Balken zu stehen)
+87152;de;decidim.components.surveys.settings.global.clean_after_publish;Antworten bei Veröffentlichung des Fragebogens löschen (nicht empfohlen)
+87153;de;decidim.components.surveys.settings.global.ends_at;Ende der Umfrage (die Umfrage wird an diesem Datum automatisch geschlossen)
+87154;de;decidim.components.surveys.settings.global.scope_id;Thema
+87155;de;decidim.components.surveys.settings.global.scopes_enabled;Ich möchte die Umfrage einem Thema zuordnen.
+87156;de;decidim.components.surveys.settings.global.starts_at;Beginn der Umfrage
+87157;de;decidim.components.surveys.settings.step.allow_answers;Den Fragebogen in dieser Projekt-Phase öffnen
+87158;de;decidim.components.surveys.settings.step.allow_unregistered_help;Wenn diese Option aktiviert ist, muss man nicht angemeldet sein, um den Fragebogen zu beantworten. Das kann zu schlechten oder unzuverlässigen Daten führen und ist mehr anfällig für automatisierte Angriffe. Verwende dies mit Bedacht!
+87159;de;decidim.components.surveys.settings.step.announcement;Phasenspezifische Ankündigung (kommt oberhalb des Textes in einem blauen Balken zu stehen, überschreibt die generelle Ankündigung (oben)).
+87481;de;decidim.events.surveys.survey_closed.email_outro;Du hast diese Benachrichtigung erhalten, weil du %{participatory_space_title} folgst. Wenn du keine Benachrichtigungen mehr erhalten möchtest, kannst du das in deinen Profileinstellungen angeben.
+87482;de;decidim.events.surveys.survey_closed.email_subject;Eine Umfrage ist in %{participatory_space_title}
+87483;de;decidim.events.surveys.survey_opened.email_intro;Die Umfrage %{resource_title} in %{participatory_space_title} ist jetzt geöffnet. Du kannst von dieser Seite aus teilnehmen:
+87484;de;decidim.events.surveys.survey_opened.email_outro;Du hast diese Benachrichtigung erhalten, weil du %{participatory_space_title} folgst. Wenn du keine Benachrichtigungen mehr erhalten möchtest, kannst du das in deinen Profileinstellungen angeben.
+87485;de;decidim.events.surveys.survey_opened.notification_title;"In <a href=""%{participatory_space_url}"">%{participatory_space_title}</a> wurde die Umfrage namens <a href=""%{resource_path}"">%{resource_title}</a> für Antworten geöffnet."
+87499;de;decidim.forms.admin.models.components.description;Beschreibung (hier nicht zu viel Text, besser in der Komponenten-Konfiguration bei Ankündigung eine Erklärung platzieren).
+87500;de;decidim.forms.admin.models.components.tos;"Datenschutz: Beschreibe hier kurz zu welchem Zweck die gesammelten Daten benutzt werden <a href=""https://www.fedlex.admin.ch/eli/cc/1993/1945_1945_1945/de"">DSG 235.1</a>"
+87501;de;decidim.forms.admin.questionnaires.answer_option.answer_option;Antwortmöglichkeiten
+87502;de;decidim.forms.admin.questionnaires.answer_option.free_text;Zusätzliches Textfeld
+87503;de;decidim.forms.admin.questionnaires.answer_option.statement;Antwort
+87504;de;decidim.forms.admin.questionnaires.answers.actions.back;Zurück zu Antworten
+87505;de;decidim.forms.admin.questionnaires.display_condition.condition_question;Abhängige Frage
+87506;de;decidim.forms.admin.questionnaires.display_condition.condition_type;Anzeigebedingung
+87507;de;decidim.forms.admin.questionnaires.display_condition.condition_types.answered;Ist beantwortet
+87508;de;decidim.forms.admin.questionnaires.display_condition.condition_types.equal;Ist gleich
+87509;de;decidim.forms.admin.questionnaires.display_condition.condition_types.match;Enthaltener Text
+87510;de;decidim.forms.admin.questionnaires.display_condition.condition_types.not_answered;Ist unbeantwortet
+87511;de;decidim.forms.admin.questionnaires.display_condition.condition_types.not_equal;Ist nicht gleich
+87512;de;decidim.forms.admin.questionnaires.display_condition.condition_value;Enthaltener Wert
+87513;de;decidim.forms.admin.questionnaires.display_condition.display_condition;Anzeigebedingung
+87514;de;decidim.forms.admin.questionnaires.display_condition.save_warning;Vergiss nicht, das Formular zu speichern, bevor du die Anzeigebedingungen konfigurierst
+87515;de;decidim.forms.admin.questionnaires.display_condition.select_condition_question;Wähle eine Frage
+87516;de;decidim.forms.admin.questionnaires.display_condition.select_condition_type;Welche Bedingung soll erfüllt werden?
+87517;de;decidim.forms.admin.questionnaires.form.add_separator;Seiten-Trennung einfügen
+87518;de;decidim.forms.admin.questionnaires.form.already_answered_warning;Der Fragebogen wird bereits von einigen Benutzer/innenn beantwortet, sodass du die Fragen nicht ändern kannst.
+87519;de;decidim.forms.admin.questionnaires.form.unpublished_warning;Das Formular ist nicht öffentlich. Du kannst die Fragen ändern, dabei werden allerdings die aktuellen Antworten gelöscht.
+87520;de;decidim.forms.admin.questionnaires.question.add_answer_option;Antwortfeld hinzufügen
+87521;de;decidim.forms.admin.questionnaires.question.add_display_condition;Weitere Bedingung hinzufügen
+87522;de;decidim.forms.admin.questionnaires.question.add_display_condition_info;Speichere das Formular, um die Anzeigebedingungen zu konfigurieren
+87523;de;decidim.forms.admin.questionnaires.question.any;Beliebige Anzahl
+87524;de;decidim.forms.admin.questionnaires.question.down;Nach unten
+87525;de;decidim.forms.admin.questionnaires.question.up;Hinauf
+87526;de;decidim.forms.admin.questionnaires.separator.down;Runter
+86697;de;decidim.forms.admin.questionnaires.separator.up;Hoch
+87527;de;decidim.forms.admin.questionnaires.title_and_description.up;Hinauf
+87528;de;decidim.forms.errors.answer.body;Dieses Feld darf nicht leer gelassen werden.
+87529;de;decidim.forms.errors.impersonate_user.reason;Du musst einen Grund angeben, wenn du dich als nicht verwaltete/r Benutzer/in ausgeben willst.
+87530;de;decidim.forms.file_help.file.message_2;Für Bilder Verwende vorzugsweise Landschaftsbilder, der Dienst bewirtschaftet das Bild.
+87531;de;decidim.forms.file_help.image.message_1;Vorzugsweise ein Querformat ohne Text.
+87532;de;decidim.forms.file_validation.allowed_file_extensions;Erlaubte Dateiendungen: %{extensions}
+87533;de;decidim.forms.file_validation.max_file_size;Maximale Dateigrösse: %{megabytes}MB, 3840px
+87534;de;decidim.forms.files.extension_allowlist;Gültige Formate:
+87535;de;decidim.forms.images.processors.resize_and_pad;In der Grösse angepasst und gepolstert zu
+87536;de;decidim.forms.images.processors.resize_to_fit;In der Grösse verändert, damit es passt
+87537;de;decidim.forms.question_types.files;Anhänge / Dateien
+87538;de;decidim.forms.question_types.long_answer;Mehrzeilige Antwort
+87539;de;decidim.forms.question_types.matrix_multiple;Matrix (Mehrfachauwahl)
+87540;de;decidim.forms.question_types.matrix_single;Matrix (Einfachauswahl)
+87541;de;decidim.forms.question_types.multiple_option;Mehrfachauswahl
+87542;de;decidim.forms.question_types.short_answer;Einzeilige Antwort
+87543;de;decidim.forms.question_types.single_option;Einzelauswahl
+87544;de;decidim.forms.question_types.sorting;Sortierung (priorisieren)
+87545;de;decidim.forms.questionnaires.answer.max_choices_alert;'-
+87546;de;decidim.forms.questionnaires.show.answer_questionnaire.title;Beantworte den Fragebogen
+87547;de;decidim.forms.questionnaires.show.questionnaire_answered.body;Du hast diesen Fragebogen bereits beantwortet.
+87548;de;decidim.forms.questionnaires.show.questionnaire_js_disabled.body;Manche Funktionen des Formulars werden deaktiviert sein. Aktiviere JavaScript in deinem Browser für eine bessere Erfahrung.
+87549;de;decidim.forms.questionnaires.show.tos_agreement;Ich stimme der Nutzung meiner oben gemachten Angaben für den folgenden Zweck zu:
+87550;de;decidim.forms.step_navigation.show.are_you_sure;Diese Aktion kann nicht rückgängig gemacht werden und Du kannst deine Antworten nicht bearbeiten. Bist du sicher?
+88099;de;decidim.surveys.admin.exports.survey_user_answers;Umfrage Benutzer/innen Antworten
+;de;decidim.surveys.survey_confirmation_mailer.confirmation.body;Du hast die Umfrage %{questionnaire_title} auf %{participatory_space} erfolgreich beantwortet
+;de;decidim.surveys.survey_confirmation_mailer.confirmation.subject;"Umfrage ""%{questionnaire_title}"": Bestätigung deiner Antwort"
+88100;de;decidim.surveys.surveys.answer.spam_detected;Bei der Beantwortung des Fragebogens sind Fehler aufgetreten. Möglicherweise warst du zu schnell. Versuche es vielleicht erneut.
+;de;decidim.templates.admin.questionnaire_templates.choose.description;Du erstellst in Kürze einen neuen Fragebogen. Hier können du eine vordefinierte Vorlage auswählen und anschließend anpassen.
+;de;decidim.templates.admin.questionnaire_templates.preview.tos_agreement;Mit deiner Teilnahme stimmst du folgenden Nutzungsbedingungen zu:

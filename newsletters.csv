@@ -1,0 +1,21 @@
+id;locale;key;value
+86713;de;decidim.admin.newsletters.create.success;Newsletter erfolgreich erstellt Bitte, überprüfe es vor dem Senden.
+86714;de;decidim.admin.newsletters.index.confirm_delete;Möchtest du diesen Newsletter wirklich löschen?
+86715;de;decidim.admin.newsletters.select_recipients_to_deliver.confirm_deliver;Möchtest du diesen Newsletter wirklich liefern? Diese Aktion kann nicht rückgängig gemacht werden.
+86716;de;decidim.admin.newsletters.select_recipients_to_deliver.select_scopes;"Nur Teilnehmer anzeigen, die einen der gewählten Themenbereiche in deinen ""Meine Interessen"" Einstellungen ihres Kontos aktiviert haben."
+86717;de;decidim.admin.newsletters.select_recipients_to_deliver.select_spaces;Wähle Abschnitte, um den Newsletter zu unterteilen
+86718;de;decidim.admin.newsletters.select_recipients_to_deliver.select_users;Wähle aus, welchen Benutzern du den Newsletter senden möchtest
+86719;de;decidim.admin.newsletters.select_recipients_to_deliver.warning;<strong>Achtung:</strong> Dieser Newsletter wird nur an Benutzer/innen gesendet, die <em>Ich möchte Newsletter empfangen</em> in ihrem Benachrichtigungseinstellungen aktiviert haben.
+86720;de;decidim.admin.newsletters.update.success;Newsletter erfolgreich aktualisiert. Bitte überprüfe es vor dem Senden.
+87907;de;decidim.newsletter_mailer.newsletter.note;"Du hast diese E-Mail erhalten, weil du Newsletter auf %{organization_name} abonniert hast. Du kannst deine Einstellungen auf hier ändern <a href=""%{link}"">Benachrichtigungen Seite</a>."
+87908;de;decidim.newsletter_mailer.newsletter.see_on_website;"Kann diese E-Mail nicht korrekt angezeigt werden? Klicke bitte hier <a href=""%{link}"" target=""_blank"">website</a>."
+87909;de;decidim.newsletter_templates.basic_only_text_settings_form.interpolations_hint;Tipp: Du kannst „%{name}“ an beliebiger Stelle im Hauptteil oder Betreff verwenden und es wird durch den Namen des Empfängers ersetzt.
+87910;de;decidim.newsletter_templates.image_text_cta_settings_form.interpolations_hint;Tipp: Du kannst „%{name}“ an beliebiger Stelle in der Einführung, im Hauptteil, CTA-Text oder Betreff verwenden und es wird durch den Namen des Empfängers ersetzt.
+;de;decidim.newsletters.unsubscribe.check_subscription_html;"Wenn du diese wieder erhalten möchten, können du dein Abonnement jederzeit auf der <a href=""%{link}"" target=""_blank"">Einstellungsseite</a> wieder aktivieren."
+;de;decidim.newsletters.unsubscribe.subscription_preferences;Wir haben deine Abonnement-Einstellungen aktualisiert und Du erhältst keine Newsletter mehr von %{organization_name}.
+87911;de;decidim.newsletters.unsubscribe.success;Du hast dich erfolgreich abgemeldet.
+87912;de;decidim.newsletters_opt_in_mailer.notify.body_1;"Die Verarbeitung personenbezogener Daten und deren Schutz wird für uns alle immer wichtiger. Mit der neuen Datenschutz-Grundverordnung (DSGV) vom 25. Mai 2018 haben Einzelpersonen eine bessere Kontrolle über ihre personenbezogenen Daten. Aus diesem Grund benötigen wir Dein ""OK"" um weiterhin relevante Informationen über die Aktivitäten der %{organization_name} zu senden."
+87913;de;decidim.newsletters_opt_in_mailer.notify.body_2;Wie kannst du uns deine Zustimmung geben? Klicke einfach auf den folgenden Knopf:
+87914;de;decidim.newsletters_opt_in_mailer.notify.body_3;Mit dieser Zustimmung kannst du weiterhin Informationen über die Dienste der Plattform erhalten. Wenn wir im Gegenteil keine positive Bestätigung von dir erhalten, werden wir dir keine Nachrichten mehr senden. Wenn du bestätigst, dass du weiterhin informiert werden möchtest, kannst du deine Meinung jederzeit ändern.
+87915;de;decidim.newsletters_opt_in_mailer.notify.subject;Möchtest duweiterhin relevante Informationen über %{organization_name} erhalten?
+87916;de;decidim.notifications_settings.show.newsletter_notifications;Ich möchte den Newsletter erhalten.

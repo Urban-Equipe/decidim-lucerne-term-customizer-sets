@@ -1,0 +1,5 @@
+id;locale;key;value
+86056;de;time.am;Uhr
+86057;de;time.formats.default;%A, %d. %b %Y %H:%M:%S
+86058;de;time.formats.tooltip;%D-%m-%Y %H:%M
+86059;de;time.pm;Uhr

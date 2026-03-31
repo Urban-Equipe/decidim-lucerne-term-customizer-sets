@@ -1,0 +1,198 @@
+id;locale;key;value
+86799;de;activemodel.attributes.area.area_type;Gebiet
+86830;de;activemodel.attributes.attachment.attachment_collection_id;Verzeichnis (falls in einem Ordner)
+86831;de;activemodel.attributes.budget.decidim_scope_id;Thema
+86835;de;activemodel.attributes.collaborative_draft.decidim_scope_id;Thema
+86836;de;activemodel.attributes.collaborative_draft.scope_id;Thema
+86837;de;activemodel.attributes.component.weight;Reihenfolge (1 = an erster Stelle, je höher desto weiter rechts in Navigation)
+86603;de;activemodel.attributes.organization.highlighted_content_banner_enabled;Zeige das hervorgehobene Inhaltsbanner an
+86633;de;activemodel.attributes.project.decidim_scope_id;Thema
+86639;de;activemodel.attributes.question.question_type;Fragetyp
+86642;de;activemodel.attributes.result.decidim_scope_id;Thema
+86643;de;activemodel.attributes.scope.parent_id;Übergeordnetes Element
+86644;de;activemodel.attributes.sortition.decidim_category_id;Kategorien der Vorschläge, in denen die die Auslosung anwenden möchtest
+86645;de;activemodel.attributes.sortition.target_items;Anzahl der auszuwählenden Vorschläge (gibt die Anzahl der Vorschläge an, die du auswählen kannst, indem du mehrere der Vorschläge auswählst, die du zuvor ausgewählt hast)
+;de;activemodel.attributes.suggestion.body;Fügen du deinen Kommentar hinzu
+;de;activemodel.errors.models.answer.attributes.choices.too_many;Du kannst maximal %{count} auswählen.
+86651;de;activemodel.errors.new_import.attributes.file.invalid_file;Ungültige Datei, bitte überprüfe, ob die Datei korrekt formatiert ist.
+86767;de;decidim.amendments.amendable.promote_confirm_text;Möchtest du diese Erweiterung wirklich fördern?
+86768;de;decidim.amendments.amendable.promote_help_text;Du kannst diese Erweiterung fördern und als unabhängige %{model_name}
+86769;de;decidim.amendments.emendation.actions.help_text;Überprüfe die Änderungen und akzeptiere diese Änderung oder lehne diese ab. Eine Benachrichtigung wird an den / die Verfasser gesendet.
+86770;de;decidim.amendments.promoted.success;Erfolgreich hervorgehoben.
+86771;de;decidim.amendments.rejected.error;Beim Ablehnen dieser Änderung ist ein Fehler aufgetreten. Bitte versuche es später erneut
+86772;de;decidim.amendments.review.heading;Überprüfe die Änderung
+86777;de;decidim.amendments.review.send;Akzeptiere den Änderungsantrag
+86778;de;decidim.amendments.wizard_step_form.steps.1;Erstelle deine Änderung
+86779;de;decidim.amendments.wizard_step_form.steps.2;Vergleiche deinen Änderungsvorschlag
+86979;de;decidim.application.photos.related_photos;Dazugehörige Bilder
+87008;de;decidim.block_user_mailer.notify.body_1;Dein Account wurde gesperrt.
+87009;de;decidim.block_user_mailer.notify.subject;Dein Konto wurde von %{organization_name} gesperrt
+87057;de;decidim.components.budgets.settings.global.announcement;Ankündigung (kommt oberhalb des Textes in einem blauen Balken zu stehen)
+87058;de;decidim.components.budgets.settings.global.resources_permissions_enabled;Aktionsberechtigungen können für jede Veranstaltung festgelegt werden
+87059;de;decidim.components.budgets.settings.global.scope_id;Thema
+87060;de;decidim.components.budgets.settings.global.scopes_enabled;Wähle ein Thema aus
+87061;de;decidim.components.budgets.settings.step.announcement;Ankündigung (kommt oberhalb des Textes in einem blauen Balken zu stehen)
+87069;de;decidim.components.component_order_selector.order.post;Blog-Post
+87076;de;decidim.components.dummy.settings.global.enable_pads_creation;Aktiviere die Pads-Erstellung (noch nicht anwendbar)
+87077;de;decidim.components.dummy.settings.global.scope_id;Thema
+87078;de;decidim.components.dummy.settings.global.scopes_enabled;Wähle ein Thema aus
+87079;de;decidim.components.dummy.settings.step.amendments_visibility;Sichtbarkeit der Vorschlagsänderungen
+87093;de;decidim.components.pages.settings.global.announcement;Ankündigung (kommt oberhalb des Textes in einem blauen Balken zu stehen)
+87094;de;decidim.components.pages.settings.step.announcement;Ankündigung (kommt oberhalb des Textes in einem blauen Balken zu stehen)
+88276;de;decidim.content_blocks.metadata.name;Metadaten
+88277;de;decidim.content_blocks.social_networks_metadata.name;Soziale Netzwerke
+87182;de;decidim.core.actions.login_before_access;Bitte melde dich mit deinem Konto an, um auf diese Seite zuzugreifen
+87183;de;decidim.core.actions.unauthorized;Du bist nicht berechtigt, diese Aktion auszuführen
+;de;decidim.design.foundations.accessibility.color_contrast_paragraph;Wenn du die Benutzeroberfläche erstellen oder die Farben ändern, stellen du immer sicher, dass du mit deinen Änderungen nicht die Barrierefreiheit verletzen. Du kannst mit der Farbkontrastprüfung sicherstellen, dass deine Textfarben ausreichend Kontrast zur Hintergrundfarbe haben, auf der sie angezeigt werden.
+;de;decidim.design.foundations.color.description_p1;Wir bieten eine Grundpalette mit wenigen Farben, so dass kleinere Anpassungen einfach sind. Du kannst die Grundpalette entweder im Administrationsbereich oder in der Tailwind-Konfigurationsdatei ändern, wenn du erweiterte Anpassungen vornehmen möchten.
+;de;decidim.design.foundations.color.description_p2_html;Wenn du die Farben anpassen, denken du an den %{contrast_link}. Du kannst den Kontrast deiner Auswahl mit %{checker_link} oder anderen ähnlichen Tools überprüfen.
+;de;decidim.design.foundations.layout.description_layout_p1;Für den Desktop verwendet Decidim ein 12 Spaltenraster mit limitierter Anzahl von Vorlagen (Grid-Konfigurationen) für verschiedene Inhaltstypen. Das Ziel ist, dass eine bestimmte Art von Inhalten (Homepage, Liste der Elemente, einzelne Artikel) ein unverwechselbares Layout hat, so dass die Benutzer verstehen können, in welcher Art von Inhalt Du bist nur durch das allgemeine Aussehen der Seite.
+;de;decidim.design.foundations.layout.section_p_code;Wenn du neue Module implementieren, haben du einige Helfer, die dir automatisch den Code zur Verfügung stellen, um die HTML-Struktur einzurichten. Du solltest diese Helfer verwenden, anstatt direkt div Elemente mit Klassen zu verwenden, damit du die Konsistenz aufrechterhalten kannst.
+;de;decidim.design.foundations.layout.section_p_code_html;Du findest die Grundlayouts in %{link_section_code}
+;de;decidim.design.helpers.plain_text_description;Du kannst als erstes Argument sowohl einen Klartext als auch ein Hash-Objekt angeben
+;de;decidim.design.helpers.variations_cards_description;Jede Karte sieht je nach Eigenschaften der angezeigten Ressource unterschiedlich aus. Du kannst dieses Verhalten in der jeweiligen Zelle überschreiben.
+;de;decidim.download_your_data.show.download_data_description_html;"Eine Datei, die alle mit deinem Konto verknüpften Informationen enthält, wird an <strong>%{user_email}</strong> gesendet. Diese E-Mail enthält eine .zip-Datei und ein Passwort, um sie zu öffnen.<br/><br/>Um die Datei zu entpacken, benötigen du <a href=""https://www.7-zip.org/"">7-Zip</a> (für Windows) oder <a href=""https://www.keka.io/"">Keka</a> (für MacOS). Wenn du Linux verwenden, wird es meistens standardmäßig installiert. Wenn nicht, können du <a href=""https://gitlab.gnome.org/GNOME/file-roller"">File Roller</a> oder <a href=""https://peazip.github.io"">PeaZip</a> verwenden."
+86775;de;decidim.editor_images.drag_and_drop_help;Bilder können via drag & drop eingefügt werden. Alternativ via Button im Texteditor.
+87221;de;decidim.errors.internal_server_error.try_later;Bitte Versuche es später nochmal.
+;de;decidim.export_mailer.download_your_data_export.click_button;"Klicke auf den Link, um deine Daten herunterzuladen.<br/>Die Datei steht bis zum %{date} zur Verfügung.<br/>Du benötigst <a href=""https://www.7-zip.org/"">7-Zip</a> (für Windows), <a href=""https://www.keka.io/en/"">Keka</a> (für MacOS) oder <a href=""https://peazip.github.io"">PeaZip</a> (für Linux) um die Datei zu öffnen. Passwort: %{password}"
+87493;de;decidim.export_mailer.export.ready;Anbei findest du eine gezippte Version deines Exports.
+87494;de;decidim.export_mailer.subject;"Dein Export ""%{name}"" ist fertig"
+87495;de;decidim.fingerprint.replicate_help;Dieser Fingerabdruck wird unter Verwendung eines SHA256-Hashing-Algorithmus berechnet. Um es selbst zu replizieren, kannst du eine %{online_calculator_link} und die Quelldaten kopieren.
+87496;de;decidim.following.no_followings;Folgt noch niemandem oder irgendetwas.
+87497;de;decidim.follows.create.button;Auch folgen
+87498;de;decidim.follows.create.participatory_space;Du folgst %{space_name} bereits
+87398;de;decidim.follows.destroy.button;Für dich aktiv
+87567;de;decidim.gamification.badges.followers.description;Dieses Abzeichen wird gewährt, wenn du eine bestimmte Anzahl von Followern erreichen. %{organization_name} ist ein soziales und politisches Netzwerk, webe dein Netz, um mit anderen Menschen auf der Plattform zu kommunizieren.
+87568;de;decidim.gamification.badges.followers.next_level_in;Erhalte %{score} weitere Nutzer, die dir folgen, um das nächste Level zu erreichen!
+87569;de;decidim.gamification.badges.followers.unearned_own;Du hast noch keine Follower.
+87570;de;decidim.gamification.badges.index.page_description;Badges sind Anerkennungen für Aktionen der Teilnehmer und Fortschritt in der Plattform. Wenn du auf der Plattform entdeckst, teilnimmst und interagierst, verdienst du verschiedene Abzeichen. Hier ist die Liste der Abzeichen und einige Möglichkeiten, wie du sie verdienen kannst.
+;de;decidim.gamification.badges.test.description_own;Du hast %{score} Tests erstellt.
+;de;decidim.gamification.badges.test.unearned_own;Du hast noch keine Tests erstellt.
+87591;de;decidim.gamification.description;Badges sind Anerkennungen für Aktionen der Teilnehmer und Fortschritt in der Plattform. Wenn du auf der Plattform entdeckst, teilnimmst und interagierst, verdienst du dir verschiedene Abzeichen.
+;de;decidim.gamification.reached_top;Du hast die höchste Stufe dieses Abzeichens erreicht.
+87592;de;decidim.group_invites.accept_or_reject_group_invitations;Die folgenden Gruppen haben dich eingeladen, sich ihnen anzuschliessen. Akzeptiere die Anfragen oder lehne sie ab:
+87593;de;decidim.group_invites.index.invite_user;Lade eine/n Benutzer/in ein
+87594;de;decidim.group_members.index.manage_members;Vorstand verwalten
+87595;de;decidim.groups.form.document_number_help;Verwende keine Bindestriche oder Leerzeichen
+87596;de;decidim.groups.form.email_help;E-Mail deiner Organisation, deiner Vereinigung, deines Kollektivs, deiner Gruppe usw.
+87597;de;decidim.groups.form.fill_in_for_verification;Fülle diese Felder aus, wenn deine Gruppe überprüft werden soll:
+87598;de;decidim.groups.form.name_help;Name deiner Organisation, deiner Vereinigung, deines Kollektivs, deiner Gruppe usw.
+87599;de;decidim.groups.form.nickname_help;Benutzername deiner Organisation, deiner Vereinigung, deines Kollektivs, deiner Gruppe usw. Verwende keine Leerzeichen oder Akzente.
+87600;de;decidim.groups.form.phone_help;Verwende keine Bindestriche oder Leerzeichen
+87601;de;decidim.groups.join.success;Join-Anforderung wurde erfolgreich erstellt. Ein Administrator überprüft Deine Anfrage, bevor er dich für die Gruppe akzeptiert.
+;de;decidim.groups.leave.last_admin;Du kannst sich nicht von dieser Gruppe entfernen, da du der einzige Admin sind. Machen du ein anderes Mitglied zum Admin, um die Gruppe verlassen zu können.
+87602;de;decidim.groups.members.accept_or_reject_join_requests;Die folgenden Benutzer/innen haben sich angemeldet, um dieser Gruppe beizutreten. Akzeptieren ihre Anfragen oder lehne sie ab:
+87603;de;decidim.groups.roles.member;Vorstands-Mitglied
+87604;de;decidim.help.main_topic.default_page.content;<p>In %{organization} kannst du durch die Links im oberen Menü an verschiedenen Themen teilnehmen, Vorschläge erfassen, mitdiskutieren, abstimmen.</p>
+87605;de;decidim.help.main_topic.default_page.title;Was kann ich in %{organization}?
+87606;de;decidim.help.main_topic.description;Lies mehr über %{organization}
+87607;de;decidim.help.main_topic.title;Allgemeine Hilfe
+87759;de;decidim.links.warning.body_1;Dieser Link führt dich auf eine externe Seite. Wir übernehmen keine Haftung für die aufgerufene Seite.
+87760;de;decidim.links.warning.body_2;Bitte überprüfe den folgenden Link, und vergewissere dich, dass es sich um die gewünschte Website handelt, bevor du fortfährst.
+87761;de;decidim.links.warning.title;Externe Weiterleitung
+87762;de;decidim.log.value_types.area_presenter.not_found;Das Gebiet wurde nicht in der Datenbank gefunden (ID: %{id})
+87763;de;decidim.log.value_types.area_type_presenter.not_found;Die Gebietskategorie wurde nicht in der Datenbank gefunden (ID: %{id})
+87766;de;decidim.log.value_types.scope_presenter.not_found;Der Thema wurde nicht in der Datenbank gefunden (ID: %{id})
+87767;de;decidim.log.value_types.scope_type_presenter.not_found;Dieses Thema wurde nicht in der Datenbank gefunden (ID: %{id})
+87878;de;decidim.messaging.conversation_mailer.comanagers_new_conversation.admin_in_group;Du hast diese Benachrichtigung erhalten, weil du ein Administrator von %{group} bist.
+87879;de;decidim.messaging.conversation_mailer.comanagers_new_conversation.intro;%{manager} hat eine Unterhaltung im Namen von %{group} begonnen. Klicke hier, um diese anzuzeigen:
+87880;de;decidim.messaging.conversation_mailer.comanagers_new_conversation.outro;Viel Spass mit Decidim!
+87881;de;decidim.messaging.conversation_mailer.comanagers_new_message.admin_in_group;Du hast diese Benachrichtigung erhalten, weil du ein Administrator von %{group} bist.
+87882;de;decidim.messaging.conversation_mailer.comanagers_new_message.intro;%{manager} hat Nachrichten in einer Unterhaltung im Namen von %{group} gesendet. Klicke hier, um diese anzuzeigen:
+87883;de;decidim.messaging.conversation_mailer.comanagers_new_message.outro;Viel Spass mit Decidim!
+87884;de;decidim.messaging.conversation_mailer.new_conversation.intro;%{sender} hat eine neue Unterhaltung mit Ihnen begonnen. Klicke hier, um es zu sehen:
+87885;de;decidim.messaging.conversation_mailer.new_conversation.outro;Viel Spass mit Decidim!
+;de;decidim.messaging.conversation_mailer.new_conversation.subject;%{sender} hat ein Gespräch mit dir begonnen
+87886;de;decidim.messaging.conversation_mailer.new_group_conversation.admin_in_group;Du hast diese Benachrichtigung erhalten, weil du ein Administrator von %{group} bist.
+87887;de;decidim.messaging.conversation_mailer.new_group_conversation.intro;%{sender} hat eine neue Unterhaltung mit der Gruppe %{group} begonnen. Klicke hier, um diese anzuzeigen:
+87888;de;decidim.messaging.conversation_mailer.new_group_conversation.outro;Viel Spass mit Decidim!
+87889;de;decidim.messaging.conversation_mailer.new_group_message.admin_in_group;Du hast diese Benachrichtigung erhalten, weil du ein Administrator von %{group} bist.
+87890;de;decidim.messaging.conversation_mailer.new_group_message.intro;%{sender} hat neue Nachrichten in einer Unterhaltung mit der Gruppe %{group} gesendet. Klicke hier, um diese anzuzeigen:
+87891;de;decidim.messaging.conversation_mailer.new_group_message.outro;Viel Spass mit Decidim!
+87892;de;decidim.messaging.conversation_mailer.new_message.intro;%{sender} hat neue Nachrichten in deiner Konversation gepostet. Klicke hier, um sie zu sehen:
+87893;de;decidim.messaging.conversation_mailer.new_message.outro;Viel Spass mit Decidim!
+87894;de;decidim.messaging.conversation_mailer.new_message.subject;Du hast neue Nachrichten von %{sender}
+87895;de;decidim.messaging.conversations.add_conversation_users.add_max_users;Füge der Unterhaltung Benutzer/innen hinzu: max. 9 Benutzer
+87896;de;decidim.messaging.conversations.create.error;Die Unterhaltung wurde nicht gestartet. Versuche es später noch einmal
+87897;de;decidim.messaging.conversations.error_modal.intro;Es gab folgende Fehler bei deiner Nachricht:
+;de;decidim.messaging.conversations.index.no_conversations;Du hast noch keine Unterhaltungen.
+;de;decidim.messaging.conversations.reply_form.placeholder;deine Antwort...
+;de;decidim.messaging.conversations.show.deleted_accounts;Du kannst keine Unterhaltung mit gelöschten Konten führen.
+;de;decidim.messaging.conversations.start.placeholder;deine Nachricht ...
+87901;de;decidim.metrics.followers.object;Follower
+87905;de;decidim.metrics.votes.description;Anzahl der Unterstützungen zu Vorschlägen
+;de;decidim.moderations.actions.parent_hidden;Du kannst diese Ressource nicht anzeigen, da die übergeordnete Ressource ausgeblendet ist.
+87906;de;decidim.moderations.actions.unreport;Dies ist kein zu versteckender Inhalt. Anzeigen.
+87918;de;decidim.open_data.not_available_yet;Die Open Data-Dateien sind noch nicht verfügbar. Bitte versuche es in einigen Minuten erneut.
+87921;de;decidim.pad_iframe.explanation;Verwende dieses Pad, um während der Veranstaltung gemeinsam Notizen zu machen.
+87946;de;decidim.profiles.default_officialization_text_for_user_groups;Diese Benutzergruppe wurde öffentlich überprüft, dein Name wurde mit dem tatsächlichen Namen verifiziert
+87947;de;decidim.profiles.show.members;Vorstand
+87948;de;decidim.profiles.user.confirmation_instructions_sent;Das Bestätigungsmail wurde versendet.
+87949;de;decidim.profiles.user.fill_in_email_to_confirm_it;Bitte gib die E-Mail-Adresse deiner Gruppe zur Bestätigung ein
+88080;de;decidim.scopes.global;Alle Themen
+88081;de;decidim.scopes.picker.cancel;Abbrechen
+88082;de;decidim.scopes.picker.change;Ausgewähltes Thema ändern
+88083;de;decidim.scopes.picker.currently_selected;Aktuell ausgewähltes Thema
+88084;de;decidim.scopes.picker.title;Wähle %{field}
+88085;de;decidim.scopes.prompt;Wähle ein Thema aus
+88086;de;decidim.scopes.scopes;Themen
+88087;de;decidim.scopes.scopes_picker_input.select_scope;Wähle ein Thema (aktuell: %{current})
+86055;de;decidim.searches.filters.jump_to;Menü
+88088;de;decidim.security.selfxss_warning.description;Diese Browser-Funktion ist nur für Entwickler gedacht und du solltest hier keine Daten einfügen, wenn du darum gebeten wirst. Das Einfügen von Inhalten in dieses Fenster kann deine Privatsphäre beeinträchtigen und Hackern Zugriff auf dein Konto ermöglichen.
+88089;de;decidim.shared.flag_modal.report;Beitrag melden
+88090;de;decidim.shared.flag_user_modal.does_not_belong;Enthält illegale Aktivitäten, Selbstmorddrohungen, persönliche Informationen oder etwas anderes, von dem du denkst, dass es nicht auf %{organization_name} gehört.
+88091;de;decidim.shared.participatory_space_filters.filters.areas;Gebiete
+88092;de;decidim.shared.participatory_space_filters.filters.select_an_area;Wähle ein Gebiet aus
+86773;de;decidim.shared.public_participation.public_participation;Öffentlich anzeigen, dass ich teilnehme.
+88093;de;decidim.shared.represent_user_group.select_user_group;Wähle eine Gruppe aus
+88094;de;decidim.sortitions.admin.actions.destroy;Brich die Sortierung ab
+88095;de;decidim.sortitions.admin.sortitions.confirm_destroy.confirm_destroy;Möchtest du diese Sortierung wirklich abbrechen?
+88096;de;decidim.sortitions.admin.sortitions.edit.title;Aktualisiere die Informationen zur Sortierung
+88098;de;decidim.sortitions.admin.sortitions.new.confirm;Durch Drücken des nächsten Knopfes zeichnet Decidim das Datum und die Zeit (mit der Genauigkeit von Sekunden) auf und zusammen mit dem Würfelwurf wird diese Information verwendet, um eine zufällige Auswahl zu erzeugen. Die Aktion wird unumkehrbar sein, sobald die Schaltfläche angeklickt wird, wird das Ergebnis dieser Verlosung veröffentlicht, zusammen mit den in diesem Formular eingegebenen Daten und kann nicht geändert werden, bitte überprüfe den Inhalt sorgfältig
+88101;de;decidim.system.default_pages.placeholders.content;Füge der statischen Seite %{page} im Admin-Dashboard sinnvollen Inhalt hinzu.
+88102;de;decidim.system.oauth_applications.index.confirm_delete;Möchtest du diese Anwendung wirklich löschen?
+;de;decidim.system.organizations.create.error_invitation;Es gab ein Problem beim Erstellen einer neuen Organisation. Überprüfe den Administratornamen deiner Organisation.
+;de;decidim.system.organizations.create.success_html;"<p>
+  Organisation erfolgreich erstellt.
+</p>
+<ol>
+  <li>Eventuell müssen du deinen Anwendungscode aktualisieren um Anfragen an %{host} zu erlauben. Fügen du folgendes zu deiner Umgebungskonfiguration (z.B. <code>config/environment/production.rb</code>) oder <code>config/application.rb</code> hinzu:
+    <p> config.hosts << ""%{host}"" </p>
+  </li>
+  <li>
+    Danach können du auf die Plattform über <a href=""http://%{host}"">http://%{host}</a> zugreifen
+  </li>
+  <li>
+    Wir haben eine E-Mail an <b>%{email}</b> gesendet, die Du bestätigst müssen.
+  </li>
+</ol>"
+88103;de;decidim.system.organizations.edit.secondary_hosts_hint;Gib jeden Host auf einer separaten Zeile an
+;de;decidim.system.organizations.new.organization_admin_email_hint;Wir senden dir eine E-Mail an diese Adresse, die Du bestätigst müssen um dein Passwort einrichten zu können.
+88104;de;decidim.system.organizations.new.secondary_hosts_hint;Gib jeden Host auf einer separaten Zeile an
+;de;decidim.system.organizations.smtp_settings.instructions.from_label;"E-Mail-Absender lautet: ""deine-Organisation <ihre-organisation@example.org>"". Leer lassen, um die E-Mail-Adresse als Absender zu verwenden."
+88105;de;decidim.system.organizations.smtp_settings.placeholder.from_label;Name-deiner-organisation
+88106;de;decidim.system.shared.notices.no_organization_warning_html;Du musst eine Organisation erstellen, um zu beginnen. Stelle sicher, dass du unseren %{guide} liesst, bevor du fortfährst.
+88107;de;decidim.tags.filter_results_for_scope;Ergebnisse nach Anwendungsthema filtern: %{resource}
+88108;de;decidim.user_conversations.create.error;Die Nachricht konnte nicht erstellt werden. Versuche es später nochmal
+88109;de;decidim.user_conversations.create.existing_error;Die Nachricht konnte nicht erstellt werden. Die Unterhaltung besteht bereits, versuche es noch einmal.
+88110;de;decidim.user_conversations.reply.placeholder;Deine Antwort...
+88111;de;decidim.user_conversations.update.error;Nachricht wurde nicht gesendet. Versuche es später noch einmal
+;de;decidim.user_interests.show.select_your_interests;"Wählen du die Themen aus, an denen du interessiert sind, um dazu Benachrichtigungen auf der Registerkarte ""Zeitleiste"" deines Profils zu erhalten."
+88112;de;decidim.user_interests.update.error;Beim Aktualisieren deiner Interessen ist ein Fehler aufgetreten.
+88113;de;decidim.user_interests.update.success;Deine Interessen wurden erfolgreich aktualisiert.
+88114;de;decidim.user_report_mailer.notify.body_1;Benutzer/in%{user} wurde von %{token} gemeldet
+88115;de;decidim.user_report_mailer.notify.subject;Ein/e neue/r Benutzer/in wurde in %{organization_name} gemeldet
+;de;decidim.user_update_mailer.notify.body_1;Wir senden dir diese Nachricht, um du über eine Aktualisierung deines Kontos zu informieren.
+;de;decidim.user_update_mailer.notify.body_2;Falls du selbst keine solche Aktualisierung durchgeführt haben, melden du sich bitte bei deinem Konto an, um dein Passwort zu ändern. Falls du sich nicht einloggen können, wenden du sich bitte an den Plattform-Support.
+;de;decidim.user_update_mailer.subject;dein Konto wurde aktualisiert
+88190;de;decidim.wizard_step_form.wizard_header.see_steps;Siehe Projekt-Phasen
+88191;de;decidim.wizard_step_form.wizard_header.step_of;Phase %{current_step} von %{total_steps}
+88244;de;doorkeeper.scopes.public;Deine öffentlichen Informationen.
+88245;de;errors.messages.already_confirmed;Wurde bereits bestätigt, bitte versuche sich anzumelden
+88246;de;errors.messages.expired;Ist abgelaufen, bitte fordere einen neuen an
+88247;de;errors.messages.not_found;Konnte nicht gefunden werden. Hast du dich vorher angemeldet?
+;de;errors.messages.not_saved;Bei der Bearbeitung deiner Anfrage sind mehrere Fehler aufgetreten:
+88248;de;forms.correct_errors;Es gibt Fehler auf dem Formular, bitte korrigiere sie, um fortzufahren.
+88249;de;forms.required_explanation;* Muss ausgefüllt werden
+88250;de;invisible_captcha.sentence_for_humans;Wenn du ein Mensch bist, ignorieren dieses Feld
+88270;de;social_share_button.wechat_footer;"Öffne dein WeChat, tippen auf ""Discover"" und dann im ""Scan QR Code"" Menü."

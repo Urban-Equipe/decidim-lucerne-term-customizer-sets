@@ -1,0 +1,192 @@
+id;locale;key;value
+86832;de;activemodel.attributes.close_meeting.closing_report;Bericht
+86833;de;activemodel.attributes.close_meeting.contributions_count;Anzahl Beiträge
+86596;de;activemodel.attributes.meeting.available_slots;Freie Plätze für diese Veranstaltung
+86597;de;activemodel.attributes.meeting.decidim_scope_id;Thema
+;de;activemodel.attributes.meeting.enable_registration_confirmation;Teilnehmende bitten, deine Anmeldung an einer Veranstaltung zu bestätigen
+86598;de;activemodel.attributes.meeting.registration_email_custom_content;Individuelle Botschaft in der Bestätigungs-Email
+86599;de;activemodel.attributes.meeting.registration_terms;Teilnahmebedingungen
+86600;de;activemodel.attributes.meeting.registration_type;Anmeldeart
+86601;de;activemodel.attributes.meeting.transparent;Sichtbar
+86646;de;activemodel.errors.models.meeting_agenda.attributes.base.too_many_minutes;Die Dauer der Elemente überschreitet die Veranstaltungsdauer um %{count} Minuten
+86647;de;activemodel.errors.models.meeting_agenda.attributes.base.too_many_minutes_child;"Die Dauer der Item-Childs überschreitet den Tagesordnungspunkt ""%{parent_title}"" Elternzeit um %{count} Minute"
+86654;de;activemodel.models.decidim/meetings/close_meeting_event;Veranstaltung geschlossen
+86655;de;activemodel.models.decidim/meetings/upcoming_meeting_event;Zukünftige Veranstaltung
+86882;de;decidim.admin.meeting_copies.new.title;Kopie der Veranstaltung
+86709;de;decidim.admin.models.registration_type.fields.conference_meetings;Konferenz-Veranstaltungen
+87081;de;decidim.components.meetings.settings.global.announcement;Ankündigung (kommt oberhalb des Textes in einem blauen Balken zu stehen)
+87082;de;decidim.components.meetings.settings.global.creation_enabled_for_participants;Teilnehmer können Veranstaltungen erstellen
+87083;de;decidim.components.meetings.settings.global.default_registration_terms;Standard-Teilnahmebedingungen
+87084;de;decidim.components.meetings.settings.global.enable_pads_creation;Aktiviere die Pads-Erstellung (noch nicht anwendbar)
+87085;de;decidim.components.meetings.settings.global.registration_code_enabled;Registrierungscode aktiviert (Empfehlung: deaktiviert)
+87086;de;decidim.components.meetings.settings.global.resources_permissions_enabled;Berechtigungen können für jede Veranstaltung festgelegt werden
+87087;de;decidim.components.meetings.settings.global.scope_id;Thema
+87088;de;decidim.components.meetings.settings.global.scopes_enabled;Wähle ein Thema aus
+87089;de;decidim.components.meetings.settings.global.terms_and_conditions_url_for_meeting_creators;Nutzungsbedingungen-URL für Erstellende von Veranstaltungen
+87090;de;decidim.components.meetings.settings.step.announcement;Ankündigung (kommt oberhalb des Textes in einem blauen Balken zu stehen)
+87091;de;decidim.components.meetings.settings.step.creation_enabled_for_participants;Veranstaltungs-Erstellung durch Teilnehmer aktiviert
+87092;de;decidim.components.meetings.settings.step.creation_enabled_for_user_groups;Veranstaltungs-Erstellung durch Benutzergruppen aktiviert
+87392;de;decidim.events.meetings.meeting_closed.affected_user.email_intro;"Deine Veranstaltung ""%{resource_title}"" wurde geschlossen. Du kannst die Schlussfolgerungen von seiner Seite lesen:"
+87393;de;decidim.events.meetings.meeting_closed.affected_user.email_outro;"Du hast diese Benachrichtigung erhalten, weil du die Veranstaltung ""%{resource_title}"" organisiert hast."
+87394;de;decidim.events.meetings.meeting_closed.affected_user.email_subject;«%{Resource_title}»: Abschlussbericht / Zusammenfassung veröffentlicht
+87395;de;decidim.events.meetings.meeting_closed.follower.email_intro;"Die ""%{resource_title}"" Veranstaltung wurde geschlossen. Du kannst die Schlussfolgerungen von dieser Seite lesen:"
+87396;de;decidim.events.meetings.meeting_closed.follower.email_outro;"Du hast diese Benachrichtigung erhalten, weil du die Veranstaltung ""%{resource_title}"" folgst. Wenn du keine Benachrichtigungen mehr erhalten möchtest, kannst du das in deinen Profileinstellungen angeben."
+87397;de;decidim.events.meetings.meeting_closed.follower.email_subject;«%{Resource_title}»: Abschlussbericht / Zusammenfassung veröffentlicht
+87273;de;decidim.events.meetings.meeting_created.button_text;Anmeldung
+87399;de;decidim.events.meetings.meeting_created.email_intro;"Die Veranstaltung ""%{resource_title}"" wurde zu ""%{participatory_space_title}"" hinzugefügt, dem du folgst."
+87400;de;decidim.events.meetings.meeting_created.email_outro;"Du hast diese Benachrichtigung erhalten, weil du ""%{participatory_space_title}"" folgst. Wenn du keine Benachrichtigungen mehr erhalten möchtest, kannst du das in deinen Profileinstellungen angeben."
+87401;de;decidim.events.meetings.meeting_created.email_subject;%{participatory_space_title}: Neue Veranstaltung
+87402;de;decidim.events.meetings.meeting_created.notification_title;"In %{participatory_space_title} wurde eine Veranstaltung namens <a href=""%{resource_path}"">%{resource_title}</a>hinzugefügt."
+87403;de;decidim.events.meetings.meeting_registration_confirmed.notification_title;"Deine Anmeldung zur Veranstaltung <a href=""%{resource_url}"">%{resource_title}</a> wurde bestätigt. Dein Registrierungscode ist %{registration_code}."
+87404;de;decidim.events.meetings.meeting_registrations_over_percentage.email_intro;"Die verfügbaren Slots in der Veranstaltung ""%{resource_title}"" sind zu über %{percentage}% belegt."
+87405;de;decidim.events.meetings.meeting_registrations_over_percentage.email_outro;Du hast diese Benachrichtigung erhalten, weil du ein Administrator des Teilnahmebereichs der Veranstaltung bist.
+87406;de;decidim.events.meetings.meeting_registrations_over_percentage.email_subject;"Die verfügbaren Slots In der Veranstaltung ""%{resource_title}"" sind zu über %{percentage}% belegt."
+87407;de;decidim.events.meetings.meeting_registrations_over_percentage.notification_title;"Die <a href=""%{resource_path}"">%{resource_title}</a> Veranstaltung belegten Slots liegen bei über %{percentage}%."
+87408;de;decidim.events.meetings.meeting_updated.email_intro;"Die ""%{resource_title}"" Veranstaltung wurde aktualisiert. Du kannst die neue Version von deiner Seite lesen:"
+87409;de;decidim.events.meetings.meeting_updated.email_outro;"Du hast diese Benachrichtigung erhalten, weil du der Veranstaltung ""%{resource_title}"" folgst. Wenn du keine Benachrichtigungen mehr erhalten möchtest, kannst du das in deinen Profileinstellungen angeben."
+87410;de;decidim.events.meetings.meeting_updated.email_subject;"""%{resource_title}"": Veranstaltung aktualisiert"
+87411;de;decidim.events.meetings.registration_code_validated.email_intro;"Dein Registrierungscode ""%{registration_code}"" für die Veranstaltung ""%{resource_title}"" wurde bestätigt."
+87412;de;decidim.events.meetings.registration_code_validated.email_outro;"Du hast diese Benachrichtigung erhalten, weil dein Registrierungscode für die Veranstaltung ""%{resource_title}"" validiert wurde."
+87413;de;decidim.events.meetings.registration_code_validated.email_subject;"Dein Registrierungscode ""%{registration_code}"" für die Veranstaltung ""%{resource_title}"" wurde bestätigt"
+87414;de;decidim.events.meetings.registration_code_validated.notification_title;"Dein Registrierungscode ""%{registration_code}"" für die <a href=""%{resource_path}"">%{resource_title}</a> Veranstaltung wurde bestätigt."
+87415;de;decidim.events.meetings.registrations_enabled.email_intro;"Die ""%{resource_title}"" Veranstaltung hat Registrierungen ermöglicht. Du kannst sich auf dieser Seite registrieren:"
+87416;de;decidim.events.meetings.registrations_enabled.email_outro;"Du hast diese Benachrichtigung erhalten, weil du der Veranstaltung ""%{resource_title}"" folgst. Wenn du keine Benachrichtigungen mehr erhalten möchtest, kannst du das in deinen Profileinstellungen angeben."
+87417;de;decidim.events.meetings.registrations_enabled.email_subject;«%{Resource_title}»: Anmeldung möglich
+87418;de;decidim.events.meetings.registrations_enabled.notification_title;"Du kannst dich nun für die Veranstaltung <a href=""%{resource_path}"">%{resource_title}</a> anmelden."
+87419;de;decidim.events.meetings.upcoming_meeting.email_outro;"Du hast diese Benachrichtigung erhalten, weil du der Veranstaltung ""%{resource_title}"" folgst. Wenn du keine Benachrichtigungen mehr erhalten möchtest, kannst du das in deinen Profileinstellungen angeben."
+;de;decidim.forms.meetings.attendees_count_help_text;Vergiss nicht, die Gesamtzahl der Teilnehmenden an deiner Veranstaltung anzugeben, egal ob sie persönlich, online oder hybrid stattgefunden hat.
+87557;de;decidim.gamification.badges.attended_meetings.description;Dieses Abzeichen wird gewährt, wenn du mehrere persönliche Veranstaltungen besuchst.
+87558;de;decidim.gamification.badges.attended_meetings.description_another;Diese/r Benutzer/in hat an %{score} Veranstaltungen teilgenommen.
+87559;de;decidim.gamification.badges.attended_meetings.description_own;Du hast an %{score} Veranstaltungen teilgenommen.
+87560;de;decidim.gamification.badges.attended_meetings.next_level_in;Nimm an %{score} weiteren Veranstaltungen teil, um das nächste Level zu erreichen!
+87561;de;decidim.gamification.badges.attended_meetings.unearned_another;Diese/r Benutzer/in hat noch kein Veranstaltungen besucht.
+87562;de;decidim.gamification.badges.attended_meetings.unearned_own;Du hast noch keine Veranstaltung besucht.
+;de;decidim.guest_meeting_registration.admin.guest_meeting_session.enable_guest_registration_help_html;Du wirst nach einem Namen und einer E-Mail gefragt
+;de;decidim.guest_meeting_registration.admin.guest_meeting_session.enable_registration_confirmation_help_html;Du erhältst eine E-Mail mit der Bitte, die Registrierung zu bestätigen.
+;de;decidim.guest_meeting_registration.cancellation.success;Du hast sich erfolgreich von der Veranstaltung abgemeldet
+;de;decidim.guest_meeting_registration.guest_meeting_registration_mailer.send_cancellation_request.instruction;Du kannst sich von der Veranstaltung jederzeit abmelden, indem du auf diesen Link klicken:
+;de;decidim.guest_meeting_registration.guest_meeting_registration_mailer.send_confirmation.instruction;Bitte Bestätige deine E-Mail-Adresse über den folgenden Link:
+;de;decidim.guest_meeting_registration.guest_meeting_registration_mailer.send_confirmation.subject;Bestätige deine E-Mail für die Teilnahme an %{meeting_title}
+;de;decidim.guest_meeting_registration.join_meeting_button.title;Wählen du deine Anmeldemethode
+87768;de;decidim.meetings.actions.agenda;Traktanden
+87769;de;decidim.meetings.actions.close;Abschluss
+87770;de;decidim.meetings.actions.confirm_destroy;Möchtest du diese Veranstaltung wirklich löschen?
+87771;de;decidim.meetings.admin.agenda.agenda_item.add_agenda_item_child;Füge den Tagesordnungspunkt child hinzu
+87772;de;decidim.meetings.admin.agenda.agenda_item.agenda_item;Traktandum
+87773;de;decidim.meetings.admin.agenda.agenda_item.agenda_item_children;Untertraktanden
+87774;de;decidim.meetings.admin.agenda.agenda_item.down;Tiefer
+87492;de;decidim.meetings.admin.agenda.agenda_item.up;Höher
+87689;de;decidim.meetings.admin.agenda.agenda_item_child.agenda_item_child;Untertraktandum
+87775;de;decidim.meetings.admin.agenda.agenda_item_child.down;Tiefer
+87776;de;decidim.meetings.admin.agenda.agenda_item_child.up;Höher
+87777;de;decidim.meetings.admin.agenda.create.invalid;Beim Erstellen der Traktanden ist ein Problem aufgetreten
+87778;de;decidim.meetings.admin.agenda.create.success;Traktanden erfolgreich erstellt
+87779;de;decidim.meetings.admin.agenda.edit.title;Traktanden bearbeiten
+87780;de;decidim.meetings.admin.agenda.form.add_agenda_item;Traktandum hinzufügen
+87781;de;decidim.meetings.admin.agenda.form.agenda_items;Traktanden
+87782;de;decidim.meetings.admin.agenda.form.end_date;Ende
+87783;de;decidim.meetings.admin.agenda.form.start_date;Beginn
+87784;de;decidim.meetings.admin.agenda.new.title;Traktandeneinstellungen
+87785;de;decidim.meetings.admin.agenda.update.invalid;Beim Aktualisieren der Traktanden ist ein Problem aufgetreten
+87786;de;decidim.meetings.admin.agenda.update.success;Traktanden erfolgreich aktualisiert
+87787;de;decidim.meetings.admin.invite_join_meeting_mailer.invite.invited_you_to_join_a_meeting;%{invited_by} hat dich eingeladen, an einer Veranstaltung auf %{application} teilzunehmen.
+87788;de;decidim.meetings.admin.invite_join_meeting_mailer.invite.join;Trete der Veranstaltung '%{meeting_title}' bei
+87789;de;decidim.meetings.admin.invites.form.invite_explanation;Der Benutzende wird eingeladen, der Veranstaltung und der Organisation beizutreten.
+87790;de;decidim.meetings.admin.invites.index.invites;Einladen
+87791;de;decidim.meetings.admin.invites.index.registrations_disabled;Du kannst keinen Teilnehmer einladen, da die Registrierungen deaktiviert sind.
+87792;de;decidim.meetings.admin.meeting_closes.edit.close;Abschliessen
+87793;de;decidim.meetings.admin.meeting_closes.edit.title;Veranstaltung schliessen
+87794;de;decidim.meetings.admin.meetings.close.invalid;Beim Schliessen dieser Veranstaltung ist ein Problem aufgetreten
+87795;de;decidim.meetings.admin.meetings.close.success;Veranstaltung erfolgreich abgeschlossen
+87796;de;decidim.meetings.admin.meetings.create.invalid;Beim Erstellen dieser Veranstaltung ist ein Problem aufgetreten
+87797;de;decidim.meetings.admin.meetings.create.success;Veranstaltung erfolgreich erstellt
+87798;de;decidim.meetings.admin.meetings.form.address_help;"Bitte gib hier nur die Adresse an (Strasse, PLZ, Gemeinde). Verwende keine Ortsbezeichnungen (z.B. ""Stadthaus"")."
+87799;de;decidim.meetings.admin.meetings.form.disclaimer;Haftungsausschluss: %{organization} übernimmt keine Verantwortung für die Daten, die von den Nutzenden im Rahmen einer externen Anmeldung zu einer Veranstaltung einem Drittanbieter zur Verfügung gestellt werden.
+87800;de;decidim.meetings.admin.meetings.form.location_hints_help;Hinweise zum Standort: Zusätzliche Informationen. Beispiel: das Stockwerk im Gebäude wenn es eine Veranstaltung vor Ort ist, oder das Passwort wenn es eine Online-Veranstaltung mit eingeschränktem Zugriff ist.
+87801;de;decidim.meetings.admin.meetings.form.online_meeting_url_help;Link: Erlaubt Teilnehmenden, sich direkt mit der Veranstaltung zu verbinden
+87802;de;decidim.meetings.admin.meetings.form.registration_url_help;Füge hier den Link des externen Dienstleisters ein, über den die Anmeldungen durchgeführt werden sollen.
+87803;de;decidim.meetings.admin.meetings.form.select_a_registration_type;Wie sollen sich Teilnehmende anmelden?
+87804;de;decidim.meetings.admin.meetings.new.title;Veranstaltung erstellen
+87805;de;decidim.meetings.admin.meetings.publish.invalid;Beim Veröffentlichen dieser Veranstaltung ist ein Fehler aufgetreten
+87806;de;decidim.meetings.admin.meetings.publish.success;Veranstaltung erfolgreich veröffentlicht
+87807;de;decidim.meetings.admin.meetings.services.add_service;Dienstleistung hinzufügen
+87808;de;decidim.meetings.admin.meetings.unpublish.invalid;Beim Zurückziehen der Veröffentlichung dieser Veranstaltung ist ein Fehler aufgetreten
+87809;de;decidim.meetings.admin.meetings.unpublish.success;Veröffentlichung der Veranstaltung erfolgreich rückgängig gemacht
+87810;de;decidim.meetings.admin.meetings.update.invalid;Beim Aktualisieren dieser Veranstaltung ist ein Problem aufgetreten
+87811;de;decidim.meetings.admin.meetings.update.success;Veranstaltung erfolgreich aktualisiert
+86774;de;decidim.meetings.admin.meetings_poll.form.title;Titel
+;de;decidim.meetings.admin.poll.form.announcement_html.1;Du kannst jederzeit eine neue Frage hinzufügen.
+87812;de;decidim.meetings.admin.registrations.edit.validate_registration_code;Validiere den Registrierungscode
+87813;de;decidim.meetings.admin.registrations.form.available_slots_help;Belasse es auf 0, wenn du unbegrenzte Plätze zur Verfügung hast.
+87814;de;decidim.meetings.admin.registrations.form.invites;Einladen
+87815;de;decidim.meetings.admin.registrations.form.recommendation_message;Aus Datenschutzgründen empfehlen wir, dass du dieses Einschreibeformular löschst, wenn es nicht länger benötigt wird. Standardmässig ist das 3 Monate nachdem die Veranstaltung durchgeführt wurde.
+87816;de;decidim.meetings.admin.registrations.form.reserved_slots_help;Belasse es auf 0, wenn du keine reservierten Slots hast
+87817;de;decidim.meetings.admin_log.invite.create;%{user_name} hat %{attendee_name} eingeladen, der Veranstaltung %{resource_name} in %{space_name} beizutreten
+87818;de;decidim.meetings.admin_log.invite.deleted;%{user_name} hat %{attendee_name} aus der Veranstaltung %{resource_name} in %{space_name} ausgeladen
+87819;de;decidim.meetings.admin_log.invite.update;%{user_name} hat %{attendee_name} eingeladen, der Veranstaltung %{resource_name} in %{space_name} beizutreten
+87820;de;decidim.meetings.admin_log.meeting.delete;%{user_name} hat die Veranstaltung %{resource_name} in %{space_name} gelöscht
+87821;de;decidim.meetings.admin_log.meeting.export_registrations;%{user_name} hat die Registrierungen der Veranstaltung %{resource_name} in %{space_name} exportiert
+;de;decidim.meetings.calendar_modal.copy_calendar_url_description;"Du kannst alle veröffentlichten Veranstaltungen auf deiner Kalenderanwendung anzeigen. Kopieren du diese URL und fügen du den Kalender mit der Option ""Neuen Kalender von einer URL abonnieren"" hinzu."
+;de;decidim.meetings.close_meeting_reminder_mailer.close_meeting_reminder.subject;"Du kannst nun die Veranstaltung ""%{meeting_title}"" mit einem Bericht schließen"
+87822;de;decidim.meetings.directory.meetings.index.meetings;Veranstaltungen
+87823;de;decidim.meetings.directory.meetings.index.space_type;Inhaltsherkunft
+87824;de;decidim.meetings.mailer.invite_join_meeting_mailer.invite.subject;Einladung, an einer Veranstaltung teilzunehmen
+87825;de;decidim.meetings.mailer.registration_mailer.confirmation.subject;Vielen Dank für deine Anmeldung!
+87826;de;decidim.meetings.meeting.not_allowed;Du darfst diese Veranstaltung nicht sehen
+87827;de;decidim.meetings.meetings.calendar_modal.apple;Zum Apple Kalender hinzufügen
+87828;de;decidim.meetings.meetings.calendar_modal.google;Zum Google Kalender hinzufügen
+86048;de;decidim.meetings.meetings.count.meetings_count.one;%{count} Veranstaltung
+86049;de;decidim.meetings.meetings.count.meetings_count.other;%{count} Veranstaltungen
+87829;de;decidim.meetings.meetings.create.invalid;Beim Erstellen dieser Veranstaltung ist ein Problem aufgetreten.
+87830;de;decidim.meetings.meetings.create.success;Du hast die Veranstaltung erfolgreich erstellt.
+87831;de;decidim.meetings.meetings.edit.title;Deine Veranstaltung bearbeiten
+87832;de;decidim.meetings.meetings.form.address_help;Adresse: warte hier nach Eingabe einiger Buchstaben, bis du die Adresse auswählen kannst.
+87833;de;decidim.meetings.meetings.form.available_slots_help;Belasse den Wert auf 0, wenn du unbegrenzte Plätze zur Verfügung hast.
+87834;de;decidim.meetings.meetings.form.create_as;Veranstaltung erstellen als
+87835;de;decidim.meetings.meetings.form.disclaimer;Haftungsausschluss: %{organization} übernimmt keine Verantwortung für die Daten, die von den Nutzenden im Rahmen einer externen Anmeldung zu einer Veranstaltung einem Drittanbieter zur Verfügung gestellt werden.
+87836;de;decidim.meetings.meetings.form.location_hints_help;Standorthinweise: Zusätzliche Informationen. Beispiel: die Etage des Gebäudes, wenn es sich um eine Veranstaltung vor Ort oder das Passwort, wenn es sich um eine Online-Veranstaltung mit eingeschränktem Zugriff handelt.
+87837;de;decidim.meetings.meetings.form.online_meeting_url_help;Link: Erlaubt Teilnehmenden, sich direkt mit der Veranstaltung zu verbinden
+87838;de;decidim.meetings.meetings.form.registration_url_help;Füge hier den Link des externen Dienstleisters ein, über den die Anmeldungen durchgeführt werden sollen.
+87839;de;decidim.meetings.meetings.form.select_a_category;Bitte wähle eine Kategorie
+87840;de;decidim.meetings.meetings.form.select_a_registration_type;Wie sollen sich Teilnehmende anmelden?
+87841;de;decidim.meetings.meetings.index.new_meeting;Neue Veranstaltung
+87842;de;decidim.meetings.meetings.meetings.no_meetings_warning;Keine Veranstaltung entspricht deinen Suchkriterien oder es ist keine Veranstaltung geplant.
+87843;de;decidim.meetings.meetings.meetings.upcoming_meetings_warning;Momentan gibt es keine geplanten Veranstaltungen, aber hier findest du alle aufgelisteten Veranstaltungen.
+87844;de;decidim.meetings.meetings.new.title;Deine Veranstaltung erstellen
+87845;de;decidim.meetings.meetings.registration_confirm.cancel;Abbrechen
+87846;de;decidim.meetings.meetings.show.attendees;Teilnehmende
+87847;de;decidim.meetings.meetings.show.join;Melde dich für die Veranstaltung an
+87848;de;decidim.meetings.meetings.show.leave;Abmelden
+87849;de;decidim.meetings.meetings.show.leave_confirmation;Bist du sicher, dass du deine Anmeldung für diese Veranstaltung zurückziehen möchtest?
+87850;de;decidim.meetings.meetings.show.live_event;Laufende Veranstaltung
+87851;de;decidim.meetings.meetings.show.meeting_minutes;Protokolle
+87852;de;decidim.meetings.meetings.show.micro_camera_permissions_warning;Wenn du auf die unten stehende Schaltfläche klickst, wirst du nach Mikrofon- und/oder Kamerazulassungen gefragt, und du nimmst an der Videokonferenz teil
+87853;de;decidim.meetings.meetings.show.no_slots_available;Keine Steckplätze verfügbar
+87854;de;decidim.meetings.meetings.show.organizations;Teilnehmende Organisationen
+87855;de;decidim.meetings.meetings.show.registration_code_help_text;Dein Registrierungscode
+;de;decidim.meetings.meetings.show.withdraw_btn_hint;Du kannst deine Veranstaltung zurückziehen, wenn du deine Meinung ändern. Die Veranstaltung wird nicht gelöscht, sie wird in der Liste der zurückgezogenen Veranstaltungen angezeigt.
+87856;de;decidim.meetings.meetings.update.invalid;Beim Aktualisieren der Veranstaltung ist ein Fehler aufgetreten.
+87857;de;decidim.meetings.meetings.update.success;Du hast die Veranstaltung erfolgreich aktualisiert.
+87858;de;decidim.meetings.meetings_map.view_meeting;Veranstaltung anzeigen
+87859;de;decidim.meetings.models.meeting.fields.official_meeting;Veranstaltung
+87860;de;decidim.meetings.polls.questions.closed_question.question_results;Antworten zur Frage
+;de;decidim.meetings.polls.questions.index.empty_questions;Während dieser Veranstaltung werden einige Fragen gestellt, die du beantworten können. Du wirst hier angezeigt.
+87861;de;decidim.meetings.registration_mailer.confirmation.confirmed_html;"Deine Anmeldung für die Veranstaltung <a href=""%{url}"">%{title}</a> wurde bestätigt."
+87862;de;decidim.meetings.registration_mailer.confirmation.details;Du findest die Details zur Veranstaltung im Anhang.
+87863;de;decidim.meetings.registration_mailer.confirmation.registration_code;Dein Registrierungscode ist %{code}.
+87864;de;decidim.meetings.registration_type.on_different_platform;Anmeldung auf einer anderen Plattform
+87865;de;decidim.meetings.registration_type.on_this_platform;Anmeldung auf dieser Plattform
+87866;de;decidim.meetings.registration_type.registration_disabled;Keine Registrierung nötig
+;de;decidim.meetings.registrations.create.confirmation_required;Vervollständigen du deine Registrierung - überprüfen du deine E-Mail, um deine Teilnahme zu bestätigen und deinen Platz zu reservieren
+87867;de;decidim.meetings.registrations.create.success;Du bist der Veranstaltung erfolgreich beigetreten.
+87868;de;decidim.meetings.registrations.decline_invitation.success;Du hast die Einladung erfolgreich abgelehnt.
+87869;de;decidim.meetings.registrations.destroy.invalid;Beim Rückzug der Anmeldung für diese Veranstaltung ist ein Problem aufgetreten.
+87870;de;decidim.meetings.registrations.destroy.success;Du hast die Veranstaltung erfolgreich verlassen.
+87871;de;decidim.meetings.type_of_meeting.hybrid;Hybrid (digital und vor Ort)
+87872;de;decidim.meetings.type_of_meeting.in_person;Vor Ort
+87873;de;decidim.meetings.type_of_meeting.online;Digital
+87874;de;decidim.meetings.types.private_meeting;Private Veranstaltung
+87875;de;decidim.meetings.types.transparent;Sichtbar
+87925;de;decidim.pages.home.extended.meetings_explanation;Finde heraus, wo und wann du an öffentlichen Veranstaltungen teilnehmen kannst.
+86054;de;decidim.participatory_spaces.highlighted_meetings.see_all;Alle anzeigen
+87944;de;decidim.participatory_spaces.highlighted_meetings.upcoming_meetings;Nächste Veranstaltungen

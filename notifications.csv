@@ -1,0 +1,116 @@
+id;locale;key;value
+86653;de;activemodel.models.decidim/gamification/level_up_event;Du bist um ein Level aufgestiegen
+87220;de;decidim.endorsement_buttons_cell.endorse;Befürworten
+87228;de;decidim.events.amendments.amendment_accepted.affected_user.email_intro;Eine Emendation wurde für %{amendable_title}akzeptiert. Du kannst es auf dieser Seite sehen:
+87229;de;decidim.events.amendments.amendment_accepted.affected_user.email_outro;Du hast diese Benachrichtigung erhalten, weil du ein Autor von %{amendable_title} bist.
+87230;de;decidim.events.amendments.amendment_accepted.affected_user.notification_title;"Der <a href=""%{emendation_path}"">Änderungsantrag</a> der durch <a href=""%{emendation_author_path}"">%{emendation_author_nickname}</a> hinzugefügt wurde, wurde für <a href=""%{amendable_path}"">%{amendable_title}</a> akzeptiert."
+87231;de;decidim.events.amendments.amendment_accepted.follower.email_intro;Eine Emendation wurde für %{amendable_title}akzeptiert. Du kannst es auf dieser Seite sehen:
+87232;de;decidim.events.amendments.amendment_accepted.follower.email_outro;Du hast diese Benachrichtigung erhalten, weil du %{amendable_title} folgst. Wenn du keine Benachrichtigungen mehr erhalten möchtest, kannst du das in deinen Profileinstellungen angeben.
+87233;de;decidim.events.amendments.amendment_accepted.follower.notification_title;"Die <a href=""%{emendation_path}"">Abänderung</a> die durch <a href=""%{emendation_author_path}"">%{emendation_author_nickname}</a> wurde, wurde für <a href=""%{amendable_path}"">%{amendable_title}</a>."
+87234;de;decidim.events.amendments.amendment_created.affected_user.email_intro;Eine neue Ausgabe wurde für %{amendable_title}. Du kannst es auf dieser Seite sehen:
+87235;de;decidim.events.amendments.amendment_created.affected_user.email_outro;Du hast diese Benachrichtigung erhalten, weil du ein Autor von %{amendable_title} bist.
+87236;de;decidim.events.amendments.amendment_created.affected_user.notification_title;"Es gibt eine neue Änderung für <a href=""%{amendable_path}"">%{amendable_title}</a>."
+87237;de;decidim.events.amendments.amendment_created.follower.email_intro;Eine neue Ausgabe wurde für %{amendable_title}. Du kannst es auf dieser Seite sehen:
+87239;de;decidim.events.amendments.amendment_created.follower.email_outro;Du hast diese Benachrichtigung erhalten, weil du %{amendable_title} bist. Wenn du keine Benachrichtigungen mehr erhalten möchtest, kannst du das in deinen Profileinstellungen angeben.
+87240;de;decidim.events.amendments.amendment_created.follower.notification_title;"Es gibt eine neue Änderung für <a href=""%{amendable_path}"">%{amendable_title}</a>."
+87241;de;decidim.events.amendments.amendment_promoted.affected_user.email_intro;Eine für %{amendable_title} abgelehnte Ausgabe wurde zu einer unabhängigen %{amendable_type}. Du kannst es auf dieser Seite sehen:
+87242;de;decidim.events.amendments.amendment_promoted.affected_user.email_outro;Du hast diese Benachrichtigung erhalten, weil du ein Autor von %{amendable_title} bist.
+87244;de;decidim.events.amendments.amendment_promoted.affected_user.notification_title;"Die <a href=""%{emendation_path}"">abgelehnte Änderung</a> für <a href=""%{amendable_path}"">%{amendable_title}</a> wurde neu veröffentlicht %{amendable_type} von <a href=""%{emendation_author_path}"">%{emendation_author_nickname}</a>."
+87245;de;decidim.events.amendments.amendment_promoted.follower.email_intro;Eine für %{amendable_title} abgelehnte Ausgabe wurde zu einer unabhängigen %{amendable_type}. Du kannst es auf dieser Seite sehen:
+87246;de;decidim.events.amendments.amendment_promoted.follower.email_outro;Du hast diese Benachrichtigung erhalten, weil du %{amendable_title} bist. Wenn du keine Benachrichtigungen mehr erhalten möchtest, kannst du das in deinen Profileinstellungen angeben.
+87247;de;decidim.events.amendments.amendment_promoted.follower.notification_title;"Die <a href=""%{emendation_path}"">abgelehnte Änderung</a> für <a href=""%{amendable_path}"">%{amendable_title}</a> hat als neue veröffentlicht %{amendable_type} von <a href=""%{emendation_author_path}"">%{emendation_author_nickname}</a>."
+87248;de;decidim.events.amendments.amendment_rejected.affected_user.email_intro;Eine Ausgabe wurde für %{amendable_title}abgelehnt. Du kannst es auf dieser Seite sehen:
+87249;de;decidim.events.amendments.amendment_rejected.affected_user.email_outro;Du hast diese Benachrichtigung erhalten, weil du ein Autor von %{amendable_title} bist.
+87250;de;decidim.events.amendments.amendment_rejected.follower.email_intro;Eine Ausgabe wurde für %{amendable_title}abgelehnt. Du kannst es auf dieser Seite sehen:
+87251;de;decidim.events.amendments.amendment_rejected.follower.email_outro;Du hast diese Benachrichtigung erhalten, weil du %{amendable_title} folgst. Wenn du keine Benachrichtigungen mehr erhalten möchtest, kannst du das in deinen Profileinstellungen angeben.
+;de;decidim.events.amendments.emendation_promoted.follower.email_outro;Du hast diese Benachrichtigung erhalten, weil du %{amendable_title} mitverfasst haben.
+87260;de;decidim.events.attachments.attachment_created.email_intro;Ein neues Dokument wurde zu %{resource_title} hinzugefügt. Du kannst es auf dieser Seite sehen:
+87261;de;decidim.events.attachments.attachment_created.email_outro;Du hast diese Benachrichtigung erhalten, weil du %{resource_title} folgst. Wenn du keine Benachrichtigungen mehr erhalten möchtest, kannst du das in deinen Profileinstellungen angeben.
+87266;de;decidim.events.budgets.budget_published.email_intro;Das Budget %{resource_title} ist jetzt für %{participatory_space_title} aktiv. Du kannst es auf dieser Seite ansehen:
+87267;de;decidim.events.budgets.budget_published.email_outro;Du hast diese Benachrichtigung erhalten, weil du %{participatory_space_title} folgst. Falls du keine solchen Benachrichtigungen mehr erhalten möchtest, besuche den obigen Link.
+87294;de;decidim.events.components.component_published.email_intro;Die Komponente %{resource_title} ist jetzt für %{participatory_space_title} aktiv. Du kannst diese auf dieser Seite ansehen:
+87295;de;decidim.events.components.component_published.email_outro;Du hast diese Benachrichtigung erhalten, weil du %{participatory_space_title} folgst. Wenn du keine Benachrichtigungen mehr erhalten möchtest, kannst du das in deinen Profileinstellungen angeben.
+87315;de;decidim.events.debates.create_debate_event.space_followers.email_intro;"Hallo,
+Eine neue Debatte ""%{resource_title}"" wurde in %{space_title} erstellt, sieh es dir an und rede mit:"
+87316;de;decidim.events.debates.create_debate_event.space_followers.email_outro;Du hast diese Benachrichtigung erhalten, weil du dem %{space_title} Teilnahmebereich folgst. Wenn du keine Benachrichtigungen mehr erhalten möchtest, kannst du das in deinen Profileinstellungen angeben.
+87317;de;decidim.events.debates.create_debate_event.space_followers.email_subject;"Neue Debatte ""%{resource_title}"" in %{space_title}"
+87318;de;decidim.events.debates.create_debate_event.space_followers.notification_title;"Die <a href=""%{resource_path}"">%{resource_title}</a> Debatte wurde in <a href=""%{space_path}"">%{space_title}</a>hinzugefügt."
+87319;de;decidim.events.debates.create_debate_event.user_followers.email_intro;"Hallo,
+%{author_name} %{author_nickname}, dem du folgst, hat eine neue Debatte ""%{resource_title}"" erstellt. Überprüfe es und trage bei:"
+87320;de;decidim.events.debates.create_debate_event.user_followers.email_outro;Du hast diese Benachrichtigung erhalten, weil du %{author_nickname} folgst. Wenn du keine Benachrichtigungen mehr erhalten möchtest, kannst du das in deinen Profileinstellungen angeben.
+87321;de;decidim.events.debates.create_debate_event.user_followers.notification_title;"<a href=""%{author_path}"">%{author_name} %{author_nickname}</a> hat eine neue Debatte namens<a href=""%{resource_path}"">%{resource_title}</a>hinzugefügt."
+87322;de;decidim.events.debates.creation_disabled.email_intro;Die Erstellung von Debatten ist in %{participatory_space_title}nicht mehr aktiv. Du kannst weiterhin an offenen Debatten von dieser Seite teilnehmen:
+87323;de;decidim.events.debates.creation_disabled.email_outro;Du hast diese Benachrichtigung erhalten, weil du %{participatory_space_title} folgst. Wenn du keine Benachrichtigungen mehr erhalten möchtest, kannst du das in deinen Profileinstellungen angeben.
+87324;de;decidim.events.debates.creation_disabled.notification_title;"Die Erstellung von Debatten in <a href=""%{participatory_space_url}"">%{participatory_space_title}</a>wurde deaktiviert"
+87325;de;decidim.events.debates.creation_enabled.email_intro;Du kannst jetzt neue Debatten in %{participatory_space_title}! Starte die Teilnahme an dieser Seite:
+87326;de;decidim.events.debates.creation_enabled.email_outro;Du hast diese Benachrichtigung erhalten, weil du %{participatory_space_title} folgst. Wenn du keine Benachrichtigungen mehr erhalten möchtest, kannst du das in deinen Profileinstellungen angeben.
+87327;de;decidim.events.debates.creation_enabled.notification_title;"Du kannst jetzt <a href=""%{resource_path}"">neue Debatten</a> in <a href=""%{participatory_space_url}"">%{participatory_space_title}</a>starten"
+87328;de;decidim.events.debates.debate_closed.affected_user.email_intro;"Die Debatte ""%{resource_title}"" wurde beendet. Du kannst die Resultate auf dieser Seite lesen:"
+87329;de;decidim.events.debates.debate_closed.affected_user.email_outro;"Du hast diese Benachrichtigung erhalten, weil du der Debatte ""%{resource_title}"" folgst. Falls du keine solchen Benachrichtigungen mehr erhalten möchtest, besuche den obigen Link."
+87330;de;decidim.events.debates.debate_closed.follower.email_intro;"Die Debatte ""%{resource_title}"" wurde beendet. Du kannst die Resultate auf dieser Seite lesen:"
+87331;de;decidim.events.debates.debate_closed.follower.email_outro;"Du hast diese Benachrichtigung erhalten, weil du der Debatte ""%{resource_title}"" folgst. Falls du keine solchen Benachrichtigungen mehr erhalten möchtest, besuche den obigen Link."
+87332;de;decidim.events.email_event.email_intro;"Es wurde ein Update auf ""%{resource_title}"" vorgenommen. Du kannst es auf dieser Seite sehen:"
+87333;de;decidim.events.email_event.email_outro;"Du hast diese Benachrichtigung erhalten, weil du ""%{resource_title}"" folgst. Du kanst sich durch den vorherigen Link davon abmelden."
+87334;de;decidim.events.gamification.badge_earned.email_intro;"Gut gemacht! Du hast das <a href=""%{resource_url}"">%{badge_name} Abzeichen</a> (Level %{current_level}) verdient."
+87335;de;decidim.events.gamification.badge_earned.email_outro;Du hast diese Benachrichtigung erhalten, weil du auf unserer Website aktiv warst.
+87306;de;decidim.events.gamification.badge_earned.email_subject;Du hast ein neues Abzeichen erhalten: %{badge_name}!
+87336;de;decidim.events.gamification.badge_earned.notification_title;"Gratulation! Du hast das Abzeichen <a href=""%{resource_path}"">%{badge_name}</a> (Level %{current_level}) verdient."
+87337;de;decidim.events.gamification.level_up.email_intro;"Gratulation! Du hast Level %{current_level} auf dem Abzeichen <a href=""%{resource_url}"">%{badge_name}</a> erreicht!"
+87338;de;decidim.events.gamification.level_up.email_outro;Du hast diese Benachrichtigung erhalten, weil du auf unserer Website aktiv warst.
+87339;de;decidim.events.gamification.level_up.email_subject;Du hast Level %{current_level} auf dem Abzeichen %{badge_name} erreicht!
+87340;de;decidim.events.gamification.level_up.notification_title;"Gratulation! Du hast Level %{current_level} auf dem Abzeichen <a href=""%{resource_path}"">%{badge_name}</a> erreicht!"
+87341;de;decidim.events.groups.demoted_membership.email_intro;"Ein Administrator der Gruppe <a href=""%{resource_url}"">%{user_group_name}</a> hat deine Administratorrechte für diese Gruppe entfernt."
+87342;de;decidim.events.groups.demoted_membership.email_outro;Du hast diese Benachrichtigung erhalten, weil du Mitglied dieser Gruppe bist.
+87343;de;decidim.events.groups.demoted_membership.notification_title;"Du bist nicht mehr  Administrator der <a href=""%{resource_path}"">%{user_group_name}</a> Gruppe."
+87344;de;decidim.events.groups.invited_to_group.email_intro;"Ein Administrator der Gruppe <a href=""%{resource_url}"">%{user_group_name}</a> hat dich eingeladen, sich daran zu beteiligen."
+87345;de;decidim.events.groups.invited_to_group.email_outro;"Du hast diese Benachrichtigung erhalten, weil du zu einer Gruppe eingeladen wurdest. Überprüfe den Tab ""Gruppen"" in deinem Profil, um die Einladung anzunehmen."
+87346;de;decidim.events.groups.invited_to_group.email_subject;Du wurdest eingeladen, der Gruppe %{user_group_name} beizutreten!
+87347;de;decidim.events.groups.invited_to_group.notification_title;"Du wurdest eingeladen, der <a href=""%{resource_path}"">%{user_group_name}</a> Gruppe beizutreten. Schau dir die <a href=""%{groups_profile_tab_path}"">Gruppen Seite</a> an, um über den Beitritt zu entscheiden."
+87348;de;decidim.events.groups.join_request_accepted.email_intro;"Herzliche Glückwünsche! Ein Administrator der Gruppe <a href=""%{resource_url}"">%{user_group_name}</a> hat Deine Anfrage akzeptiert, der Gruppe beizutreten."
+87349;de;decidim.events.groups.join_request_accepted.email_outro;Du hast diese Benachrichtigung erhalten, weil deine Beitrittsanforderung aktualisiert wurde.
+87350;de;decidim.events.groups.join_request_accepted.email_subject;Du wurdest in die Gruppe %{user_group_name} aufgenommen!
+87351;de;decidim.events.groups.join_request_accepted.notification_title;"Du wurdest in die Gruppe <a href=""%{resource_path}"">%{user_group_name}</a> aufgenommen."
+87352;de;decidim.events.groups.join_request_created.email_intro;"Jemand hat darum gebeten, der Gruppe %{user_group_name} beizutreten. Du kannst es von <a href=""%{resource_url}"">der Gruppenmitglieder Seite</a>akzeptieren oder ablehnen."
+87353;de;decidim.events.groups.join_request_created.email_outro;Du hast diese Benachrichtigung erhalten, weil du die Gruppe %{user_group_name} verwalten kanst.
+87354;de;decidim.events.groups.join_request_created.notification_title;"Jemand hat darum gebeten, der Gruppe %{user_group_name} beizutreten. Du kannst es unter <a href=""%{resource_path}"">der Gruppenmitglieder Seite</a>akzeptieren oder ablehnen."
+87355;de;decidim.events.groups.join_request_rejected.email_intro;"Ein Administrator der Gruppe <a href=""%{resource_url}"">%{user_group_name}</a> Deine Anfrage abgelehnt, der Gruppe beizutreten."
+87356;de;decidim.events.groups.join_request_rejected.email_outro;Du hast diese Benachrichtigung erhalten, weil deine Beitrittsanforderung aktualisiert wurde.
+87357;de;decidim.events.groups.join_request_rejected.email_subject;Deine Anfrage, der Gruppe %{user_group_name} beizutreten, wurde abgelehnt!
+87358;de;decidim.events.groups.join_request_rejected.notification_title;"Deine Anfrage, der Gruppe <a href=""%{resource_path}"">%{user_group_name}</a> beizutreten, wurde abgelehnt."
+;de;decidim.events.groups.promoted_to_admin.email_intro;"Ein Administrator der Gruppe <a href=""%{resource_url}"">%{user_group_name}</a> hat dir Administratorrechte für diese Gruppe erteilt."
+87359;de;decidim.events.groups.promoted_to_admin.email_outro;Du hast diese Benachrichtigung erhalten, weil du Mitglied dieser Gruppe bist.
+87360;de;decidim.events.groups.promoted_to_admin.notification_title;"Du bist jetzt ein Administrator der <a href=""%{resource_path}"">%{user_group_name}</a> Gruppe."
+87361;de;decidim.events.groups.removed_from_group.email_intro;"Ein Admin der Gruppe <a href=""%{resource_url}"">%{user_group_name}</a> hat dich aus der Gruppe entfernt."
+87362;de;decidim.events.groups.removed_from_group.email_outro;Du hast diese Benachrichtigung erhalten, weil du Mitglied dieser Gruppe warst.
+87363;de;decidim.events.groups.removed_from_group.notification_title;"Du wurdest aus der Gruppe <a href=""%{resource_path}"">%{user_group_name}</a>entfernt."
+87364;de;decidim.events.groups.user_group_created.email_intro;"Eine neue Benutzergruppe wurde erstellt mit dem Namen %{user_group_name}. Du kannst sie über den <a href=""%{groups_admin_url}"">Admin-Panel</a> verifizieren."
+87365;de;decidim.events.groups.user_group_created.email_outro;Du hast diese Benachrichtigung erhalten, weil du ein Administrator der Plattform bist.
+87366;de;decidim.events.groups.user_group_created.notification_title;"Die Benutzergruppe %{user_group_name} wurde erstellt. Du kannst diese über den <a href=""%{groups_admin_path}"">Admin-Panel</a> verifizieren."
+87367;de;decidim.events.groups.user_group_updated.email_intro;"Die Benutzergruppe mit dem Namen %{user_group_name} hat dein Profil aktualisiert, wodurch diese erneut verifiziert werden muss. Du kannst sie über den <a href=""%{groups_admin_url}"">Admin-Panel</a> verifizieren."
+87368;de;decidim.events.groups.user_group_updated.email_outro;Du hast diese Benachrichtigung erhalten, weil du ein Administrator der Plattform bist.
+87369;de;decidim.events.groups.user_group_updated.email_subject;Eine Benutzergruppe hat dein Profil aktualisiert
+87370;de;decidim.events.groups.user_group_updated.notification_title;"Die Benutzergruppe %{user_group_name} hat dein Profil aktualisiert, wodurch dieses erneut verifiziert werden muss. Du kannst dies über den <a href=""%{groups_admin_path}"">Admin-Panel</a> tun."
+;de;decidim.events.nickname_event.notification_body;"Wir haben die Verwendung von Spitznamen so korrigiert, dass es keine Duplikate gibt, und deshalb haben wir die Gross-/Kleinschreibungsregeln entfernt. <br/> dein Spitzname wurde nach einem anderen mit dem gleichen Namen erstellt, weshalb wir ihn automatisch umbenannt haben. Du kannst ihn in <a href=""%{link_to_account_settings}"">deinen Kontoeinstellungen</a> ändern."
+87420;de;decidim.events.notification_event.notification_title;"Eine Veranstaltung wurde erstellt <a href=""%{resource_path}"">%{resource_title}</a>."
+87473;de;decidim.events.reports.resource_hidden.email_intro;Ein Administrator hat dein/e/n %{resource_type} entfernt, weil diese/r/s als %{report_reasons} gemeldet wurde.
+87474;de;decidim.events.reports.resource_hidden.email_outro;Du hast diese Benachrichtigung erhalten, weil du Autor/in des entfernten Inhalts bist.
+87475;de;decidim.events.reports.resource_hidden.email_subject;Dein/e %{resource_type} wurde entfernt
+87476;de;decidim.events.reports.resource_hidden.notification_title;"Ein Administrator hat dein/e %{resource_type} entfernt, weil es als %{report_reasons} gemeldet wurde.</br>
+<i>%{resource_content}</i>"
+87477;de;decidim.events.resource_endorsed.email_intro;%{endorser_name} %{endorser_nickname}, dem du folgst, hat gerade „%{resource_title}“ befürwortet, und wir denken, das könnte für dich interessant sein. Über folgenden Link kannst du es anzeigen und daran teilnehmen:
+87478;de;decidim.events.resource_endorsed.email_outro;Du hast diese Benachrichtigung erhalten, weil du %{endorser_nickname} folgst. Wenn du keine Benachrichtigungen mehr erhalten möchtest, kannst du das in deinen Profileinstellungen angeben.
+87479;de;decidim.events.sortitions.sortition_created.email_intro;"Die Sortierung ""%{resource_title}"" wurde zu ""%{participatory_space_title}"" hinzugefügt, dem du folgst."
+87480;de;decidim.events.sortitions.sortition_created.email_outro;"Du hast diese Benachrichtigung erhalten, weil du ""%{participatory_space_title}"" folgst. Wenn du keine Benachrichtigungen mehr erhalten möchtest, kannst du das in deinen Profileinstellungen angeben."
+87486;de;decidim.events.users.profile_updated.email_intro;"Die <a href=""%{resource_url}"">Profilseite</a> von %{name} (%{nickname}), der du folgst, wurde aktualisiert."
+87487;de;decidim.events.users.profile_updated.email_outro;Du hast diese Benachrichtigung erhalten, weil du %{nickname} folgst. Wenn du keine Benachrichtigungen mehr erhalten möchtest, kannst du das in deinen Profileinstellungen angeben.
+87488;de;decidim.events.users.profile_updated.email_subject;%{nickname} hat dein Profil aktualisiert
+87489;de;decidim.events.users.profile_updated.notification_title;"Die <a href=""%{resource_path}"">Profilseite</a> von %{name} (%{nickname}), der du folgst, wurde aktualisiert."
+87490;de;decidim.events.users.user_officialized.email_outro;Du hast diese Benachrichtigung erhalten, weil du ein Administrator der Organisation bist.
+87491;de;decidim.events.verifications.verify_with_managed_user.notification_title;"Der Teilnehmer <a href=""%{resource_path}"">%{resource_title}</a> hat versucht, sich mit den Daten des verwalteten Teilnehmers <a href=""%{managed_user_path}"">%{managed_user_name}</a> zu verifizieren."
+;de;decidim.notification_mailer.event_received.no_translation_available;Leider konnte die automatisierte Übersetzung nicht abgerufen werden, nachdem die E-Mail gesendet wurde. Du kannst die Übersetzung des Originaltextes unter folgendem Link %{link} überprüfen.
+;de;decidim.notification_mailer.event_received.same_language;Der Inhalt wurde in deiner bevorzugten Sprache (%{language}) veröffentlicht, daher wird in dieser E-Mail keine automatisierte Übersetzung angezeigt.
+;de;decidim.notifications_digest_mailer.outro;Du hast diese Benachrichtigung erhalten, weil du diesen Inhalt oder seine Verfassenden folgen. Du kannst dem Inhalt direkt auf seiner Seite entfolgen.
+;de;decidim.notifications_settings.show.allow_push_notifications;Erhalten du Push-Benachrichtigungen, um Mitteilungen zu erhalten, wenn du nicht auf der Plattform sind. Du kannst diese jederzeit ausschalten.
+87917;de;decidim.notifications_settings.update.success;Deine Benachrichtigungseinstellungen wurden erfolgreich aktualisiert.
+88188;de;decidim.welcome_notification.default_body;<p>Hallo {{name}}. Willkommen bei {{organization}}!</p> Wir freuen uns sehr darüber, dass du dich für einen aktiven Dialog in Luzern einsetzen möchtest. Unsere Community wird ständig wachsen und dir die Möglichkeit geben, in immer mehr Themen deine Meinung einzubringen. Nimm an Umfragen teil, mache Vorschläge, kommentiere, diskutiere mit.
+88189;de;decidim.welcome_notification.default_subject;Danke, dass du {{organization} }beigetreten bist {{organization}}!

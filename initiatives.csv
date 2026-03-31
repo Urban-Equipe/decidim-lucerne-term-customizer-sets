@@ -1,0 +1,223 @@
+id;locale;key;value
+86581;de;activemodel.attributes.initiative.decidim_user_group_id;Initiant/in
+86582;de;activemodel.attributes.initiative.offline_votes_for_scope;Persönliche Interessenten für %{scope_name}
+86583;de;activemodel.attributes.initiative.scope_id;Thema (noch nicht aktiv)
+86584;de;activemodel.attributes.initiative.signature_end_date;Bis zu diesem Datum sollten sich Interessenten melden (kann auch leer gelassen werden)
+86585;de;activemodel.attributes.initiative.signature_start_date;Beginn der Suche nach Interessenten
+86586;de;activemodel.attributes.initiative.signature_type;Interessentensuche (unverändert lassen)
+86587;de;activemodel.attributes.initiatives_type.area_enabled;Die Auswahl des Gebiets von Impulse für Initiant/inen freigeben
+86588;de;activemodel.attributes.initiatives_type.child_scope_threshold_enabled;Interessenten von Unterbereichen aktivieren
+86589;de;activemodel.attributes.initiatives_type.collect_user_extra_fields;Sammle persönliche Daten des Benutzers bei der Interessensbekundung
+86590;de;activemodel.attributes.initiatives_type.custom_signature_end_date_enabled;Die Auswahl des Enddatums der Suche nach Interessenten für Initiant/inen freigeben
+86591;de;activemodel.attributes.initiatives_type.online_signature_enabled;Interessensbekundung aktiviert
+86592;de;activemodel.attributes.initiatives_type.only_global_scope_enabled;Nur die Erstellung globaler Impulse zulassen
+86593;de;activemodel.attributes.initiatives_type.promoting_committee_enabled;Projektgruppe freigeben
+86594;de;activemodel.attributes.initiatives_type.undo_online_signatures_enabled;Ermögliche Benutzern, ihre Interessensbekundung rückgängig zu machen
+86595;de;activemodel.attributes.initiatives_type.validate_sms_code_on_votes;Füge der Interessensbekundung einen SMS-Validierungsschritt hinzu
+86673;de;decidim.admin.actions.new_initiative_type;Neuer Impulstyp
+86864;de;decidim.admin.filters.initiatives.decidim_area_id_eq.label;Gebiet
+86865;de;decidim.admin.filters.initiatives.state_eq.values.accepted;Genügend Interessenten
+86866;de;decidim.admin.filters.initiatives.state_eq.values.rejected;Nicht genügend Interessenten
+86867;de;decidim.admin.filters.initiatives.state_eq.values.validating;Validierung ausstehend
+86868;de;decidim.admin.filters.initiatives.type_id_eq.label;Initiativ-Typ
+86910;de;decidim.admin.models.initiatives.fields.created_at;Erfasst am
+86911;de;decidim.admin.models.initiatives.fields.id;ID Nummer
+86912;de;decidim.admin.models.initiatives.fields.supports_count;Interessenten
+86913;de;decidim.admin.models.initiatives.fields.title;Impulse
+86914;de;decidim.admin.models.initiatives_type_scope.fields.scope;Thema (noch nicht aktiv)
+86915;de;decidim.admin.models.initiatives_type_scope.name;Typ des Impulses
+86916;de;decidim.admin.models.initiatives_types.fields.created_at;Erfasst am
+86917;de;decidim.admin.models.initiatives_types.fields.title;Impuls-Arten
+86918;de;decidim.admin.models.initiatives_types.name;Initiativ-Typ
+86919;de;decidim.admin.models.initiatives_votes.fields.initiative_end_date;Ende
+86920;de;decidim.admin.models.initiatives_votes.fields.initiative_signatures_count;Anzahl der Interessenten
+86921;de;decidim.admin.models.initiatives_votes.fields.initiative_start_date;Beginn
+86922;de;decidim.admin.models.initiatives_votes.fields.initiative_title;Titel des Impulses
+86707;de;decidim.admin.models.initiatives_votes.fields.scope;Thema (noch nicht aktiv)
+86970;de;decidim.admin.titles.initiatives;Impulse
+86971;de;decidim.admin.titles.initiatives_types;Impuls-Arten
+87068;de;decidim.components.component_order_selector.order.initiative;Impuls
+87371;de;decidim.events.initiatives.admin.initiative_sent_to_technical_validation.email_intro;"Der Impuls ""%{resource_title}"" wurde zur Validierung eingereicht. Über das <a href=""%{admin_initiative_url}"">Admin-Panel</a> kannst du ihn aufrufen"
+87372;de;decidim.events.initiatives.admin.initiative_sent_to_technical_validation.email_outro;Du hast diese Benachrichtigung erhalten, weil du ein Administrator der Plattform bist.
+87373;de;decidim.events.initiatives.admin.initiative_sent_to_technical_validation.email_subject;"Der Impuls ""%{resource_title}"" wurde zur Validierung eingereicht."
+87374;de;decidim.events.initiatives.admin.initiative_sent_to_technical_validation.notification_title;"Der Impuls ""%{resource_title}"" wurde zur Validierung eingereicht. Über das <a href=""%{admin_initiative_path}"">Admin-Panel</a> kannst du ihn aufrufen"
+87375;de;decidim.events.initiatives.initiative_extended.email_intro;Das Enddatum der Suche nach Interessenten für den Impuls %{resource_title} wurde verlängert!
+87376;de;decidim.events.initiatives.initiative_extended.email_outro;Du hast diese Benachrichtigung erhalten, weil du %{resource_title} folgst. Falls du keine solchen Benachrichtigungen mehr erhalten möchtest, kannst du das in deinem Profil einstellen.
+87377;de;decidim.events.initiatives.initiative_extended.email_subject;Enddatum der Suche nach Interessenten verlängert!
+87378;de;decidim.events.initiatives.initiative_extended.notification_title;"Das Enddatum der Suche nach Interessenten für den Impuls <a href=""%{resource_path}"">%{resource_title}</a> wurde verlängert."
+87379;de;decidim.events.initiatives.initiative_sent_to_technical_validation.email_intro;"Der Impuls „%{resource_title}“ wurde zur Validierung eingereicht. Über das <a href=""%{admin_initiative_url}"">Admin-Panel</a> kannst du ihn aufrufen"
+87380;de;decidim.events.initiatives.initiative_sent_to_technical_validation.email_outro;Du hast diese Benachrichtigung erhalten, weil du ein Administrator der Plattform bist.
+87381;de;decidim.events.initiatives.initiative_sent_to_technical_validation.email_subject;"Der Impuls ""%{resource_title}"" wurde zur Validierung eingereicht."
+87382;de;decidim.events.initiatives.initiative_sent_to_technical_validation.notification_title;"Der Impuls ""%{resource_title}"" wurde zur Validierung eingereicht. Über das <a href=""%{admin_initiative_path}"">Admin-Panel</a> kannst du ihn aufrufen"
+87383;de;decidim.events.initiatives.milestone_completed.affected_user.email_intro;Dein Impuls %{resource_title} hat %{percentage}% der Interessenten erreicht!
+87384;de;decidim.events.initiatives.milestone_completed.affected_user.email_outro;Du hast diese Benachrichtigung erhalten, weil du Initiant/in des Impulses %{resource_title} bist
+87385;de;decidim.events.initiatives.milestone_completed.affected_user.notification_title;"Dein Impuls <a href=""%{resource_path}"">%{resource_title}</a> hat %{percentage}% der Interessenten erreicht."
+87386;de;decidim.events.initiatives.milestone_completed.follower.email_intro;Der Impuls %{resource_title} hat %{percentage}% der Interessenten erreicht!
+87387;de;decidim.events.initiatives.milestone_completed.follower.email_outro;Du hast diese Benachrichtigung erhalten, weil du %{resource_title} folgst. Falls du keine solchen Benachrichtigungen mehr erhalten möchtest, kannst du das in deinem Profil einstellen.
+87388;de;decidim.events.initiatives.milestone_completed.follower.notification_title;"Der Impuls <a href=""%{resource_path}"">%{resource_title}</a> hat %{percentage}% der Interessenten erreicht."
+87389;de;decidim.events.initiatives.support_threshold_reached.email_outro;Du hast diese Benachrichtigung erhalten, weil du ein Administrator der Plattform bist.
+87390;de;decidim.events.initiatives.support_threshold_reached.email_subject;Der Impuls %{resource_title} hat die Mindestanzahl an Interessenten erreicht
+87391;de;decidim.events.initiatives.support_threshold_reached.notification_title;"Der Impuls <a href=""%{resource_path}"">%{resource_title}</a> hat die Mindestanzahl an Interessenten erreicht"
+87571;de;decidim.gamification.badges.initiatives.description;Dieses Abzeichen wird gewährt, wenn du neue Impulse startest und mit anderen zusammenarbeitest, um aktiv zu werden.
+87572;de;decidim.gamification.badges.initiatives.description_another;Diese/r Benutzer/in hat %{score} Impulse veröffentlicht.
+87573;de;decidim.gamification.badges.initiatives.description_own;Du hast %{score} Impulse veröffentlicht.
+87574;de;decidim.gamification.badges.initiatives.name;Veröffentlichte Impulse
+87575;de;decidim.gamification.badges.initiatives.next_level_in;Starte %{score} weitere Impulse, um das nächste Level zu erreichen!
+87576;de;decidim.gamification.badges.initiatives.unearned_another;Diese/r Benutzer/in hat noch keinen Impuls veröffentlicht.
+87577;de;decidim.gamification.badges.initiatives.unearned_own;Du hast noch keinen Impuls gestartet.
+87616;de;decidim.help.participatory_spaces.initiatives.contextual;<p>Ein Impuls ist eine Idee, die von Privatpersonen aus eigener Initiative für die Organisation zur Durchführung einer bestimmten Aktion genutzt werden kann. </p> <p>Die Initiatoren eines Impulses können ihre Ziele festlegen, Interessenten suchen, diskutieren und Treffpunkte definieren, an denen die Ideen weiterentwickelt werden.</p> <p>
+87617;de;decidim.help.participatory_spaces.initiatives.page;<p>Ein Impuls ist eine Idee, die von Privatpersonen aus eigener Initiative für die Organisation zur Durchführung einer bestimmten Aktion genutzt werden kann. </p> <p>Die Initiatoren eines Impulses können ihre Ziele festlegen, Interessenten suchen, diskutieren und Treffpunkte definieren, an denen die Ideen weiterentwickelt werden.</p> <p>
+87618;de;decidim.help.participatory_spaces.initiatives.title;Was sind Impulse?
+87622;de;decidim.initiatives.actions.answer;Als Administrator kommentieren
+87623;de;decidim.initiatives.admin.answers.edit.answer;Als Administrator kommentieren
+87624;de;decidim.initiatives.admin.answers.edit.title;(Sichtbarer) Admin Kommentar für %{title}
+87625;de;decidim.initiatives.admin.answers.info_initiative.created_at;Erfasst am
+87626;de;decidim.initiatives.admin.answers.info_initiative.initiative_votes_count;Stimmen zählen
+87627;de;decidim.initiatives.admin.answers.info_initiative.initiatives;Impulse
+87628;de;decidim.initiatives.admin.committee_requests.index.confirm_revoke;Bist du sicher?
+87629;de;decidim.initiatives.admin.committee_requests.index.invite_to_committee_help;Teile diesen Link, um andere Benutzer/innen zur Projektgruppe einzuladen
+87630;de;decidim.initiatives.admin.committee_requests.index.no_members_yet;Es gibt keine Mitglieder in der Projektgruppe
+87631;de;decidim.initiatives.admin.exports.initiatives;Impulse
+;de;decidim.initiatives.admin.index.initiatives_types.alert_html;<p>Du musst mindestens einen Initiativentyp erstellen, damit die Teilnehmenden Initiativen erstellen können.</p><p> %{link}</p>
+87632;de;decidim.initiatives.admin.initiatives.edit.accept;Impuls akzeptieren
+87633;de;decidim.initiatives.admin.initiatives.edit.confirm;Bist du sicher?
+87609;de;decidim.initiatives.admin.initiatives.edit.confirm_send_to_technical_validation;Bist du sicher?
+87610;de;decidim.initiatives.admin.initiatives.edit.discard;Verwerfe den Impuls
+87611;de;decidim.initiatives.admin.initiatives.edit.export_pdf_signatures;Exportieren von Interessenten als PDF
+87612;de;decidim.initiatives.admin.initiatives.edit.reject;Impuls ablehnen
+87613;de;decidim.initiatives.admin.initiatives.edit.send_to_technical_validation;Zur Validierung einreichen
+87634;de;decidim.initiatives.admin.initiatives.edit.success;Der Impuls wurde zur Validierung eingereicht
+87635;de;decidim.initiatives.admin.initiatives.update.error;Ein Fehler ist aufgetreten
+87636;de;decidim.initiatives.admin.initiatives.update.success;Der Impuls wurde erfolgreich aktualisiert
+87637;de;decidim.initiatives.admin.initiatives_type_scopes.create.error;Ein Fehler ist aufgetreten
+87638;de;decidim.initiatives.admin.initiatives_type_scopes.create.success;Ein neuer Bereich für den angegebenen Impulstyp wurde erstellt
+87639;de;decidim.initiatives.admin.initiatives_type_scopes.destroy.success;Der Bereich wurde erfolgreich entfernt
+87640;de;decidim.initiatives.admin.initiatives_type_scopes.edit.title;Impulstyp bearbeiten
+87641;de;decidim.initiatives.admin.initiatives_type_scopes.new.title;Impulstypbereich erstellen
+87642;de;decidim.initiatives.admin.initiatives_type_scopes.update.error;Ein Fehler ist aufgetreten
+87643;de;decidim.initiatives.admin.initiatives_type_scopes.update.success;Der Bereich wurde erfolgreich aktualisiert
+87644;de;decidim.initiatives.admin.initiatives_types.create.error;Ein Fehler ist aufgetreten
+87645;de;decidim.initiatives.admin.initiatives_types.create.success;Ein neuer Impulstyp wurde erfolgreich erstellt
+87646;de;decidim.initiatives.admin.initiatives_types.destroy.success;Der Impulstyp wurde erfolgreich entfernt
+;de;decidim.initiatives.admin.initiatives_types.form.only_global_scope_enabled_help_html;"Aktivieren du diese Einstellung, wenn du ""Unterthemen-Signaturen"" aktiviert haben und den globalen Themenbereich als deinen Elternbereich konfiguriert haben. Dadurch wird die Auswahl des Initialtyps im Assistenten zur Erstellung der Initiative übersprungen. Weitere Informationen darüber, wie diese Konfiguration funktioniert, finden du <a href=""https://docs.decidim.org/en/admin/spaces/initiatives/"" target=""_blank"">hier</a>."
+87647;de;decidim.initiatives.admin.initiatives_types.initiative_type_scopes.title;Bereiche für den Typ des Impulses
+87648;de;decidim.initiatives.admin.initiatives_types.new.title;Neuer Impulstyp
+87649;de;decidim.initiatives.admin.initiatives_types.update.error;Ein Fehler ist aufgetreten
+87650;de;decidim.initiatives.admin.initiatives_types.update.success;Der Impulstyp wurde erfolgreich aktualisiert
+87651;de;decidim.initiatives.admin_log.initiative.publish;%{user_name} hat den Impuls %{resource_name} veröffentlicht
+87652;de;decidim.initiatives.admin_log.initiative.send_to_technical_validation;%{user_name} hat den Impuls %{resource_name} zur Validierung eingereicht
+87653;de;decidim.initiatives.admin_log.initiative.unpublish;%{user_name} hat den Impuls %{resource_name} verworfen
+87654;de;decidim.initiatives.admin_log.initiative.update;%{user_name} hat den Impuls %{resource_name} aktualisiert
+87655;de;decidim.initiatives.admin_states.accepted;Ausreichend Interessenten
+87656;de;decidim.initiatives.admin_states.rejected;Ungenügend Interessenten
+87657;de;decidim.initiatives.admin_states.validating;Validierung ausstehend
+87658;de;decidim.initiatives.application_helper.filter_state_values.accepted;Ausreichend Interessenten
+87659;de;decidim.initiatives.application_helper.filter_state_values.answered;Durch Administratoren kommentiert
+87660;de;decidim.initiatives.application_helper.filter_state_values.closed;Suche nach Interessenten abgeschlossen
+87661;de;decidim.initiatives.application_helper.filter_state_values.open;Offen für Interessenten
+87662;de;decidim.initiatives.application_helper.filter_state_values.rejected;Ungenügend Interessenten
+87663;de;decidim.initiatives.committee_requests.new.help_text;Du bist dabei, ein Mitglied der Projektgruppe dieses Impulses zu werden
+87664;de;decidim.initiatives.committee_requests.spawn.success;Deine Anfrage wurde an den InitiativInitiant/in gesendet.
+87665;de;decidim.initiatives.content_blocks.highlighted_initiatives.name;Hervorgehobene Impulse
+87666;de;decidim.initiatives.create_initiative.fill_data.fill_data_help;<ul> <li> Prüfe den Inhalt deines Impulses. Ist der Titel leicht verständlich? Ist das Ziel deines Vorhaben klar?</li>
+87667;de;decidim.initiatives.create_initiative.fill_data.select_area;Wähle ein Gebiet aus
+87668;de;decidim.initiatives.create_initiative.fill_data.select_scope;Wähle einen Bereich aus
+87669;de;decidim.initiatives.create_initiative.finish.back_to_initiatives;Zurück zur Gesamtübersicht
+87670;de;decidim.initiatives.create_initiative.finish.callout_text;Herzlichen Glückwunsch! Dein Impuls wurde erfolgreich erstellt.
+87671;de;decidim.initiatives.create_initiative.finish.confirm;Dein Impuls wird an ein/n Administrator/in gesendet, um sie auf Einhaltung der Nutzungsbedingungen zu überprüfen. Sobald der Impuls veröffentlicht ist, kannst du ihn nicht mehr bearbeiten.
+87672;de;decidim.initiatives.create_initiative.finish.edit_my_initiative;Den Impuls nochmals bearbeiten
+87673;de;decidim.initiatives.create_initiative.finish.go_to_my_initiatives;Zur Übersicht meiner Impulse
+87674;de;decidim.initiatives.create_initiative.finish.send_my_initiative;Meinen Impuls einreichen!
+87675;de;decidim.initiatives.create_initiative.finish_help.publish_helper_text;"Denke daran, dass für eine Veröffentlichung deines Impulses die <a href=""https://dialogluzern.ch/pages/terms-and-conditions"">Nutzungsbedingungen</a> eingehalten werden müssen. Wir prüfen deinen Impuls schnellstmöglich!"
+87676;de;decidim.initiatives.create_initiative.promotal_committee.individual_help_text;Diese Impuls-Art erfordert eine Projektgruppe, die aus mindestens %{committee_size} Personen besteht. Du musst folgenden Link mit den anderen Personen teilen, die mit dir gemeinsam das Vorhaben umsetzen möchten.
+87677;de;decidim.initiatives.create_initiative.select_initiative_type.select;Ich möchte einen Impuls setzen
+87678;de;decidim.initiatives.create_initiative.select_initiative_type.select_initiative_type_help;Impulse sind ein Mittel, mit dem Einwohner/innen gleichgesinnte für ihre Ideen und Projekte suchen können. Welchen Impuls möchtest du starten?
+;de;decidim.initiatives.create_initiative.select_initiative_type.verification_required;Bestätigen du dein Konto, um die Initiative zu unterstützen
+87679;de;decidim.initiatives.create_initiative.share_committee_link.invite_to_committee_help;Link, um Leute einzuladen, die Teil der Projektgruppe sein wollen
+87680;de;decidim.initiatives.edit.accept;Impuls akzeptieren
+87681;de;decidim.initiatives.edit.confirm;Bist du dir sicher?
+87682;de;decidim.initiatives.edit.discard;Impuls verwerfen
+87683;de;decidim.initiatives.edit.export_pdf_signatures;PDF der Interessenten exportieren
+87684;de;decidim.initiatives.edit.export_votes;Interessenten exportieren
+87685;de;decidim.initiatives.edit.reject;Impuls ablehnen
+87686;de;decidim.initiatives.edit.title;Impuls bearbeiten
+87687;de;decidim.initiatives.events.approve_membership_request.email_intro;%{author_nickname} hat deine Anfrage für die Projektgruppe des Impulses %{resource_title} akzeptiert.
+87688;de;decidim.initiatives.events.approve_membership_request.email_outro;Du hast diese Benachrichtigung erhalten, weil du dich bei diesem Impuls beworben hast: %{resource_title}
+87690;de;decidim.initiatives.events.approve_membership_request.email_subject;%{author_nickname} hat deine Anfrage für die Projektgruppe akzeptiert
+87691;de;decidim.initiatives.events.approve_membership_request.notification_title;"<a href=""%{author_profile_url}"">%{author_nickname}</a> hat deine Anfrage für die Projektgruppe des Impulses <a href=""%{resource_url}"">%{resource_title}</a> akzeptiert."
+87692;de;decidim.initiatives.events.create_initiative_event.email_intro;%{author_name} %{author_nickname}, dem du folgst, hat einen neuen Impuls erstellt, sieh es dir an und rede mit:
+87693;de;decidim.initiatives.events.create_initiative_event.email_outro;Du hast diese Benachrichtigung erhalten, weil du %{author_nickname} folgst. Falls du keine solchen Benachrichtigungen mehr erhalten möchtest, kannst du das in deinem Profil einstellen.
+87694;de;decidim.initiatives.events.create_initiative_event.email_subject;Es gibt einen neuen Impuls von %{author_nickname}
+87695;de;decidim.initiatives.events.create_initiative_event.notification_title;"Der Impuls <a href=""%{resource_path}"">%{resource_title}</a> wurde von <a href=""%{author_path}"">%{author_name} %{author_nickname}</a> erstellt."
+87696;de;decidim.initiatives.events.endorse_initiative_event.email_intro;%{author_name} %{author_nickname}, dem du folgst, hat den folgenden Impuls unterstützt, vielleicht möchtest du mitreden:
+87697;de;decidim.initiatives.events.endorse_initiative_event.email_outro;Du hast diese Benachrichtigung erhalten, weil du %{author_nickname} folgst. Falls du keine solchen Benachrichtigungen mehr erhalten möchtest, kannst du das in deinem Profil einstellen.
+87698;de;decidim.initiatives.events.endorse_initiative_event.email_subject;Impuls wurde von %{author_nickname} unterstützt
+87699;de;decidim.initiatives.events.endorse_initiative_event.notification_title;"Der Impuls <a href=""%{resource_path}"">%{resource_title}</a> wurde von <a href=""%{author_path}"">%{author_name} %{author_nickname}</a> unterstützt."
+87700;de;decidim.initiatives.events.revoke_membership_request.email_intro;%{author_nickname} hat deine Anfrage für die Projektgruppe des Impulses %{resource_title} abgelehnt.
+87701;de;decidim.initiatives.events.revoke_membership_request.email_outro;Du hast diese Benachrichtigung erhalten, weil du dich bei diesem Impuls beworben hast: %{resource_title}
+87702;de;decidim.initiatives.events.revoke_membership_request.email_subject;%{author_nickname} hat deine Anfrage für die Projektgruppe abgelehnt
+87703;de;decidim.initiatives.events.revoke_membership_request.notification_title;"<a href=""%{author_profile_url}"">%{author_nickname}</a> hat deine Anfrage für die Projektgruppe des Impulses <a href=""%{resource_url}"">%{resource_title}</a> abgelehnt."
+87704;de;decidim.initiatives.events.spawn_committee_request_event.email_intro;%{applicant_nickname} hat sich für die Projektgruppe deines Impulses %{resource_title} beworben. Um die Anfrage zu akzeptieren oder abzulehnen, besuche das Bearbeitungsformular deines Impulses.
+87705;de;decidim.initiatives.events.spawn_committee_request_event.email_outro;Du hast diese Benachrichtigung erhalten, weil du Initiant/in des Impulses %{resource_title} bist
+87706;de;decidim.initiatives.events.spawn_committee_request_event.email_subject;%{applicant_nickname} möchte deinem Impuls beitreten
+87707;de;decidim.initiatives.events.spawn_committee_request_event.notification_title;"<a href=""%{applicant_profile_url}"">%{applicant_nickname}</a> hat sich für die Projektgruppe deines Impulses <a href=""%{resource_url}"">%{resource_title}</a> beworben. Um anzunehmen oder abzulehnen, klicke <a href=""%{resource_url}/edit"">hier</a>."
+87708;de;decidim.initiatives.initiative_signatures.fill_personal_data.help;Bitte fülle die folgenden Felder mit deinen persönlichen Daten aus, um dein Interesse für den Impuls zu bekunden
+87709;de;decidim.initiatives.initiative_signatures.finish.back_to_initiative;Zurück zum Impuls
+87710;de;decidim.initiatives.initiative_signatures.sms_code.help;Überprüfe die auf deinem Telefon empfangene SMS
+87711;de;decidim.initiatives.initiative_signatures.sms_phone_number.continue;Sende mir eine SMS
+87712;de;decidim.initiatives.initiative_signatures.sms_phone_number.help;Fülle das Formular mit deiner bestätigten Telefonnummer aus, um einen Bestätigungscode anzufordern
+87713;de;decidim.initiatives.initiative_votes.create.error;Bei der Interessensbekundung für den Impuls sind Fehler aufgetreten.
+87714;de;decidim.initiatives.initiative_votes.create.invalid;Die zur Unterzeichnung des Impulses bereitgestellten Daten sind nicht gültig
+87715;de;decidim.initiatives.initiative_votes.create.success_html;Herzliche Glückwünsche! Der <strong> %{title}</strong> -Impuls hat eine/n neuen Interessent/in
+87716;de;decidim.initiatives.initiative_votes.sms_code.invalid;Dein Bestätigungscode stimmt nicht mit unserem überein. Bitte überprüfe noch einmal die SMS, die wir dir gesendet haben.
+87717;de;decidim.initiatives.initiative_votes.sms_phone.invalid;Die Telefonnummer ist ungültig oder muss noch autorisiert werden. Bitte überprüfe deine Berechtigungen.
+87238;de;decidim.initiatives.initiatives.committee_members.confirm_revoke;Bist du dir sicher?
+87718;de;decidim.initiatives.initiatives.committee_members.invite_to_committee_help;Teile diesen Link, um andere Benutzer/innen zur Projektgruppe einzuladen
+87719;de;decidim.initiatives.initiatives.committee_members.no_members_yet;Es gibt keine Mitglieder in der Projektgruppe
+87720;de;decidim.initiatives.initiatives.filters.any;Alle
+87721;de;decidim.initiatives.initiatives.filters.area;Gebiet
+87722;de;decidim.initiatives.initiatives.filters.author;Initiant/in
+87723;de;decidim.initiatives.initiatives.filters.myself;Meine Impulse
+87724;de;decidim.initiatives.initiatives.filters.scope;Thema (noch nicht aktiv)
+87725;de;decidim.initiatives.initiatives.index_header.new_initiative;Neuer Impuls
+87726;de;decidim.initiatives.initiatives.initiatives.closed_initiatives_warning;Derzeit gibt es keine offenen Impulse, aber hier findest du alle abgeschlossenen Impulse aufgelistet.
+87727;de;decidim.initiatives.initiatives.initiatives.no_initiatives_warning;Kein Impuls entspricht deinen Suchkriterien.
+87728;de;decidim.initiatives.initiatives.orders.label;Impulse sortieren nach:
+87729;de;decidim.initiatives.initiatives.orders.most_voted;Am meisten Interessenten
+87730;de;decidim.initiatives.initiatives.print.author_title;Initiant/in des Impulses
+87731;de;decidim.initiatives.initiatives.print.general_title;Antrag auf Aufnahme eines Impulses
+87732;de;decidim.initiatives.initiatives.print.initiative.attachments;Angehängte Dokumentation (bitte gib den Namen jedes Dokuments unten ein)
+87733;de;decidim.initiatives.initiatives.print.initiative.type;Initiativ-Typ
+87734;de;decidim.initiatives.initiatives.print.province;Kanton
+87735;de;decidim.initiatives.initiatives.print.section;Falls von der Organisation angefragt, drucke bitte dieses Formular aus und fülle es aus, um es dort einzureichen, wo angegeben:
+87736;de;decidim.initiatives.initiatives.print.signature;Interessent/in
+87737;de;decidim.initiatives.initiatives.result.answer_title;Dieser Impuls wurde durch Plattformadministratoren kommentiert
+87738;de;decidim.initiatives.initiatives.result.initiative_rejected_reason;Dieser Impuls wurde wegen fehlender Unterstützung abgelehnt.
+;de;decidim.initiatives.initiatives.show.before_send_to_technical_validation_announcement;Bevor du deine Initiative zur technischen Validierung senden, müssen du %{count} weitere Mitglieder dem Unterstützungskomittee hinzufügen.<br/><br/>Teilen du diesen Link mit den Personen, die du in deinem Ausschuss sein möchten: %{href}
+87739;de;decidim.initiatives.initiatives.show.confirm;Dein Impuls wird an ein/n Administrator/in gesendet, um ihn auf Einhaltung der Nutzungsbedingungen zu überprüfen. Sobald der Impuls veröffentlicht ist, kannst du ihn nicht mehr bearbeiten.
+87740;de;decidim.initiatives.initiatives.show.send_to_technical_validation;Impuls zur Validierung einreichen
+;de;decidim.initiatives.initiatives.show.send_to_technical_validation_announcement;"Wenn alles in Ordnung ist, klicken du auf ""Zur technischen Validierung senden"" um deine Initiative zu überprüfen und zu veröffentlichen"
+87741;de;decidim.initiatives.initiatives.vote_cabin.already_voted;Du hast bereits Interesse bekundet
+87742;de;decidim.initiatives.initiatives.vote_cabin.verification_required;Bestätige dein Konto, um Interesse am Impuls zu signalisieren
+87743;de;decidim.initiatives.initiatives.vote_cabin.vote;Interesse bekunden
+87744;de;decidim.initiatives.initiatives_mailer.creation_subject;Dein Impuls '%{title}' wurde erstellt
+87745;de;decidim.initiatives.initiatives_mailer.initiative_link.check_initiative_details;Sieh dir die Impulsdetails an
+87746;de;decidim.initiatives.initiatives_mailer.more_information;Hier findest du weitere Informationen zum Erstellen eines Impulses.
+87747;de;decidim.initiatives.initiatives_mailer.progress_report_body_for;Der Impuls %{title} hat die %{percentage}% der erforderlichen Unterstützung erreicht.
+87748;de;decidim.initiatives.initiatives_mailer.progress_report_for;Resume über den Impuls: %{title}
+87749;de;decidim.initiatives.initiatives_mailer.promotal_committee_help;Denke daran, dass du mindestens %{member_count} Personen zur Projektgruppe einladen must. Leite den folgenden Link weiter, um Personen einzuladen
+87750;de;decidim.initiatives.initiatives_mailer.status_change_body_for;Der Impuls %{title} hat seinen Status geändert in: %{state}
+87751;de;decidim.initiatives.initiatives_mailer.status_change_for;Der Impuls %{title} hat seinen Status geändert
+87752;de;decidim.initiatives.last_activity.new_initiative;Neuer Impuls
+;de;decidim.initiatives.modal.not_authorized.explanation;Du musst überprüft werden, um eine neue Initiative zu schaffen.
+87753;de;decidim.initiatives.show.badge_name.accepted;Ausreichend Interessenten
+87754;de;decidim.initiatives.show.badge_name.rejected;Ungenügend Interessenten
+87755;de;decidim.initiatives.show.badge_name.validating;Validierung ausstehend
+87756;de;decidim.initiatives.unavailable_scope;Nicht verfügbares Thema
+87757;de;decidim.initiatives.update.error;Ein Fehler ist aufgetreten
+87758;de;decidim.initiatives.update.success;Der Impuls wurde erfolgreich aktualisiert
+87876;de;decidim.menu.initiatives;Impulse
+88079;de;decidim.resources.initiatives_type.actions.vote;Abstimmung
+88257;de;layouts.decidim.initiative_creation_header.promotal_committee;Projektgruppe
+88258;de;layouts.decidim.initiative_signature_creation_header.fill_personal_data;Ergänze deine Daten
+88259;de;layouts.decidim.initiatives.no_initiatives_yet.no_initiatives_yet;Bisher gibt es keinen Impuls!

@@ -1,0 +1,114 @@
+id;locale;key;value
+86670;de;decidim.admin.actions.cancel;Abbrechen
+86671;de;decidim.admin.actions.import_process;Projekt importieren
+86674;de;decidim.admin.actions.new_process;Neues Projekt
+86675;de;decidim.admin.actions.new_process_step;Projekt-Phase hinzufügen
+86676;de;decidim.admin.actions.send_diplomas;Sende eine Teilnahmebestätigung
+;de;decidim.admin.admin_terms_of_service.accept.success;Super! Du hast die Admin-Nutzungsbedingungen akzeptiert.
+86677;de;decidim.admin.area_types.create.error;Beim Erstellen eines neuen Gebiets ist ein Fehler aufgetreten.
+86678;de;decidim.admin.area_types.create.success;Gebiet wurde erfolgreich erstellt.
+86679;de;decidim.admin.area_types.destroy.success;Das Gebiet wurde erfolgreich gelöscht
+86680;de;decidim.admin.area_types.edit.title;Gebiet bearbeiten
+86681;de;decidim.admin.area_types.new.create;Gebiet erstellen
+86682;de;decidim.admin.area_types.new.title;Neues Gebiet
+86683;de;decidim.admin.area_types.update.error;Beim Aktualisieren dieser Gebietskategorie ist ein Fehler aufgetreten.
+86684;de;decidim.admin.area_types.update.success;Gebietskategorie wurde erfolgreich aktualisiert
+86685;de;decidim.admin.areas.create.error;Beim Erstellen eines neuen Gebiets ist ein Fehler aufgetreten.
+86686;de;decidim.admin.areas.create.success;Gebiet wurde erfolgreich erstellt.
+86687;de;decidim.admin.areas.destroy.has_spaces;Dieses Gebiet hat abhängige Abschnitte. Es darf keine Abhängigkeiten geben, um gelöscht zu werden.
+86688;de;decidim.admin.areas.destroy.success;Gebiet wurde erfolgreich gelöscht
+86689;de;decidim.admin.areas.edit.title;Gebiet bearbeiten
+86690;de;decidim.admin.areas.new.create;Gebiet erstellen
+86691;de;decidim.admin.areas.no_areas;Kein Gebiet
+86692;de;decidim.admin.areas.update.success;Gebiet wurde erfolgreich aktualisiert
+86856;de;decidim.admin.autocomplete.search_prompt;Gib mindestens drei Zeichen ein, um zu suchen
+86857;de;decidim.admin.block_user.new.description;Das Blockieren eines Benutzers wird sein Konto unbrauchbar machen. Du kannst begründen und Richtlinien dafür bieten, wie Benutzer/innen vorgehen könnte, damit diese in Betracht ziehen, die Blockierung wieder aufzuheben.
+86858;de;decidim.admin.categories.destroy.error;Beim Löschen dieser Kategorie ist ein Fehler aufgetreten. Bitte lösche zuerst eine Unterkategorie, stelle sicher, dass keine andere Entität zu dieser Kategorie gehört, und versuche es erneut.
+;de;decidim.admin.components.create.success_landing_page;"Komponente erfolgreich erstellt. Du kannst einen Inhaltsblock für diese Komponente auf der Startseite des Bereichs hinzufügen. Gehen du dazu zur <a href=""%{landing_page_path}"">Startseite</a>, um sie zu konfigurieren."
+86859;de;decidim.admin.components.form.global_settings;Generelle Einstellungen
+86860;de;decidim.admin.components.form.step_settings;Einstellungen pro Projektphase
+86861;de;decidim.admin.conference_copies.new.select;Wähle die Daten aus, die du duplizieren möchtest
+86862;de;decidim.admin.conference_user_roles.edit.title;Aktualisiere den Konferenzbenutzer.
+86863;de;decidim.admin.exports.notice;Dein Export wird gerade ausgeführt. Du erhältst nach Fertigstellung eine E-Mail.
+86876;de;decidim.admin.filters.scope_id_eq.label;Themenbereich
+;de;decidim.admin.hidden_resource_mailer.notify_mail.body_1;Ein Administrator hat deine Meldung entfernt, weil sie gemeldet wurde.
+;de;decidim.admin.hidden_resource_mailer.notify_mail.subject;deine Meldung wurde ausgeblendet
+86877;de;decidim.admin.impersonatable_users.index.needs_authorization_warning;Du benötigst mindestens eine Autorisierung, die für diese Organisation aktiviert ist.
+86878;de;decidim.admin.imports.data_errors.duplicate_headers.detail;Bitte Überprüfe, dass die Datei benötigte Spalten oder Kopfzeilen nur einmal enthält.
+86880;de;decidim.admin.managed_users.promotions.new.explanation;Verwaltete Benutzer/innen können zu Standardbenutzern heraufgestuft werden. Das bedeutet, dass du zu der Anwendung eingeladen wirst und nicht in der Lage bist sie erneut zu repräsentieren. Der eingeladene Benutzer/innen erhält eine E-Mail, um deine Einladung anzunehmen.
+86879;de;decidim.admin.menu.area_types;Gebiets-Typen
+86881;de;decidim.admin.menu.areas;Gebiete
+86889;de;decidim.admin.menu.authorization_revocation.before_date_info;Das ist nützlich, wenn der Prozess bereits begonnen hat und du die Rechte des vorherigen Prozesses zurückziehen möchtest.
+86890;de;decidim.admin.menu.authorization_revocation.destroy.confirm;Das Entziehen aller Berechtigungen vor einem Datum kann nicht rückgängig gemacht werden. Bist du sicher, dass du fortfahren möchtest?
+86891;de;decidim.admin.menu.authorization_revocation.destroy.confirm_all;Das Entziehen aller Berechtigungen nicht rückgängig gemacht werden. Bist du sicher, dass du fortfahren möchtest?
+86892;de;decidim.admin.menu.authorization_revocation.destroy_nok;Beim Entziehen von Berechtigungen ist ein Fehler aufgetreten.
+86893;de;decidim.admin.menu.authorization_revocation.no_data;Keine verifizierten Teilnehmer
+86894;de;decidim.admin.menu.conferences_submenu.moderations;Als störend gemeldete Inhalte
+86901;de;decidim.admin.menu.scope_types;Themenkategorien
+86902;de;decidim.admin.menu.scopes;Themen
+86903;de;decidim.admin.models.area.fields.area_type;Gebiets-Typ
+86909;de;decidim.admin.models.attachment.name;Anhang
+86711;de;decidim.admin.models.scope.fields.scope_type;Themenbereich
+85249;de;decidim.admin.models.share_token.fields.expires_at;Läuft ab am
+85251;de;decidim.admin.models.share_token.fields.times_used;Anzahl Anwendungen
+85252;de;decidim.admin.models.share_token.fields.token;Linkfreigaben
+86712;de;decidim.admin.moderations.index.title;Als störend gemeldete Inhalte
+86721;de;decidim.admin.officializations.show_email_modal.description;"Wenn du einen Teilnehmer direkt kontaktieren möchtest, kannst du auf die Schaltfläche ""Anzeigen"" klicken, um die E-Mail-Adresse zu sehen. Diese Aktion wird protokolliert."
+86722;de;decidim.admin.organization.form.github;Webseite
+86723;de;decidim.admin.organization.form.social_handlers;Social Media Profile
+86724;de;decidim.admin.organization_appearance.form.colors.colors_warning_html;"Warnung! Das Ändern dieser Farben kann die für Barrierefreiheit notwendigen Kontraste brechen. Du kannst den Kontrast deiner Wahl mit <a href=""%{link}"">WebAIM Contrast Checker</a> oder ähnlichen Tools überprüfen."
+;de;decidim.admin.organization_appearance.form.colors.explanation;Dieses Tool hilft dir, ein Farbschema mit Farbtönen auszuwählen, die gleichmäßig um das Farbrad verteilt sind und die auf der Website der Organisation verwendet werden.
+;de;decidim.admin.organization_appearance.form.cta_button_path_help_html;"Du kannst überschreiben, womit die Call To Action-Schaltfläche auf der Homepage verlinkt ist. Verwenden du hier Teilpfade, nicht die vollständige URL. Buchstaben, Zahlen, Bindestriche und Schrägstriche sind erlaubt; an der ersten Stelle ist ein Buchstabe erforderlich. Die Call To Action-Schaltfläche wird auf der Startseite zwischen Begrüßungstext und Beschreibung angezeigt. Beispiel: %{url}"
+86725;de;decidim.admin.organization_appearance.form.cta_button_text_help;Du kannst den Text der Call To Action-Schaltfläche auf der Startseite für jede verfügbare Sprache in deiner Organisation überschreiben. Wenn nicht festgelegt, wird der Standardwert verwendet. Die Call To Action-Schaltfläche wird auf der Startseite zwischen Begrüssungstext und Beschreibung angezeigt.
+86726;de;decidim.admin.organization_appearance.form.omnipresent_banner_appearance_title;Bearbeite das allgegenwärtige Banner
+;de;decidim.admin.participatory_space_private_users_csv_imports.new.csv_upload.title;Lade deine CSV-Datei hoch
+;de;decidim.admin.participatory_space_private_users_csv_imports.new.destroy.confirm;Sind du sicher, dass du alle private Teilnehmende entfernen möchten? Diese Aktion kann nicht rückgängig gemacht werden. Du wirst sie nicht wiederherstellen können.
+;de;decidim.admin.participatory_space_private_users_csv_imports.new.destroy.empty;Du hast keine private Teilnehmende.
+;de;decidim.admin.participatory_space_private_users_csv_imports.new.destroy.explanation;Du hast %{count} private Teilnehmende.
+86941;de;decidim.admin.participatory_space_private_users_csv_imports.new.explanation;"Lade deine CSV-Datei hoch. Diese muss zwei Spalten haben ohne Kopfzeile, mit E-Mail in der ersten Spalte der Datei und Namen in der letzten Spalte der Datei (E-Mail, Name) in Bezug auf die Nutzenden, die du dem Beteiligungsbereich hinzufügen möchtest. Vermeide ungültige Zeichen wie `<>?%&^*#@()[]=+:;""{}\|` im Namen der Nutzenden."
+86944;de;decidim.admin.resources.index.headers.scope;Thema
+86945;de;decidim.admin.scope_types.create.success;Die Themenkategorie wurde erfolgreich erstellt.
+86946;de;decidim.admin.scope_types.edit.title;Themenkategorie bearbeiten
+86947;de;decidim.admin.scope_types.new.create;Erstelle die Themenkategorie
+86948;de;decidim.admin.scope_types.new.title;Neues Thema
+86949;de;decidim.admin.scope_types.update.error;Beim Aktualisieren dieser Themenkategorie ist ein Fehler aufgetreten.
+86950;de;decidim.admin.scope_types.update.success;Die Themenkategorie wurde erfolgreich aktualisiert
+86951;de;decidim.admin.scopes.create.error;Beim Erstellen eines neuen Themas ist ein Fehler aufgetreten.
+86952;de;decidim.admin.scopes.create.success;Thema erfolgreich erstellt
+86953;de;decidim.admin.scopes.destroy.success;Thema wurde erfolgreich zerstört
+86954;de;decidim.admin.scopes.edit.title;Thema bearbeiten
+86955;de;decidim.admin.scopes.new.create;Thema erstellen
+86956;de;decidim.admin.scopes.new.title;Neues Thema
+86957;de;decidim.admin.scopes.no_scopes;Keine Themen auf dieser Ebene.
+86958;de;decidim.admin.scopes.update.error;Beim Aktualisieren dieses Themas ist ein Fehler aufgetreten.
+86959;de;decidim.admin.scopes.update.success;Thema wurde erfolgreich aktualisiert
+86960;de;decidim.admin.share_tokens.actions.confirm_destroy;Bist du sicher, dass du diesen Token löschen willst?
+85245;de;decidim.admin.share_tokens.actions.destroy;Löschen
+85246;de;decidim.admin.share_tokens.actions.share;Teilen
+85242;de;decidim.admin.share_tokens.destroy.error;Beim Löschen der Linkfreigabe ist ein Fehler aufgetreten.
+85243;de;decidim.admin.share_tokens.destroy.success;Linkfreigabe wurde erfolgreich gelöscht.
+86961;de;decidim.admin.share_tokens.share_tokens.empty;Es gibt keine aktiven Token
+86962;de;decidim.admin.share_tokens.share_tokens.help;Wir arbeiten aktuell nicht mit Tokens, du kannst diesen Bereich überspringen.
+86963;de;decidim.admin.share_tokens.share_tokens.title;Token teilen (aktuell ungenutzt)
+86964;de;decidim.admin.static_pages.edit.changed_notably_help;Wenn diese Option aktiviert ist, werden Benutzer/innen benachrichtigt, um die neuen Nutzungsbedingungen zu akzeptieren.
+86965;de;decidim.admin.titles.area_types;Gebiets-Typen
+86966;de;decidim.admin.titles.areas;Gebiete
+86969;de;decidim.admin.titles.dashboard;Übersicht
+86973;de;decidim.admin.titles.scope_types;Themenkategorien
+86974;de;decidim.admin.titles.scopes;Themen
+86975;de;decidim.admin.user_group.csv_verify.success;CSV-Datei wurde erfolgreich hochgeladen. Wir überprüfen, ob die Benutzergruppen den Kriterien entsprechen. Das kann eine Weile dauern.
+86976;de;decidim.admin.user_group.verify.success;Benutzergruppe erfolgreich verifiziert
+86732;de;decidim.admin.user_groups.index.verify_via_csv;Überprüfe über CSV
+86733;de;decidim.admin.user_groups_csv_verifications.new.explanation;Lade deine CSV-Datei hoch. In der ersten Spalte der Datei müssen die offiziellen E-Mails der Benutzergruppen in deiner Organisation enthalten sein, ohne Kopfzeilen. Nur Benutzergruppen, die deine E-Mail bestätigt haben und deren E-Mail in der CSV-Datei enthalten ist, werden überprüft.
+86734;de;decidim.admin.user_groups_csv_verifications.new.title;Lade deine CSV-Datei hoch
+86735;de;decidim.admin.user_groups_csv_verifications.new.upload;Hochladen
+86736;de;decidim.admin_log.area.create;%{user_name} hat das %{resource_name} Gebiet erstellt
+86737;de;decidim.admin_log.area.delete;%{user_name} hat das %{resource_name} Gebiet gelöscht
+86738;de;decidim.admin_log.area.update;%{user_name} hat das %{resource_name} Gebiet aktualisiert
+86761;de;decidim.admin_log.scope.create;%{user_name} hat den %{resource_name} Thema erstellt
+86762;de;decidim.admin_log.scope.create_with_parent;%{user_name} erstellte das %{resource_name} Thema innerhalb des %{parent_scope} Themenbereichs
+86763;de;decidim.admin_log.scope.delete;%{user_name} löschte das %{resource_name} Thema
+86764;de;decidim.admin_log.scope.delete_with_parent;%{user_name} löschte das %{resource_name} Thema innerhalb des %{parent_scope} Themenbereichs
+86765;de;decidim.admin_log.scope.update;%{user_name} hat den %{resource_name} Thema aktualisiert
+86766;de;decidim.admin_log.scope.update_with_parent;%{user_name} hat das %{resource_name} Thema innerhalb des %{parent_scope} Themenbereichs aktualisiert
+;de;decidim.admin_terms_of_service.default_body;<h2>ADMIN-NUTZUNGSBEDINGUNGEN</h2><p>Wahrscheinlich wurden du bereits vom deinem lokalen Systemadmin unterrichtet. Meist lassen sich drei Punkte hervorheben:</p><ol><li>Respektieren du die Privatsphäre anderer.</li><li>Denken du nach, bevor Du klickst.</li><li>Große Macht erfordert große Verantwortung.</li></ol>

@@ -1,0 +1,44 @@
+id;locale;key;value
+87049;de;decidim.components.add_comment_form.account_message;"<a href=""%{sign_in_url}"">Melde dich mit deinem Konto an</a> oder <a href=""%{sign_up_url}"">Registriere dich </a>, um deinen Kommentar hinzuzufügen."
+87050;de;decidim.components.add_comment_form.opinion.label;Deine Meinung zu diesem Thema
+87051;de;decidim.components.add_comment_form.opinion.negative_selected;Deine Meinung zu diesem Thema ist negativ
+87052;de;decidim.components.add_comment_form.opinion.neutral_selected;Deine Meinung zu diesem Thema ist neutral
+87053;de;decidim.components.add_comment_form.opinion.positive_selected;Deine Meinung zu diesem Thema ist positiv
+87062;de;decidim.components.comment.confirm_destroy;Bist du sicher, dass du diesen Kommentar löschen möchtest?
+87063;de;decidim.components.comment.report.action;Beitrag melden
+87064;de;decidim.components.comments.blocked_comments_for_unauthorized_user_warning;Du musst aktuell verifiziert sein, um zu kommentieren, aber du kannst die bisherigen Kommentare lesen.
+87065;de;decidim.components.comments.blocked_comments_for_user_warning;Du kannst momentan nichts kommentieren, aber Du kannst die vorherigen lesen.
+87066;de;decidim.components.comments.blocked_comments_warning;Kommentare sind zu diesem Zeitpunkt deaktiviert, aber Du kannst die vorherigen lesen.
+87067;de;decidim.components.comments.single_comment_warning;"Du kannst die restlichen Kommentare <a href=""%{url}"">hier</a> prüfen."
+;de;decidim.components.comments.single_comment_warning_title;dir wird ein einzelner Kommentar angezeigt
+87080;de;decidim.components.edit_comment_modal_form.form.body.placeholder;Was denkst du darüber?
+87268;de;decidim.events.comments.comment_by_followed_user.email_intro;%{author_name} hat einen Kommentar in %{resource_title}hinterlassen. Du kannst es auf dieser Seite lesen:
+87269;de;decidim.events.comments.comment_by_followed_user.email_outro;Du hast diese Benachrichtigung erhalten, weil du %{author_name} folgst.
+87270;de;decidim.events.comments.comment_by_followed_user_group.email_intro;Die Gruppe %{author_name} hat einen Kommentar in %{resource_title} hinterlassen. Du kannst es auf dieser Seite lesen:
+87271;de;decidim.events.comments.comment_by_followed_user_group.email_outro;Du hast diese Benachrichtigung erhalten, weil du %{author_name} folgst. Du kanst diese Gruppe von deiner Profilseite aus deabonnieren.
+87272;de;decidim.events.comments.comment_created.email_intro;%{resource_title} wurde kommentiert. Du kannst den Kommentar auf dieser Seite lesen:
+87243;de;decidim.events.comments.comment_created.email_outro;"Du hast diese Benachrichtigung erhalten, weil du ""%{resource_title}"" oder seinem Autor folgst. Wenn du keine Benachrichtigungen mehr erhalten möchtest, kannst du das in deinen Profileinstellungen angeben."
+87274;de;decidim.events.comments.comment_downvoted.email_intro;"Dein Kommentar in ""%{resource_title}"" wurde negativ bewertet. Er hat nun insgesamt %{upvotes} positive und %{downvotes} negative Stimmen."
+87275;de;decidim.events.comments.comment_downvoted.email_outro;Du hast diese Benachrichtigung erhalten, weil du Autor/in des Vorschlags bist.
+87276;de;decidim.events.comments.comment_downvoted.email_subject;"Dein Kommentar in ""%{resource_title}"" wurde negativ bewertet."
+87277;de;decidim.events.comments.comment_downvoted.notification_title;"Dein <a href=""%{resource_path}"">Kommentar</a> in ""%{resource_title}"" wurde negativ bewertet. Er hat nun insgesamt %{upvotes} positive und %{downvotes} negative Stimmen."
+87278;de;decidim.events.comments.comment_upvoted.email_intro;"Dein Kommentar in ""%{resource_title}"" wurde positiv bewertet. Er hat nun insgesamt %{upvotes} positive und %{downvotes} negative Stimmen."
+87279;de;decidim.events.comments.comment_upvoted.email_outro;Du hast diese Benachrichtigung erhalten, weil du Autor/in des Vorschlags bist.
+87280;de;decidim.events.comments.comment_upvoted.email_subject;"Dein Kommentar in ""%{resource_title}"" wurde positiv bewertet."
+87281;de;decidim.events.comments.comment_upvoted.notification_title;"Dein <a href=""%{resource_path}"">Kommentar</a> in ""%{resource_title}"" wurde positiv bewertet. Er hat nun insgesamt %{upvotes} positive und %{downvotes} negative Stimmen."
+87282;de;decidim.events.comments.reply_created.email_intro;%{author_name} hat deinen Kommentar in %{resource_title}geantwortet. Du kannst es auf dieser Seite lesen:
+87283;de;decidim.events.comments.reply_created.email_outro;Du hast diese Benachrichtigung erhalten, weil dein Kommentar beantwortet wurde.
+87284;de;decidim.events.comments.reply_created.email_subject;%{author_name} hat deinen Kommentar in %{resource_title}geantwortet
+87285;de;decidim.events.comments.reply_created.notification_title;"<a href=""%{author_path}"">%{author_name} %{author_nickname}</a> hat auf deinen Kommentar in <a href=""%{resource_path}"">%{resource_title}</a>geantwortet"
+87286;de;decidim.events.comments.user_group_mentioned.email_intro;Eine deiner Gruppen wurde erwähnt
+87287;de;decidim.events.comments.user_group_mentioned.email_outro;Du hast diese Benachrichtigung erhalten, weil du ein Mitglied der Gruppe %{group_name} bist, die in %{resource_title} erwähnt wurde.
+87288;de;decidim.events.comments.user_group_mentioned.email_subject;Du wurdest in %{resource_title} als Mitglied von %{group_name} erwähnt
+87289;de;decidim.events.comments.user_group_mentioned.notification_title;"Du wurdest in <a href=""%{resource_path}"">%{resource_title}</a> von <a href=""%{author_path}"">%{author_name} %{author_nickname}</a> als ein Mitglied von <a href=""%{group_path}"">%{group_name} %{group_nickname}</a> erwähnt"
+87290;de;decidim.events.comments.user_mentioned.email_intro;Du wurdest erwähnt
+87291;de;decidim.events.comments.user_mentioned.email_outro;Du hast diese Benachrichtigung erhalten, weil du in %{resource_title} erwähnt wurdest.
+87292;de;decidim.events.comments.user_mentioned.email_subject;Du wurdest in %{resource_title} erwähnt
+87293;de;decidim.events.comments.user_mentioned.notification_title;"Du wurdest in <a href=""%{resource_path}"">%{resource_title}</a> von <a href=""%{author_path}"">%{author_name} %{author_nickname}</a>erwähnt."
+87563;de;decidim.gamification.badges.commented_debates.description;Dieses Abzeichen wird gewährt, wenn du aktiv an den verschiedenen Debatten teilnimmst, indem du deine Kommentare hinterlässt.
+87564;de;decidim.gamification.badges.commented_debates.description_own;Du hast an %{score} Debatten teilgenommen.
+87565;de;decidim.gamification.badges.commented_debates.next_level_in;Nehme an %{score} weiteren Debatten teil, um das nächste Level zu erreichen!
+87566;de;decidim.gamification.badges.commented_debates.unearned_own;Du hast bereits an Debatten teilgenommen.
