@@ -1,7 +1,7 @@
 # decidim-lucerne-term-customizer-sets
 
-CSV translation sets for **Decidim Term Customizer** on [dialogluzern.ch](https://dialogluzern.ch) (Dialog Stadt Luzern).  
-They replace and complement platform strings in **German (Switzerland)** with Schweizer Hochdeutsch, Du-Form, and local terminology.
+CSV translation sets for **Decidim Term Customizer** on [dialogluzern.ch](https://dialogluzern.ch) (Dialog Stadt Luzern). See repositories [Decidim-OCL](https://github.com/stadtluzern/decidim-ocl) and [Decidim.Swiss](https://github.com/decidim-swiss/decidim.swiss) for code.
+They replace and complement platform strings in **German (DE)** with Schweizer Hochdeutsch, Du-Form, and local terminology.
 
 ## Repository contents
 
