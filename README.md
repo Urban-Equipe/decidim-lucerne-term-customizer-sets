@@ -1,10 +1,30 @@
-# Legende – Sprachfile-Bereinigung DialogLuzern
-**Stand:** 23. März 2026
-**Bearbeitung:** Bereinigung, Neustrukturierung und Reorganisation der TermCustomizer-Sprachfiles
+# decidim-lucerne-term-customizer-sets
+
+CSV translation sets for **Decidim Term Customizer** on [dialogluzern.ch](https://dialogluzern.ch) (Dialog Stadt Luzern).  
+They replace and complement platform strings in **German (Switzerland)** with Schweizer Hochdeutsch, Du-Form, and local terminology.
+
+## Repository contents
+
+| Item | Description |
+|------|-------------|
+| **`*.csv`** | One file per Decidim area (proposals, meetings, admin, …). Import or merge into Term Customizer as needed. |
+| **Internal review files** | `_korrekturen.csv`, `_sie_form_manuell_pruefen.csv`, `_ungueltige_keys.csv` are *not* published in this repo; they stay in the local `Output` folder for maintenance only. |
+
+## Using these files
+
+1. In Decidim Admin, open **Term Customizer** (or your organization’s equivalent).
+2. Import the CSVs you need, or copy rows into existing translation sets.
+3. Keys follow standard Decidim I18n paths (e.g. `decidim.proposals.*`). See the legend below for file ↔ prefix mapping.
+
+## Maintenance snapshot
+
+**Last structural update:** 23 March 2026 — cleanup, restructuring, and reorganization of TermCustomizer language files.
 
 ---
 
-## Übersicht
+## Legende – Sprachfile-Bereinigung Dialog Luzern
+
+### Übersicht
 
 Aus den ursprünglichen Input-Sets wurden **1'951 gültige Keys** in **20 thematische Output-Files** aufgeteilt.
 
@@ -31,28 +51,26 @@ Aus den ursprünglichen Input-Sets wurden **1'951 gültige Keys** in **20 themat
 | `datetime.csv` | 4 | Datum & Uhrzeit (time.*) |
 | `accountability.csv` | 12 | Rechenschaft / Ergebnisse |
 
----
+### Zuteilung nach Key-Präfix
 
-## Zuteilung nach Key-Präfix
-
-### proposals.csv
+#### proposals.csv
 `decidim.proposals.*`, `activemodel.attributes.proposal.*`, Gamification-Badges für Vorschläge
 
-### initiatives.csv
+#### initiatives.csv
 `decidim.initiatives.*`, `activemodel.attributes.initiative.*`, `activemodel.attributes.initiatives_type.*`
 
-### account_authentication.csv
+#### account_authentication.csv
 `decidim.account.*`, `decidim.devise.*`, `devise.*`, `decidim.verifications.*`,
 `decidim.authorization_handlers.*`, `decidim.authorization_modals.*`, `decidim.doorkeeper.*`,
 `activemodel.attributes.user.*`, `activemodel.attributes.account.*`,
 `activemodel.attributes.confirmation.*`, `activemodel.attributes.id_document_upload.*`,
-`activemodel.attributes.mobile_phone.*`, `password_validator.*`
+`activemodel.attributes.mobile_phone.*`, `password_validator.*`  
 **Ausnahme Newsletter:** `decidim.devise.shared.newsletter_modal.*` verbleibt hier (korrekt)
 
-### meetings.csv
+#### meetings.csv
 `decidim.meetings.*`, `activemodel.attributes.meeting.*`, `decidim.forms.meetings.*`
 
-### general.csv
+#### general.csv
 Alle Keys ohne spezifische Komponenten-Zuweisung, u.a.:
 `decidim.amendments.*`, `decidim.gamification.*`, `decidim.messaging.*`,
 `decidim.scopes.*`, `decidim.groups.*`, `decidim.links.*`, `decidim.system.*`,
@@ -61,69 +79,67 @@ Alle Keys ohne spezifische Komponenten-Zuweisung, u.a.:
 `decidim.design.foundations.*`, `decidim.design.helpers.*`,
 `decidim.orders.*`, `decidim.metrics.*` (allgemein), u.v.m.
 
-### assemblies.csv
+#### assemblies.csv
 `decidim.assemblies.*`, `activemodel.attributes.assembly.*`, `activerecord.models.decidim/assembly*`
 
-### notifications.csv
+#### notifications.csv
 `decidim.events.*` (ausser conferences-Events → conferences.csv),
 `decidim.notification_mailer.*`, `decidim.notifications_digest_mailer.*`,
 `decidim.welcome_notification.*`, `decidim.endorsement_buttons_cell.*`,
 `activemodel.models.decidim/*`
 
-### participatory_processes.csv
+#### participatory_processes.csv
 `decidim.participatory_processes.*`, `decidim.participatory_process_groups.*`,
 `activemodel.attributes.participatory_process.*`
 
-### admin.csv
+#### admin.csv
 `decidim.admin.*` (ausser newsletters und registration_types → eigene Files),
 `decidim.admin_log.*`, `decidim.admin_terms_of_service.*`
 
-### surveys.csv
+#### surveys.csv
 `decidim.surveys.*`, `decidim.forms.*`, `decidim.templates.*`,
 `activemodel.attributes.questionnaire*`, `activemodel.attributes.question.*`
 
-### conferences.csv
+#### conferences.csv
 `decidim.conferences.*`, `decidim.events.conferences.*`,
 `decidim.admin.registration_types.*`, `decidim.admin.models.registration_type.*`,
 `activemodel.attributes.conference.*`, `layouts.decidim.conferences.*`
 
-### decidim_awesome.csv
+#### decidim_awesome.csv
 `decidim.decidim_awesome.*`, `layouts.decidim.decidim_awesome.*`,
 `decidim.components.awesome_iframe.*`, `decidim.components.awesome_map.*`
 
-### comments.csv
+#### comments.csv
 `decidim.comments.*`
 
-### budgets.csv
+#### budgets.csv
 `decidim.budgets.*`, `decidim.orders.*` (Budget-spezifisch)
 
-### newsletters.csv
+#### newsletters.csv
 `decidim.admin.newsletters.*`, `decidim.newsletter_mailer.*`,
 `decidim.newsletter_templates.*`, `decidim.newsletters.*`,
 `decidim.newsletters_opt_in_mailer.*`,
 `decidim.notifications_settings.show.newsletter_notifications`
 
-### blogs.csv
+#### blogs.csv
 `decidim.blogs.*`, `activemodel.models.decidim/blogs*`
 
-### pages.csv
+#### pages.csv
 `decidim.menu.*`, `decidim.pages.*`, `layouts.decidim.data_consent.*`,
 `layouts.decidim.offline_banner.*`, `layouts.decidim.social_media_links.*`,
 `layouts.decidim.user_menu.*`, `layouts.decidim.user_profile.*`,
 `layouts.decidim.impersonation_warning.*`, `layouts.decidim.timeout_modal.*`
 
-### debates.csv
+#### debates.csv
 `decidim.debates.*`, `decidim.components.debates.*`
 
-### datetime.csv
+#### datetime.csv
 `time.*` (am, pm, formats) – Standard Rails-Zeitformate
 
-### accountability.csv
+#### accountability.csv
 `decidim.accountability.*`, `activemodel.attributes.result.*`
 
----
-
-## Aufgehobene Files (leer, können gelöscht werden)
+### Aufgehobene Files (leer, können gelöscht werden)
 
 | Datei | Inhalt war in … verschoben |
 |---|---|
@@ -133,9 +149,7 @@ Alle Keys ohne spezifische Komponenten-Zuweisung, u.a.:
 | `search.csv` | `debates.csv` / `general.csv` |
 | `voting.csv` | `budgets.csv` / `decidim_awesome.csv` / `debates.csv` / `notifications.csv` / `general.csv` |
 
----
-
-## Bereinigungsregeln
+### Bereinigungsregeln
 
 1. **Validierung:** Jeder Key wurde gegen die Crowdin-Files (`*.xliff`, `de.yml`) geprüft. Nicht vorhandene Keys wurden entfernt (43 gelöscht).
 2. **Plural-Varianten:** `.one`/`.other`-Suffixe werden auf den Basis-Key gemappt (XLIFF-Format: `[0]`/`[1]`).
