@@ -8,6 +8,7 @@ They replace and complement platform strings in **German (DE)** with Schweizer H
 | Item | Description |
 |------|-------------|
 | **`admin_*.csv`** | One file per Decidim area (proposals, meetings, admin, …). Import or merge into Term Customizer as needed. |
+| **Locale** | **German (`de`) only** — each file lists custom terms for `de`; English (`en`) reference rows are not included. |
 | **Internal review files** | `_korrekturen.csv`, `_sie_form_manuell_pruefen.csv`, `_ungueltige_keys.csv` are *not* published in this repo; they stay in the local `Output` folder for maintenance only. |
 
 ## Using these files
@@ -39,10 +40,10 @@ Aus den ursprünglichen Input-Sets wurden **1'951 gültige Keys** in **21 themat
 | `admin_notifications.csv` | 112 | Benachrichtigungen & Events |
 | `admin_participatory_processes.csv` | 110 | Projekte / Partizipationsprozesse |
 | `admin_admin.csv` | 113 | Admin-Bereich |
-| `admin_surveys.csv` | 76 | Umfragen & Formulare |
+| `admin_surveys.csv` | 78 | Umfragen & Formulare |
 | `admin_conferences.csv` | 57 | Konferenzen |
 | `admin_decidim_awesome.csv` | 47 | Decidim Awesome (Plugin) |
-| `admin_navigationmaps.csv` | 62 | Navigationskarten (NavigationMaps) |
+| `admin_navigationmaps.csv` | 31 | Navigationskarten (NavigationMaps) |
 | `admin_comments.csv` | 43 | Kommentare |
 | `admin_budgets.csv` | 38 | Budgets / Abstimmungen |
 | `admin_newsletters.csv` | 20 | Newsletter |
