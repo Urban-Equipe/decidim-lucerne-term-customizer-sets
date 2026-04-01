@@ -1,0 +1,63 @@
+id;locale;key;value
+181173;en;decidim.components.navigation_maps.name;NavigationMaps
+181174;de;decidim.components.navigation_maps.name;Navigationskarten
+181175;en;decidim.navigation_maps.admin.areas.create.error;An error ocurred while creating the area
+181176;de;decidim.navigation_maps.admin.areas.create.error;Beim Erstellen des Bereichs ist ein Fehler aufgetreten.
+181177;en;decidim.navigation_maps.admin.areas.create.success;Area created successfully
+181178;de;decidim.navigation_maps.admin.areas.create.success;Bereich erfolgreich erstellt.
+181179;en;decidim.navigation_maps.admin.areas.form.no_popup;Do not use a popup, link the area directly.
+181180;de;decidim.navigation_maps.admin.areas.form.no_popup;Kein Popup verwenden. Verlinke den Bereich direkt.
+181181;en;decidim.navigation_maps.admin.areas.new.area;New area details
+181182;de;decidim.navigation_maps.admin.areas.new.area;Neue Bereichsdetails
+181183;en;decidim.navigation_maps.admin.areas.new.cancel;Cancel
+181184;de;decidim.navigation_maps.admin.areas.new.cancel;Abbrechen
+181185;en;decidim.navigation_maps.admin.areas.new.save;Save
+181186;de;decidim.navigation_maps.admin.areas.new.save;Speichern
+181187;en;decidim.navigation_maps.admin.areas.show.area;Area details
+181188;de;decidim.navigation_maps.admin.areas.show.area;Bereichsdetails
+181189;en;decidim.navigation_maps.admin.areas.show.cancel;Cancel
+181190;de;decidim.navigation_maps.admin.areas.show.cancel;Abbrechen
+181191;en;decidim.navigation_maps.admin.areas.show.link_suggestions;Tip: use %{map} to link other tabs
+181192;de;decidim.navigation_maps.admin.areas.show.link_suggestions;Tipp: Nutze %{map}, um andere Register zu verlinken.
+181193;en;decidim.navigation_maps.admin.areas.show.save;Save
+181194;de;decidim.navigation_maps.admin.areas.show.save;Speichern
+181195;en;decidim.navigation_maps.admin.areas.update.error;An error ocurred while saving the area
+181196;de;decidim.navigation_maps.admin.areas.update.error;Beim Speichern des Bereichs ist ein Fehler aufgetreten.
+181197;en;decidim.navigation_maps.admin.areas.update.success;Area saved successfully
+181198;de;decidim.navigation_maps.admin.areas.update.success;Bereich erfolgreich gespeichert.
+181199;en;decidim.navigation_maps.content_blocks.name;Navigation Maps
+181200;de;decidim.navigation_maps.content_blocks.name;Navigationskarten
+181201;en;decidim.navigation_maps.content_blocks.navigation_map.view;Take part
+181202;de;decidim.navigation_maps.content_blocks.navigation_map.view;Mitmachen
+181203;en;decidim.navigation_maps.content_blocks.navigation_map_settings_form.add;Add
+181204;de;decidim.navigation_maps.content_blocks.navigation_map_settings_form.add;Hinzufügen
+181205;en;decidim.navigation_maps.content_blocks.navigation_map_settings_form.autohide_tabs;Hide tabs navigation if there's only one map
+181206;de;decidim.navigation_maps.content_blocks.navigation_map_settings_form.autohide_tabs;Register-Navigation ausblenden, wenn nur eine Karte vorhanden ist
+181207;en;decidim.navigation_maps.content_blocks.navigation_map_settings_form.blueprint_image;Blueprint image
+181208;de;decidim.navigation_maps.content_blocks.navigation_map_settings_form.blueprint_image;Planbild
+181209;en;decidim.navigation_maps.content_blocks.navigation_map_settings_form.description;Description
+181210;de;decidim.navigation_maps.content_blocks.navigation_map_settings_form.description;Beschreibung
+181211;en;decidim.navigation_maps.content_blocks.navigation_map_settings_form.editor;Map Editor
+181212;de;decidim.navigation_maps.content_blocks.navigation_map_settings_form.editor;Karten-Editor
+181213;en;decidim.navigation_maps.content_blocks.navigation_map_settings_form.height;Height (px)
+181214;de;decidim.navigation_maps.content_blocks.navigation_map_settings_form.height;Höhe (px)
+181215;en;decidim.navigation_maps.content_blocks.navigation_map_settings_form.id;Id
+181216;de;decidim.navigation_maps.content_blocks.navigation_map_settings_form.id;ID
+181217;en;decidim.navigation_maps.content_blocks.navigation_map_settings_form.image_missing;Please add a blueprint image to start
+181218;de;decidim.navigation_maps.content_blocks.navigation_map_settings_form.image_missing;Bitte füge ein Planbild hinzu, um zu starten.
+181219;en;decidim.navigation_maps.content_blocks.navigation_map_settings_form.info;General info
+181220;de;decidim.navigation_maps.content_blocks.navigation_map_settings_form.info;Allgemeine Angaben
+181221;en;decidim.navigation_maps.content_blocks.navigation_map_settings_form.link;Link
+181222;de;decidim.navigation_maps.content_blocks.navigation_map_settings_form.link;Link
+181223;en;decidim.navigation_maps.content_blocks.navigation_map_settings_form.remove_blueprint;Delete this blueprint
+181224;de;decidim.navigation_maps.content_blocks.navigation_map_settings_form.remove_blueprint;Diesen Plan löschen
+181225;en;decidim.navigation_maps.content_blocks.navigation_map_settings_form.title;Title
+181226;de;decidim.navigation_maps.content_blocks.navigation_map_settings_form.title;Titel
+181227;en;decidim.navigation_maps.content_blocks.navigation_map_settings_form.type;Type
+181228;de;decidim.navigation_maps.content_blocks.navigation_map_settings_form.type;Typ
+181229;en;decidim.navigation_maps.content_blocks.navigation_map_settings_form.upload_image;Upload image
+181230;de;decidim.navigation_maps.content_blocks.navigation_map_settings_form.upload_image;Bild hochladen
+181231;en;decidim.navigation_maps.create.error;Error creating blueprint
+181232;de;decidim.navigation_maps.create.error;Beim Erstellen des Plans ist ein Fehler aufgetreten.
+181233;en;decidim.navigation_maps.create.success;Blueprint created successfully
+181234;de;decidim.navigation_maps.create.success;Plan erfolgreich erstellt.
