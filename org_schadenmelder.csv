@@ -1,0 +1,428 @@
+id;locale;key;value
+90907;de;decidim.decidim_awesome.content_blocks.map.show_rejected;Extern weitergeleitete / nicht zuweisbare Schadensmeldungen anzeigen
+90908;de;decidim.decidim_awesome.content_blocks.map.show_not_answered;Neue Schadensmeldungen anzeigen
+90909;de;decidim.decidim_awesome.content_blocks.map.show_evaluating;Bewertung der Schadensmeldungen anzeigen
+90910;de;decidim.decidim_awesome.content_blocks.map.show_accepted;Beantwortete Schadensmeldungen anzeigen
+90911;de;decidim.decidim_awesome.admin.menu.proposal_custom_fields;Schäden: Eigene Eingabefelder
+90912;de;decidim.decidim_awesome.admin.config.rich_text_editor_in_public_views;"Warnung: ""Erweiterter Text Editor für Teilnehmer"" ist aktiviert, diese Option ist inaktiv. Bitte benutzen Sie die Editor Hacks, um Bilder in Schadensmeldungen zu aktivieren."
+90913;de;decidim.decidim_awesome.admin.config.form.help.proposal_custom_fields_example;"Die Daten werden in einem XML-Objekt unter Verwendung kompatibler HTML-Attribute (dl,dt,dd-Elemente) gespeichert, die den ""body"" in einer normalen Schadensmeldung ersetzen."
+90914;de;decidim.decidim_awesome.admin.config.form.help.proposal_custom_fields;Erstelle eigene Eingabefelder für das Schadensmodul. Du kannst die Funktion auf einzelne Prozesse / Module beschränken.
+90915;de;decidim.decidim_awesome.admin.config.form.help.allow_images_in_proposals;Bilder in Schadensmeldungen erlauben
+90916;de;decidim.decidim_awesome.admin.checks.index.decidim-proposals;Von der Schadens-Komponente
+90917;de;decidim.debates.debates.form.select_a_category;Bitte wählen Sie eine Kategorie
+90918;de;decidim.components.reporting_proposals.settings.step.endorsements_enabled;Endorsements enabled
+90919;de;decidim.components.reporting_proposals.settings.step.endorsements_blocked;Endorsements blocked
+90920;de;decidim.components.reporting_proposals.settings.step.default_sort_order_options.most_endorsed;Most endorsed
+90921;de;decidim.components.reporting_proposals.settings.step.comments_blocked;Comments blocked
+90922;de;decidim.components.reporting_proposals.settings.global.default_sort_order_options.most_endorsed;Most endorsed
+90923;de;decidim.components.reporting_proposals.settings.global.comments_max_length;Comments max length (Leave 0 for default value)
+90924;de;decidim.components.reporting_proposals.settings.global.comments_enabled;Comments enabled
+90925;de;decidim.components.proposals.settings.step.suggested_hashtags;Hashtags schlug Benutzern neue Schadensmeldungen vor
+90926;de;decidim.components.proposals.settings.step.publish_answers_immediately;Schadensantworten sofort veröffentlichten
+90927;de;decidim.components.proposals.settings.step.proposal_answering_enabled;Antworten aktivieren
+90928;de;decidim.components.proposals.settings.step.default_sort_order;Standardsortierung für Schäden
+90929;de;decidim.components.proposals.settings.step.creation_enabled;Teilnehmer können Schadensmeldungen erfassen
+90930;de;decidim.components.proposals.settings.step.automatic_hashtags;Hashtags wurden allen Schadensmeldungen hinzugefügt
+90931;de;decidim.components.proposals.settings.step.answers_with_costs;Kosten für Schadensantworten aktivieren
+90932;de;decidim.components.proposals.settings.step.amendment_reaction_enabled_help;Schadensautoren können die Berichtigungen von Teilnehmern akzeptieren oder ablehnen.
+90933;de;decidim.components.proposals.settings.step.amendment_promotion_enabled_help;Berichtigungsautoren können die abgelehnten Berichtigungen im Schaden hervorheben.
+90934;de;decidim.components.proposals.settings.step.amendment_creation_enabled_help;Teilnehmer kann Schadensmeldungen ergänzen.
+90935;de;decidim.components.proposals.settings.global.threshold_per_proposal;Schwellenwert pro Schadensmeldung
+90936;de;decidim.components.proposals.settings.global.resources_permissions_enabled;Berechtigungen können für jeden Schaden festgelegt werden
+90937;de;decidim.components.proposals.settings.global.proposal_wizard_step_4_help_text;"Hilfetext ""Absenden""-Schritt im Schadensassistenten"
+90938;de;decidim.components.proposals.settings.global.proposal_wizard_step_3_help_text;"Hilfetext ""Fertigstellen""-Schritt im Schadensassistenten"
+90939;de;decidim.components.proposals.settings.global.proposal_wizard_step_2_help_text;"Hilfetext ""Vergleichen""-Schritt im Schadensassistenten"
+90940;de;decidim.components.proposals.settings.global.proposal_wizard_step_1_help_text;"Hilfetext ""erfassen""-Schritt im Schadensassistenten"
+90941;de;decidim.components.proposals.settings.global.proposal_limit;Schadenslimit pro Benutzer
+90942;de;decidim.components.proposals.settings.global.proposal_edit_time_choices.limited;Schadensmeldungen können nach einem spezifischen Zeitfenster nicht mehr beantwortet werden
+90943;de;decidim.components.proposals.settings.global.proposal_edit_time_choices.infinite;Schadensmeldungen können beliebig lang beantwortet werden
+90944;de;decidim.components.proposals.settings.global.proposal_edit_time;Schadensmeldungen anpassen
+90945;de;decidim.components.proposals.settings.global.proposal_edit_before_minutes;Schadensmeldungen können von Autoren innerhalb dieser Zeit beantwortet werden
+90946;de;decidim.components.proposals.settings.global.proposal_answering_enabled;Schadensantworten aktiviert
+90947;de;decidim.components.proposals.settings.global.participatory_texts_enabled_readonly;Die Interaktion mit dieser Einstellung ist nicht möglich, wenn Schadensmeldungen bestehen. Bitte erfassen Sie eine neue „Schadenskomponente“, wenn Sie diese Funktion aktivieren möchten, oder verwerfen Sie alle importierten Schadensmeldungen im Menü „Beteiligungstexte“, wenn Sie diese Funktion deaktivieren möchten.
+90948;de;decidim.components.proposals.settings.global.official_proposals_enabled;Offizielle Schadensmeldungen aktiviert
+90949;de;decidim.components.proposals.settings.global.new_proposal_help_text;Hilfetext für neue Schäden
+90950;de;decidim.components.proposals.settings.global.new_proposal_body_template_help;Sie können den vorgefüllten Text der neuen Schadensmeldungen bestimmen
+90951;de;decidim.components.proposals.settings.global.new_proposal_body_template;Textvorlage für neue Schadensmeldung
+90952;de;decidim.components.proposals.settings.global.default_sort_order;Standardsortierung für Schäden
+90953;de;decidim.components.proposals.settings.global.amendments_enabled;ÄnderungsSchadensmeldungen aktiviert
+90954;de;decidim.components.proposals.name;Schäden
+90955;de;decidim.components.proposals.actions.amend;ÄnderungsSchaden
+90956;de;decidim.components.component_order_selector.order.proposal;Schadensmeldung
+90957;de;decidim.components.awesome_map.settings.step.show_withdrawn;Zurückgezogene Schadensmeldungenanzeigen
+90958;de;decidim.reporting_proposals.admin.answer_overdue.datetime.distance_in_words.x_seconds.one;1 Sekunde überfällig
+90959;de;decidim.components.awesome_map.settings.step.show_rejected;Extern weitergeleitete / nicht zuweisbare Schadensmeldungen anzeigen
+90960;de;decidim.components.awesome_map.settings.step.show_not_answered;Neue Schadensmeldungen anzeigen
+90961;de;decidim.components.awesome_map.settings.step.show_evaluating;In Bewertung befindliche Schadensmeldungen anzeigen
+90962;de;decidim.components.awesome_map.settings.step.show_accepted;Beantwortete Schadensmeldungen anzeigen
+90963;de;decidim.components.add_comment_form.opinion.neutral;neutral
+90964;de;decidim.budgets.admin.proposals_imports.new.no_components;Es gibt keine weiteren Schadenskomponenten in diesem partizipativen Raum, um die Schadensmeldungen in Projekte zu importieren.
+90965;de;decidim.budgets.admin.proposals_imports.new.import_all_accepted_proposals;Alle beantworteten Schadensmeldungen importieren
+90966;de;decidim.budgets.admin.proposals_imports.new.create;Importieren Sie Schadensmeldungen in Projekte
+90967;de;decidim.budgets.admin.proposals_imports.create.success;%{number} Schadensmeldungen wurden erfolgreich in Projekte importiert
+90968;de;decidim.budgets.admin.proposals_imports.create.invalid;Beim Importieren der Schadensmeldungen in Projekte ist ein Problem aufgetreten
+90969;de;decidim.application.photos.related_photos;Fotos
+90970;de;decidim.admin.models.participatory_process_user_role.roles.valuator;Expert/innen
+90971;de;decidim.admin.models.media_link.fields.link;Link
+90972;de;decidim.admin.models.conference_user_role.roles.valuator;Expert/in
+90973;de;decidim.admin.models.assembly_user_role.roles.valuator;Expert/innen
+90974;de;decidim.admin.filters.state_eq.values.rejected;Extern weitergeleitet / nicht zuweisbar
+90975;de;decidim.admin.filters.proposals.valuator_role_ids_has.label;Zugewiesene Expert/innen
+90976;de;decidim.admin.filters.proposals.state_eq.values.rejected;Extern weitergeleitet / nicht zuweisbar
+90977;de;decidim.admin.filters.proposals.state_eq.values.accepted;Beantwortet
+90978;de;decidim.admin.filters.proposals.is_emendation_true.values.false;Schäden
+90979;de;activerecord.models.decidim/proposals/proposal_note.other;Interne Notizen
+90980;de;activerecord.models.decidim/proposals/proposal_note.one;Interne Notiz
+90981;de;activerecord.models.decidim/proposals/proposal.other;Schäden
+90982;de;activerecord.models.decidim/proposals/proposal.one;Schadensmeldung
+90983;de;activemodel.models.decidim/proposals/voting_enabled_event;Schadensabstimmung aktiviert
+90984;de;activemodel.models.decidim/proposals/rejected_proposal_event;Meldung extern weitergeleitet / nicht zuweisbar
+90985;de;activemodel.models.decidim/proposals/publish_proposal_event;Schadensmeldung veröffentlicht
+90986;de;activemodel.models.decidim/proposals/proposal_mentioned_event;Schadensmeldung erwähnt
+90987;de;activemodel.models.decidim/proposals/evaluating_proposal_event;Die Schadensmeldung wird geprüft
+90988;de;decidim.proposals.proposals.preview.announcement_body;"Ihre Meldung ist aktuell ein Entwurf. Bitte prüfen Sie Ihre Meldung auf Vollständigkeit und dass sie keine persönlichen Daten Dritter enthält (Kontaktdaten, Autonummern, Bilder mit Personen, etc,).  <br> <br> <strong>Bestätigen Sie dies über den Button ""Meldung absenden"". </strong><br> <br> Ihre Meldung wird in der Regel innerhalb von 5 Arbeitstagen beantwortet."
+90989;de;decidim.reporting_proposals.admin.evaluate_pending.datetime.distance_in_words.x_days.other;Noch %{count} Tage Zeit für eine erste Antwort
+90990;de;decidim.reporting_proposals.admin.evaluate_pending.datetime.distance_in_words.x_days.one;Noch 1 Tag für eine erste Antwort
+90991;de;decidim.reporting_proposals.admin.answer_pending.datetime.distance_in_words.x_days.other;Noch %{count} Tage zur Bearbeitung
+90992;de;decidim.reporting_proposals.admin.answer_pending.datetime.distance_in_words.x_days.one;Noch 1 Zeit zur Bearbeitung
+90993;de;decidim.reporting_proposals.admin.answer_overdue.datetime.distance_in_words.x_seconds.zero;jetzt fällig
+90994;de;decidim.reporting_proposals.admin.answer_overdue.datetime.distance_in_words.x_minutes.one;1 Minute überfällig
+90995;de;decidim.reporting_proposals.admin.answer_overdue.datetime.distance_in_words.x_hours.other;%{count} Stunden überfällig
+90996;de;decidim.reporting_proposals.admin.answer_overdue.datetime.distance_in_words.x_hours.one;1 Stunde überfällig
+90997;de;decidim.reporting_proposals.admin.answer_overdue.datetime.distance_in_words.x_days.one;1 Tag überfällig
+90998;de;decidim.reporting_proposals.admin.answer_overdue.datetime.distance_in_words.less_than_x_seconds.one;jetzt fällig
+90999;de;decidim.proposals.proposals.index.new_proposal;Schaden melden
+91000;de;decidim.proposals.proposals.count.proposals_count.one;%{count} Schadensmeldung
+91001;de;decidim.proposals.proposals.index.click_here;Alle Schadensmeldungen ansehen
+91002;de;decidim.reporting_proposals.admin.answer_overdue.datetime.distance_in_words.less_than_x_minutes.one;weniger als eine Minute überfällig
+91003;de;decidim.reporting_proposals.admin.answer_overdue.datetime.distance_in_words.about_x_months.other;%{count} Monate überfällig
+91004;de;decidim.reporting_proposals.admin.answer_overdue.datetime.distance_in_words.about_x_months.one;1 Monat überfällig
+91005;de;decidim.reporting_proposals.admin.answer_overdue.datetime.distance_in_words.about_x_hours.other;%{count} Stunden überfällig
+91006;de;decidim.reporting_proposals.admin.answer_overdue.datetime.distance_in_words.about_x_hours.one;eine Stunde überfällig
+91007;de;decidim.proposals.withdraw.errors.has_supports;Diese Schadensmeldung kann nicht zurückgezogen werden, da sie bereits Unterstützung hat.
+91008;de;decidim.proposals.versions.proposals.back_to_resource;zur Übersicht
+91009;de;decidim.proposals.update_draft.success;Der Entwurf wurde erfolgreich aktualisiert.
+91010;de;decidim.proposals.update_draft.error;Beim Speichern des Entwurfs ist ein Fehler aufgetreten.
+91011;de;decidim.proposals.update.success;Schadensmeldung wurde erfolgreich aktualisiert.
+91012;de;decidim.proposals.update.error;Beim Speichern der Schadensmeldungs ist ein Fehler aufgetreten.
+91013;de;decidim.proposals.publish_answers.success;Antwort wurden erfolgreich veröffentlicht.
+91014;de;decidim.proposals.publish.success;Vielen Dank für Ihre Meldung!
+91015;de;decidim.proposals.publish.error;Beim Absenden der Schadensmeldung ist ein Fehler aufgetreten.
+91016;de;decidim.proposals.proposals_picker.no_proposals;Keine Schadensmeldung entspricht Ihren Suchkriterien oder es ist keine Schadensmeldung geplant.
+91017;de;decidim.proposals.proposals_picker.more_proposals;Es gibt %{number} weitere Schäden. Spezifizieren Sie Ihre Suche, um sie zu finden.
+91018;de;decidim.proposals.proposals_picker.choose_proposals;Schadensmeldungen auswählen
+91019;de;decidim.proposals.proposals.wizard_steps.step_4;Absenden
+91020;de;decidim.proposals.proposals.wizard_steps.step_1;Erfassen
+91021;de;decidim.proposals.proposals.wizard_aside.info; 
+91022;de;decidim.proposals.proposals.wizard_aside.back_from_step_4;Meldung anpassen
+91023;de;decidim.proposals.proposals.wizard_aside.back_from_step_3;Zurück zum Vergleich
+91024;de;decidim.proposals.proposals.wizard_aside.back_from_step_2;Zurück
+91025;de;decidim.proposals.proposals.wizard_aside.back_from_step_1;Übersicht
+91026;de;decidim.proposals.proposals.voting_rules.vote_limit.description;Sie können bis zu %{limit} Schadensmeldungen abstimmen.
+91027;de;decidim.proposals.proposals.voting_rules.threshold_per_proposal.description;Um validiert zu werden, müssen die Schadensmeldungen %{limit} Unterstützungen erreichen
+91028;de;decidim.proposals.proposals.voting_rules.proposal_limit.description;Sie können bis zu %{limit} Schadensmeldungen erfassen.
+91029;de;decidim.proposals.proposals.voting_rules.minimum_votes_per_user.supports_remaining;Sie müssen %{remaining_votes} weitere Schadensmeldungen abgeben, damit Ihre Stimmen berücksichtigt werden.
+91030;de;decidim.proposals.proposals.voting_rules.minimum_votes_per_user.description;Sie müssen mindestens %{votes} Stimmen auf verschiedene Schadensmeldungen verteilen.
+91031;de;decidim.proposals.proposals.voting_rules.can_accumulate_supports_beyond_threshold.description;Jede Meldung kann mehr als %{limit} Unterstützungen sammeln
+91032;de;decidim.proposals.proposals.votes_count.most_popular_proposal;Beliebteste Schäden
+91033;de;decidim.proposals.proposals.update.title;Schadensmeldung aktualisieren
+91034;de;decidim.proposals.proposals.show.withdraw_proposal;Meldung zurückziehen
+91035;de;decidim.proposals.proposals.show.withdraw_btn_hint;Sie können Ihren Meldung zurückziehen, wenn Sie es sich anders überlegen, solange Sie keine Unterstützung erhalten haben. Die Schadensmeldung wird nicht gelöscht, er erscheint in der Liste der zurückgezogenen Schäden.
+91036;de;decidim.proposals.proposals.show.proposal_rejected_reason;Diese Schadensmeldung wurde extern weitergeleitet / ist nicht zuweisbar, weil:
+91037;de;decidim.proposals.proposals.show.proposal_in_evaluation_reason;Diese Schadensmeldung ist in Bearbeitung
+91038;de;decidim.proposals.proposals.show.proposal_accepted_reason;Diese Schadensmeldung wurde beantwortet:
+91039;de;decidim.proposals.proposals.show.link_to_proposal_from_emendation_text;Die Schadensmeldung ansehen
+91040;de;decidim.proposals.proposals.show.link_to_promoted_emendation_help_text;Diese Schadensmeldung hat eine markierte Berichtigung
+91041;de;decidim.proposals.proposals.show.link_to_collaborative_draft_help_text;Diese Schadensmeldung ist das Ergebnis eines gemeinsamen Entwurfs. Überprüfen Sie die Geschichte
+91042;de;decidim.proposals.proposals.show.edit_proposal;Meldung anpassen
+91043;de;decidim.proposals.proposals.show.back_to_list;Übersicht
+91044;de;decidim.proposals.proposals.proposals.empty_filters;Es gibt keine Schadensmeldungen mit diesem Kriterium
+91045;de;decidim.proposals.proposals.proposals.empty;Es gibt noch keine Schadensmeldung
+91046;de;decidim.proposals.proposals.proposal.view_proposal;Schadensmeldung anzeigen
+91047;de;decidim.proposals.proposals.preview.title;Meldung absenden
+91048;de;decidim.proposals.proposals.preview.proposal_edit_before_minutes.other;Vielen Dank!
+91049;de;decidim.proposals.proposals.preview.proposal_edit_before_minutes.one;Vielen Dank!
+91050;de;decidim.proposals.proposals.preview.modify;Meldung anpassen
+91051;de;decidim.proposals.proposals.preview.announcement_title;Noch ein Schritt:
+91052;de;decidim.proposals.proposals.orders.most_followed;den meisten Followern
+91053;de;decidim.proposals.proposals.orders.label;Meldungen sortieren:
+91054;de;decidim.proposals.proposals.new.title;Neue Meldung erstellen
+91055;de;decidim.proposals.proposals.new.send;Weiter
+91056;de;decidim.proposals.proposals.index.view_proposal;Schadensmeldung anzeigen
+91057;de;decidim.proposals.proposals.index.see_all_withdrawn;Sehen Sie sich alle zurückgezogenen Meldungen an
+91058;de;decidim.proposals.proposals.index.see_all;Alle Schadensmeldungen ansehen
+91059;de;decidim.proposals.proposals.filters.my_proposals;Meine Meldungen
+91060;de;decidim.proposals.proposals.edit_draft.title;Meldung anpassen
+91061;de;decidim.proposals.proposals.edit_draft.discard_confirmation;Möchten Sie diesen Entwurf wirklich löschen?
+91062;de;decidim.proposals.proposals.edit.title;Meldung anpassen
+91063;de;decidim.proposals.proposals.edit.gallery_legend;(Optional) Ein Foto zur Schadensmeldung hinzufügen
+91064;de;decidim.proposals.proposals.edit.add_documents;Fotos
+91065;de;decidim.proposals.proposals.dynamic_map_instructions.instructions;Standort präzisieren
+91066;de;decidim.proposals.proposals.count.proposals_count.other;%{count} Meldungen
+91067;de;decidim.proposals.proposals.complete.title;Meldung vervollständigen
+91068;de;decidim.proposals.proposals.compare.title;Ähnliche Schäden
+91069;de;decidim.proposals.proposals.compare.no_similars_found;Nur noch ein Schritt: Überprüfe deine Meldung und sende sie dann ab.
+91070;de;decidim.proposals.proposals.compare.continue;Weiter
+91071;de;decidim.proposals.proposal_votes.create.error;Es gab Fehler bei der Abstimmung der Schadensmeldungs.
+91072;de;decidim.proposals.new.limit_reached;Sie können keine neuen Schadensmeldungen erfassen, da Sie das Maximum erreicht haben.
+91073;de;decidim.proposals.models.proposal.fields.valuators;Expert/innen
+91074;de;decidim.proposals.models.proposal.fields.valuator;Expert/innen
+91075;de;decidim.proposals.models.proposal.fields.published_at;Eingabezeitpunkt
+91076;de;decidim.proposals.models.proposal.fields.official_proposal;Offizielle Schadensmeldung
+91077;de;decidim.proposals.models.proposal.fields.notes;Interne Notizen
+91078;de;decidim.proposals.models.proposal.fields.id;ID Nr.
+91079;de;decidim.proposals.last_activity.proposal_updated_at_html;<span>Schadensmeldung aktualisiert unter %{link}</span>
+91080;de;decidim.proposals.last_activity.new_proposal_at_html;<span>Neue Schadensmeldung bei %{link}</span>
+91081;de;decidim.proposals.destroy_draft.success;Der Entwurf wurde erfolgreich gelöscht.
+91082;de;decidim.proposals.destroy_draft.error;Es gab Fehler beim Löschen des Entwurfs.
+91083;de;decidim.proposals.create.success;Die Schadensmeldung wurde erfolgreich erstellt. Gespeichert als Entwurf.
+91084;de;decidim.proposals.create.error;Beim Speichern der Schadensmeldungs ist ein Fehler aufgetreten.
+91085;de;decidim.proposals.collaborative_drafts.show.version_history;Änderungsverlauf für diese Schadensmeldung
+91086;de;decidim.proposals.collaborative_drafts.show.published_proposal;Veröffentlichte Schadensmeldung
+91087;de;decidim.proposals.collaborative_drafts.show.info-message;Dies ist ein <strong>kollaborativen Entwurf</strong> für einen Schaden. Dies bedeutet, dass Sie ihren Autoren helfen können, den Schaden zu gestalten, indem Sie den unten stehenden Kommentarabschnitt verwenden, oder ihn direkt verbessern, indem Sie den Zugriff anfordern, um ihn zu bearbeiten. Sobald die Autoren Ihnen Zugriff gewähren, können Sie Änderungen an diesem Entwurf vornehmen.
+91088;de;decidim.proposals.collaborative_drafts.show.final_proposal_help_text;Dieser Entwurf ist fertig. Sie können den endgültigen fertige Schadensmeldung sehen
+91089;de;decidim.proposals.collaborative_drafts.show.final_proposal;Endgültiger Schadensmeldung
+91090;de;decidim.proposals.collaborative_drafts.new.send;Weiter
+91091;de;decidim.proposals.collaborative_drafts.collaborative_draft.publish.success;Collaborative Draft erfolgreich als Schadensmeldung veröffentlicht.
+91092;de;decidim.proposals.collaborative_drafts.collaborative_draft.publish.irreversible_action_modal.ok;Meldung absenden
+91093;de;decidim.proposals.collaborative_drafts.collaborative_draft.publish.irreversible_action_modal.body;Nachdem der Entwurf als Schadensmeldung veröffentlicht wurde, kann der Entwurf nicht mehr bearbeitet werden. Die Schadensmeldungsmeldung akzeptiert keine neuen Autoren oder Beiträge.
+91094;de;decidim.proposals.application_helper.filter_state_values.rejected;Extern weitergeleitet / nicht zuweisbar
+91095;de;decidim.proposals.application_helper.filter_state_values.not_answered;Neu
+91096;de;decidim.proposals.application_helper.filter_state_values.evaluating;In Bearbeitung
+91097;de;decidim.proposals.application_helper.filter_state_values.accepted;Beantwortet
+91098;de;decidim.proposals.answers.rejected;Extern weitergeleitet / nicht zuweisbar
+91099;de;decidim.proposals.answers.not_answered;Neu
+91100;de;decidim.proposals.answers.evaluating;In Bearbeitung
+91101;de;decidim.proposals.answers.accepted;Beantwortet
+91102;de;decidim.proposals.admin_log.valuation_assignment.delete;%{user_name} hat die Zuweisung der Schadensmeldung %{proposal_title} von einem Experten zurückgezogen
+91103;de;decidim.proposals.admin_log.valuation_assignment.create;%{user_name} hat die Schadensmeldung %{resource_name} einem Experten zugewiesen
+91104;de;decidim.proposals.admin_log.proposal_note.create;%{user_name} eine interne Notiz zu der %{resource_name} Schadensmeldung auf dem %{space_name} Feld hinterlassen
+91105;de;decidim.proposals.admin_log.proposal.update;%{user_name} aktualisiert den %{resource_name} offiziellen Schaden für die %{space_name} Flächen
+91106;de;decidim.proposals.admin_log.proposal.publish_answer;%{user_name} veröffentlichte die Antwort auf die Schadensmeldung %{resource_name} im Bereich %{space_name}
+91107;de;decidim.proposals.admin_log.proposal.create;%{user_name} hat die %{resource_name} Schadensmeldung auf den %{space_name} Feldern als offizieller Schadensmeldung erstellt
+91108;de;decidim.proposals.admin_log.proposal.answer;%{user_name} beantwortete die %{resource_name} Schadensmeldung auf den %{space_name} Feldern
+91109;de;decidim.proposals.admin.valuation_assignments.delete.success;Die Zuweisung der Schadensmeldungen wurden erfolgreich von dem Experten zurückgezogen
+91110;de;decidim.proposals.admin.valuation_assignments.delete.invalid;Beim Zurückziehen der Zuweisung von Schadensmeldungen an einen Experten ist ein Fehler aufgetreten
+91111;de;decidim.proposals.admin.valuation_assignments.create.success;Die Schadensmeldungen wurden erfolgreich dem Experten zugewiesen
+91112;de;decidim.proposals.admin.valuation_assignments.create.invalid;Bei der Zuweisung von Schadensmeldungen an einen Experten ist ein Fehler aufgetreten
+91113;de;decidim.proposals.admin.proposals_splits.create.success;Die Schadensmeldungen wurden erfolgreich in neue aufgeteilt.
+91114;de;decidim.proposals.admin.proposals_merges.create.success;Erfolgreich die Schadensmeldungen in eine neue zusammengeführt.
+91115;de;decidim.proposals.admin.proposals_imports.new.title;Schadensmeldungen importieren
+91116;de;decidim.proposals.admin.proposals_imports.new.select_states;Überprüfen Sie die Status der zu importierenden Schäden
+91117;de;decidim.proposals.admin.proposals_imports.new.no_components;In diesem partizipatorischen Bereich gibt es keine weiteren Schadenskomponenten, aus denen die Schadensmeldungen importiert werden könnten.
+91118;de;decidim.proposals.admin.proposals_imports.new.create;Schadensmeldungen importieren
+91119;de;decidim.proposals.admin.proposals_imports.create.success;%{number} Schadensmeldungen wurden erfolgreich importiert
+91120;de;decidim.proposals.admin.proposals_imports.create.invalid;Beim Importieren der Schadensmeldungen ist ein Problem aufgetreten
+91121;de;decidim.proposals.admin.proposals.update_scope.success;Die Schadensmeldungen wurden erfolgreich zum Umfang %{subject_name} aktualisiert: %{proposals}.
+91122;de;decidim.proposals.admin.proposals.update_scope.select_a_proposal;Bitte wählen Sie eine Schadensmeldung
+91123;de;decidim.proposals.admin.proposals.update_scope.invalid;Diese Schadensmeldungen gehörten bereits um Umfang %{subject_name}: %{proposals}.
+91124;de;decidim.proposals.admin.proposals.update_category.success;Die Schadensmeldung wurde erfolgreich zur Kategorie %{subject_name} aktualisiert: %{proposals}.
+91125;de;decidim.proposals.admin.proposals.update_category.select_a_proposal;Bitte wählen Sie eine Schadensmeldung
+91126;de;decidim.proposals.admin.proposals.update_category.invalid;Diese Schadensmeldungen gehörten bereits zur Kategorie %{subject_name}: %{proposals}.
+91127;de;decidim.proposals.admin.proposals.show.valuators;Expert/innen
+91128;de;decidim.proposals.admin.proposals.show.remove_assignment_confirmation;Bist du sicher, dass du die Zuweisung des Experten von dieser Meldung zurückzuziehen möchtest?
+91129;de;decidim.proposals.admin.proposals.show.related_meetings;Dazugehörige Veranstaltungen (kommt hier nicht zur Anwendung)
+91130;de;decidim.proposals.admin.proposals.show.comments_positive_count;positiv
+91131;de;decidim.proposals.admin.proposals.show.comments_neutral_count;neutral
+91132;de;decidim.proposals.admin.proposals.show.comments_negative_count;negativ
+91133;de;decidim.proposals.admin.proposals.show.body;Kurzbeschreibung
+91134;de;decidim.proposals.admin.proposals.show.assigned_valuators;Zugewiesene Expert/innen
+91135;de;decidim.proposals.admin.proposals.publish_answers.select_a_proposal;Bitte wählen Sie eine Schadensmeldung
+91136;de;decidim.proposals.admin.proposals.publish_answers.number_of_proposals;Die Antworten für %{number} Schadensmeldungen werden veröffentlicht.
+91137;de;decidim.proposals.admin.proposals.new.title;Erfassen
+91138;de;decidim.proposals.admin.proposals.index.unassign_from_valuator;Zuweisung an den Experten zurückziehen
+91139;de;decidim.proposals.admin.proposals.index.split;Schadensmeldungen aufteilen
+91140;de;decidim.proposals.admin.proposals.index.assign_to_valuator;Einem Experten zuweisen
+91141;de;decidim.proposals.admin.proposals.form.created_in_meeting;Diese Schadensmeldung stammt von einer Besprechung
+91142;de;decidim.proposals.admin.proposals.edit.title;Schadensmeldung aktualisieren
+91143;de;decidim.proposals.admin.proposals.create.success;Schadensmeldung erfolgreich erstellt
+91144;de;decidim.proposals.admin.proposals.create.invalid;Beim Erfassen dieser Schadensmeldungs ist ein Fehler aufgetreten
+91145;de;decidim.proposals.admin.proposals.answer.success;Die Schadensmeldung wurde beantwortet
+91146;de;decidim.proposals.admin.proposals.answer.invalid;Es gab ein Problem bei der Beantwortung dieser Schadensmeldung
+91147;de;decidim.proposals.admin.proposal_notes.title;Interne Notizen
+91148;de;decidim.proposals.admin.proposal_notes.leave_your_note;Interne Notiz hinterlassen
+91149;de;decidim.proposals.admin.proposal_notes.form.note;Interne Notiz
+91150;de;decidim.proposals.admin.proposal_notes.create.success;Interne Notiz erfolgreich erstellt
+91151;de;decidim.proposals.admin.proposal_notes.create.error;Beim Erfassen dieser Schadensnotiz ist ein Fehler aufgetreten
+91152;de;decidim.proposals.admin.proposal_answers.form.title;Antwort auf Schadensmeldung %{title}
+91153;de;decidim.proposals.admin.proposal_answers.form.rejected;Extern weitergeleitet / nicht zuweisbar
+91154;de;decidim.proposals.admin.proposal_answers.form.evaluating;In Bearbeitung
+91155;de;decidim.proposals.admin.proposal_answers.form.accepted;Beantwortet
+91156;de;decidim.proposals.admin.participatory_texts.publish.success;Alle Schadensmeldungen wurden veröffentlicht
+91157;de;decidim.admin.models.partner.fields.link;Link
+91158;de;decidim.proposals.admin.proposals.show.link;Meldung anzeigen
+91159;de;decidim.sortitions.sortitions.show.proposals_selected_by_sortition;Schadensmeldungen nach der Sortierung ausgewählt
+91160;de;decidim.proposals.admin.participatory_texts.publish.invalid;Schadensmeldungen konnten nicht veröffentlicht werden
+91161;de;decidim.sortitions.sortitions.count.proposals_count.other;%{count} Schäden
+91162;de;decidim.proposals.admin.participatory_texts.new_import.document_legend;Fügen Sie ein Dokument hinzu, das kleiner als 2MB ist. Für alle Abschnitte bis 3 Ebenen tief werden Schadensmeldungen erstellt. Unterstützte Formate sind: %{valid_mime_types}
+91163;de;decidim.proposals.admin.participatory_texts.index.info_1;Die folgenden Abschnitte wurden aus dem importierten Dokument analysiert, sie wurden in Schadensmeldungen konvertiert. Jetzt können Sie alles überprüfen und anpassen, bevor Sie es veröffentlichen.
+91164;de;decidim.proposals.admin.participatory_texts.import.success;Herzlichen Glückwunsch, die folgenden Abschnitte wurden aus dem importierten Dokument analysiert, sie wurden in Schadensmeldungen konvertiert. Jetzt können Sie alles überprüfen und anpassen, bevor Sie es veröffentlichen.
+91165;de;decidim.proposals.admin.models.proposal.name;Schadensmeldung
+91166;de;decidim.proposals.admin.imports.title.proposals;Schadensmeldungen importieren
+91167;de;decidim.proposals.admin.imports.resources.proposals.other;Schäden
+91168;de;decidim.proposals.admin.imports.resources.proposals.one;Schadensmeldung
+91169;de;decidim.proposals.admin.imports.label.proposals;Schadensmeldungen aus einer Datei importieren
+91170;de;decidim.proposals.actions.show;Schadensmeldung anzeigen
+91171;de;decidim.proposals.actions.new;Schadensmeldung melden
+91172;de;decidim.proposals.actions.edit_proposal;Meldung anpassen
+91173;de;decidim.proposals.actions.answer_proposal;Schadenmeldung beantworten
+91174;de;decidim.pages.home.statistics.headline;Aktueller Status von %{organization}
+91175;de;decidim.pages.home.extended.proposals_explanation;Machen Sie Schäden, unterstützen Sie bestehende und fördern Sie die Änderungen, die Sie sehen möchten.
+91176;de;decidim.metrics.proposals.description;Anzahl der Schäden
+91177;de;decidim.metrics.accepted_proposals.title;Beantwortete Schäden
+91178;de;decidim.metrics.accepted_proposals.description;Anzahl der von den Benutzern beantworteten Schäden
+91179;de;decidim.meetings.meetings.form.select_a_category;Bitte wählen Sie eine Kategorie
+91180;de;decidim.meetings.admin.meetings.destroy.invalid.proposals_count.other;Die Besprechung kann nicht gelöscht werden, da %{count} Schadensmeldungen mit dieser verbunden sind
+91181;de;decidim.meetings.admin.meetings.destroy.invalid.proposals_count.one;Die Besprechung kann nicht gelöscht werden, da %{count} Schadensmeldungen mit dieser verbunden ist
+91182;de;decidim.proposals.proposals.dynamic_map_instructions.description;Hier können Sie den Standort präzisieren, indem Sie den Punkt in der Karte verschieben.
+91183;de;decidim.proposals.proposals.show.withdraw_confirmation_html;Sind Sie sicher, dass Sie diese Meldung zurückziehen möchten?
+91184;de;activemodel.attributes.proposal.category_id;Kategorie *
+91185;de;activemodel.attributes.proposal.title;Titel / Stichworte
+91186;de;decidim.proposals.proposals.edit.attachment_legend;Optional: Mehr Fotos hinzufügen
+91187;de;decidim.reporting_proposals.proposals.compare.geocoding.title;Absenden
+91188;de;decidim.proposals.proposals.edit.send;Meldung absenden
+91189;de;decidim.proposals.proposals.preview.publish;Meldung absenden
+91190;de;decidim.proposals.proposals.edit_draft.discard;Entwurf löschen
+91191;de;layouts.decidim.process_navigation.process_menu_item;Informationen
+91192;de;layouts.decidim.decidim_awesome.awesome_config.amendments;ÄnderungsSchäden
+91193;de;layouts.decidim.assembly_navigation.assembly_menu_item;Informationen
+91194;de;forms.required_explanation;*Pflichtfelder
+91195;de;decidim.statistics.proposals_accepted;Beantwortete Schäden
+91196;de;decidim.sortitions.sortitions.sortition.selected_proposals.other;Schadensmeldungen ausgewählt
+91197;de;decidim.sortitions.sortitions.sortition.selected_proposals.one;Schadensmeldung ausgewählt
+91198;de;decidim.sortitions.sortitions.show.candidate_proposals_info;Die Sortierung wurde unter den folgenden Schadensmeldungen (%{category_label}) durchgeführt, mit den folgenden IDs (in Fettschrift die ausgewählten Schäden)  
+91199;de;decidim.sortitions.sortitions.show.candidate_proposal_ids;Reihenfolge der SortierungsSchadensmeldungen und IDs
+91200;de;decidim.sortitions.sortitions.linked_sortitions.selected_proposals;Ausgewählte Schäden
+91201;de;decidim.sortitions.sortitions.count.proposals_count.one;1 Schadensmeldung
+91202;de;decidim.sortitions.admin.sortitions.show.selected_proposals;Schadensmeldungen für die Auslosung ausgewählt
+91203;de;decidim.sortitions.admin.sortitions.form.select_proposal_component;Wählen Sie die Schadensmeldungen aus
+91204;de;decidim.sortitions.admin.models.sortition.fields.decidim_proposals_component;Meldungen-Komponente
+91205;de;decidim.shared.results_per_page.label;Meldungen pro Seite:
+91206;de;decidim.shared.filter_form_help.help;Suche und Filter:
+91207;de;decidim.resource_links.proposals_from_meeting.meeting_proposal;Ähnliche Schäden:
+91208;de;decidim.resource_links.included_proposals.result_proposal;Schadensmeldungen in diesem Ergebnis enthalten
+91209;de;decidim.resource_links.included_proposals.proposal_result;Die Schadensmeldung erscheint in diesen Ergebnissen:
+91210;de;decidim.resource_links.included_proposals.proposal_project;Schadensmeldung, die in diesen Projekten erscheint:
+91211;de;decidim.resource_links.included_proposals.project_proposal;Schadensmeldungen in diesem Projekt
+91212;de;decidim.resource_links.copied_from_component.proposal_proposal;Ähnliche Schäden
+91213;de;decidim.reporting_proposals.proposals.compare.geocoding.description;Sie sehen hier Schadenmeldungen, die in einem Radius von %{meters} zu dem von Ihnen erstellten erfasst wurden. Falls Ihre Meldung denselben Inhalt hat, bitten wir Sie, auf die Meldung zu verzichten.
+91214;de;decidim.reporting_proposals.forms.use_my_camera;Foto machen
+91215;de;decidim.reporting_proposals.admin.resolution_time;Bearbeitungsdauer
+91216;de;decidim.reporting_proposals.admin.proposals.photos.title;Fotos (Persönlichkeitsrechte prüfen)
+91217;de;decidim.reporting_proposals.admin.proposals.photo_gallery.photos;Fotos
+91218;de;decidim.reporting_proposals.admin.proposals.photo_form.title;Fotos
+91219;de;decidim.reporting_proposals.admin.proposals.photo_form.gallery_legend;Fotos hinzufügen
+91220;de;decidim.reporting_proposals.admin.proposals.photo_form.add_images;Fotos hinzufügen
+91221;de;decidim.reporting_proposals.admin.proposals.photo_form.action;Speichern
+91222;de;decidim.reporting_proposals.admin.exports.proposal_comments;Comments
+91223;de;activemodel.models.decidim/proposals/endorsing_enabled_event;Schadensunterstützung aktiviert
+91224;de;activemodel.models.decidim/proposals/creation_enabled_event;Schadenserstellung aktiviert
+91225;de;activemodel.models.decidim/proposals/admin/update_proposal_scope_event;Schadensumfang geändert
+91226;de;activemodel.models.decidim/proposals/admin/update_proposal_category_event;Schadenskategorie geändert
+91227;de;activemodel.models.decidim/proposals/accepted_proposal_event;Schadensmeldung beantwortet
+91228;de;activemodel.models.decidim/accountability/proposal_linked_event;Schaden in einem Ergebnis enthalten
+91229;de;activemodel.attributes.valuation_assignment.admin_log.valuator_role_id;Name des Experten
+91230;de;activemodel.attributes.sortition.decidim_proposals_component_id;Schadensmeldungen festgelegt
+91231;de;activemodel.attributes.result.proposals;Enthaltene Schäden
+91232;de;activemodel.attributes.proposals_import.import_proposals;Schadensmeldungen importieren
+91233;de;activemodel.attributes.proposals_copy.origin_component_id;Komponente zum Kopieren der Schadensmeldungen aus
+91234;de;activemodel.attributes.proposals_copy.copy_proposals;Ich verstehe, dass dies alle Schadensmeldungen von der ausgewählten Komponente in die aktuelle Komponente importiert und dass diese Aktion nicht rückgängig gemacht werden kann.
+91235;de;activemodel.attributes.proposal.user_group_id;Schadensmeldung erfassen als
+91236;de;activemodel.attributes.proposal.has_no_address;Standort unbekannt
+91237;de;activemodel.attributes.proposal.body;Kurzbeschreibung
+91238;de;activemodel.attributes.proposal.automatic_hashtags; 
+91239;de;activemodel.attributes.project.proposals;Schäden
+91240;de;activemodel.attributes.project.proposal_ids;Ähnliche Schäden
+91241;de;activemodel.attributes.config.allow_images_in_proposals;Bilder im Schadens-Editor erlauben
+91242;de;activemodel.attributes.close_meeting.proposal_ids;An der Sitzung entstandene Schäden
+91243;de;decidim.reporting_proposals.forms.use_my_location;GPS verwenden
+91244;de;activemodel.attributes.proposal.address;Standort Schaden (Adresse - manuell oder GPS)
+91245;de;decidim.meetings.actions.invalid_destroy.proposals_count.other;Die Besprechung kann nicht gelöscht werden, da %{count} Schadensmeldungen mit dieser verbunden sind:
+91246;de;decidim.meetings.actions.invalid_destroy.proposals_count.one;Die Besprechung kann nicht gelöscht werden, da %{count} Schadensmeldungen mit dieser verbunden ist:
+91247;de;decidim.gamification.badges.proposals.unearned_own;Sie haben noch keine Schadensmeldungen erstellt.
+91248;de;decidim.gamification.badges.proposals.unearned_another;Dieser Benutzer hat noch keine Schadensmeldungen erstellt.
+91249;de;decidim.gamification.badges.proposals.next_level_in;Erfassen Sie %{score} weitere Schäden, um das nächste Level zu erreichen!
+91250;de;decidim.gamification.badges.proposals.description_own;Sie haben %{score} Schadensmeldungen erstellt.
+91251;de;decidim.gamification.badges.proposals.description_another;Dieser Benutzer hat %{score} Schadensmeldungen erstellt.
+91252;de;decidim.gamification.badges.proposals.description;Dieses Abzeichen wird gewährt, wenn Sie aktiv an neuen Schadensmeldungen teilnehmen.
+91253;de;decidim.gamification.badges.proposals.conditions.1;
+91254;de;decidim.gamification.badges.proposals.conditions.0;
+91255;de;decidim.gamification.badges.proposal_votes.unearned_own;Sie haben noch keine Schadensmeldungen unterstützt.
+91256;de;decidim.gamification.badges.proposal_votes.unearned_another;Dieser Benutzer hat noch keine Schadensmeldungen unterstützt.
+91257;de;decidim.gamification.badges.proposal_votes.next_level_in;Unterstütze %{score} weitere Schäden, um das nächste Level zu erreichen!
+91258;de;decidim.gamification.badges.proposal_votes.name;Schadensmeldung bestätigen
+91259;de;decidim.gamification.badges.proposal_votes.description_own;Sie haben %{score} Schadensmeldungen unterstützt.
+91260;de;decidim.gamification.badges.proposal_votes.description_another;Dieser Benutzer hat %{score} Schadensmeldungen unterstützt.
+91261;de;decidim.gamification.badges.proposal_votes.description;Dieses Abzeichen wird gewährt, wenn Sie Schadensmeldungen anderer Personen unterstützen.
+91262;de;decidim.gamification.badges.proposal_votes.conditions.1;
+91263;de;decidim.gamification.badges.proposal_votes.conditions.0;
+91264;de;decidim.gamification.badges.accepted_proposals.unearned_own;Sie haben noch keine Schadensmeldungen erhalten.
+91265;de;decidim.gamification.badges.accepted_proposals.unearned_another;Dieser Benutzer hat noch keine beantwortete Schadensmeldung eingegeben.
+91266;de;decidim.gamification.badges.accepted_proposals.next_level_in;Erhalten Sie %{score} weitere Schäden, um das nächste Level zu erreichen!
+91267;de;decidim.gamification.badges.accepted_proposals.name;Beantwortete Schäden
+91268;de;decidim.gamification.badges.accepted_proposals.description_own;Wir konnten dank dir bereits %{score} Schadensmeldungen bearbeiten.
+91269;de;decidim.gamification.badges.accepted_proposals.description_another;Dieser Benutzer hat %{score} beantwortete Schadensmeldungen eingegeben.
+91270;de;decidim.gamification.badges.accepted_proposals.description;Dieses Abzeichen wird gewährt, wenn du Schadenmeldungen einbringst und diese beantwortet werden.
+91271;de;decidim.gamification.badges.accepted_proposals.conditions.1;
+91272;de;decidim.gamification.badges.accepted_proposals.conditions.0;
+91273;de;decidim.filters.linked_classes.proposal;Schäden
+91274;de;decidim.events.proposals.voting_enabled.notification_title;"Sie können jetzt für Schadensmeldungen in <a href=""%{participatory_space_url}"">%{participatory_space_title}</a> <a href=""%{resource_path}"">abstimmen</a>"
+91275;de;decidim.events.proposals.voting_enabled.email_subject;In %{participatory_space_title} ist es jetzt möglich, für Schadensmeldungen abzustimmen
+91276;de;decidim.events.proposals.voting_enabled.email_intro;Sie können für Schadensmeldungen in %{participatory_space_title} abstimmen! Beteiligen Sie sich auf dieser Seite:
+91277;de;decidim.events.proposals.proposal_update_scope.notification_title;"Der Bereich des Schadens <a href=""%{resource_path}"">%{resource_title}</a> wurde von einem Moderator aktualisiert."
+91278;de;decidim.events.proposals.proposal_update_scope.email_subject;Der Bereich des Schadens %{resource_title} wurde aktualisiert
+91279;de;decidim.events.proposals.proposal_update_scope.email_outro;Sie haben diese Benachrichtigung erhalten, weil Sie der Autor de Schadensmeldungs sind.
+91280;de;decidim.events.proposals.proposal_update_scope.email_intro;Ein Moderator hat den Bereich Ihres Schadens „%{resource_title}“ aktualisiert, sehen Sie es sich das auf dieser Seite an:
+91281;de;decidim.events.proposals.proposal_update_category.notification_title;"Die Schadenskategorie <a href=""%{resource_path}"">%{resource_title}</a> wurde von einem Moderator aktualisiert."
+91282;de;decidim.events.proposals.proposal_update_category.email_subject;Die Schadenskategorie %{resource_title} wurde aktualisiert
+91283;de;decidim.events.proposals.proposal_update_category.email_outro;Sie haben diese Benachrichtigung erhalten, weil Sie der Autor der Schadensmeldungs sind.
+91284;de;decidim.events.proposals.proposal_update_category.email_intro;"Ein Moderator hat die Kategorie Ihrer Schadensmeldung ""%{resource_title}"" aktualisiert, sehen Sie es sich an:"
+91285;de;decidim.events.proposals.proposal_rejected.follower.notification_title;"Die Schadensmeldung <a href=""%{resource_path}"">%{resource_title}</a> wurde extern weitergeleitet / ist nicht zuweisbar."
+91286;de;decidim.events.proposals.proposal_rejected.follower.email_subject;Eine Schadensmeldung, dem Sie folgen, wurde extern weitergeleitet / ist nicht zuweisbar
+91287;de;decidim.events.proposals.proposal_rejected.follower.email_intro;"Die Schadensmeldung ""%{resource_title}"" wurde extern weitergeleitet / ist nicht zuweisbar. Sie können die Antwort auf dieser Seite lesen:"
+91288;de;decidim.events.proposals.proposal_rejected.affected_user.notification_title;"Ihre Meldung <a href=""%{resource_path}"">%{resource_title}</a> wurde extern weitergeleitet / ist nicht zuweisbar."
+91289;de;decidim.events.proposals.proposal_rejected.affected_user.email_subject;Ihre Meldung wurde extern weitergeleitet / ist nicht zuweisbar
+91290;de;decidim.events.proposals.proposal_rejected.affected_user.email_intro;"Ihre Schadenmeldung ""%{resource_title}"" wurde extern weitergeleitet / ist nicht zuweisbar. Sie können die Antwort auf dieser Seite lesen:"
+91291;de;decidim.events.proposals.proposal_published_for_space.email_subject;"Neue Schadensmeldung ""%{resource_title}"" zu %{participatory_space_title} hinzugefügt"
+91292;de;decidim.events.proposals.proposal_published_for_space.email_intro;"Die Schadensmeldung ""%{resource_title}"" wurde zu ""%{participatory_space_title}"" hinzugefügt, welchem Sie folgen."
+91293;de;decidim.events.proposals.proposal_published.notification_title;"Die Schadensmeldung <a href=""%{resource_path}"">%{resource_title}</a> wurde von <a href=""%{author_path}"">%{author_name} %{author_nickname}</a> veröffentlicht."
+91294;de;decidim.events.proposals.proposal_published.email_subject;"Neue Schadensmeldung ""%{resource_title}"" von %{author_nickname}"
+91295;de;decidim.events.proposals.proposal_published.email_intro;"%{author_name} %{author_nickname}, dem Sie folgen, hat eine neue Schadensmeldung mit dem Namen ""%{resource_title}"" veröffentlicht. Sehen Sie es sich an und reden Sie mit:"
+91296;de;decidim.events.proposals.proposal_mentioned.notification_title;"Ihre Meldung ""%{mentioned_proposal_title}"" wurde <a href=""%{resource_path}"">hier</a> in den Kommentaren erwähnt."
+91297;de;decidim.events.proposals.proposal_mentioned.email_subject;"Ihre Meldung ""%{mentioned_proposal_title}"" wurde erwähnt"
+91298;de;decidim.events.proposals.proposal_mentioned.email_intro;"Ihre Meldung ""%{mentioned_proposal_title}"" wurde <a href=""%{resource_url}"">hier</a> in den Kommentaren erwähnt."
+91299;de;decidim.events.proposals.proposal_evaluating.follower.notification_title;"Die Schadensmeldung <a href=""%{resource_path}"">%{resource_title}</a> ist in Bearbeitung."
+91300;de;decidim.events.proposals.proposal_evaluating.follower.email_subject;Eine Schadensmeldung, der Sie folgen, ist in Bearbeitung
+91301;de;decidim.events.proposals.proposal_evaluating.follower.email_intro;"Die Schadensmeldung ""%{resource_title}"" wird derzeit geprüft. Das Resultat wird auf dieser Seite aufgeschaltet werden:"
+91302;de;decidim.events.proposals.proposal_evaluating.affected_user.notification_title;"Ihre Meldung <a href=""%{resource_path}"">%{resource_title}</a> ist in Bearbeitung."
+91303;de;decidim.events.proposals.proposal_evaluating.affected_user.email_subject;Ihre Meldung ist in Bearbeitung
+91304;de;decidim.events.proposals.proposal_evaluating.affected_user.email_intro;"Ihre Meldung ""%{resource_title}"" wird derzeit geprüft. Das Resultat wird auf dieser Seite aufgeschaltet werden:"
+91305;de;decidim.events.proposals.proposal_accepted.follower.notification_title;"Die Schadensmeldung <a href=""%{resource_path}"">%{resource_title}</a> wurde beantwortet."
+91306;de;decidim.events.proposals.proposal_accepted.follower.email_subject;Eine Schadensmeldung, der Sie folgen, wurde beantwortet
+91307;de;decidim.events.proposals.proposal_accepted.follower.email_intro;"Die Schadensmeldung ""%{resource_title}"" wurde bearbeite. Sie können die Antwort auf dieser Seite lesen:"
+91308;de;decidim.events.proposals.proposal_accepted.affected_user.notification_title;"Ihre Meldung <a href=""%{resource_path}"">%{resource_title}</a> wurde beantwortet."
+91309;de;decidim.events.proposals.proposal_accepted.affected_user.email_subject;Ihre Meldung wurde beantwortet
+91310;de;decidim.events.proposals.proposal_accepted.affected_user.email_intro;"Ihre Meldung ""%{resource_title}"" wurde beantwortet. Sie können die Antwort auf dieser Seite lesen:"
+91311;de;decidim.events.proposals.endorsing_enabled.notification_title;"Sie können nun Schadensmeldungenin <a href=""%{participatory_space_url}"">%{participatory_space_title}</a> <a href=""%{resource_path}"">unterstützen</a>"
+91312;de;decidim.events.proposals.endorsing_enabled.email_subject;In %{participatory_space_title} ist es jetzt möglich, Schadensmeldungenzu unterstützen
+91313;de;decidim.events.proposals.endorsing_enabled.email_intro;Sie können Schadensmeldungenin %{participatory_space_title} unterstützen! Beteiligen Sie sich auf dieser Seite:
+91314;de;decidim.events.proposals.creation_enabled.notification_title;"Sie können jetzt <a href=""%{resource_path}"">neue Schäden</a> in <a href=""%{participatory_space_url}"">%{participatory_space_title}</a> erfassen"
+91315;de;decidim.events.proposals.creation_enabled.email_subject;In %{participatory_space_title} sind jetzt Schadensmeldungenverfügbar
+91316;de;decidim.events.proposals.creation_enabled.email_intro;Sie können jetzt neue Schadensmeldungenin %{participatory_space_title} erfassen! Beteiligen Sie sich auf dieser Seite:
+91317;de;decidim.events.proposals.admin.proposal_note_created.notification_title;"Jemand hat eine Notiz für die Schadensmeldung <a href=""%{resource_path}"">%{resource_title}</a>erstellt. Sie können sie über das <a href=""%{admin_proposal_info_path}"">Admin-Panel</a> anzeigen"
+91318;de;decidim.events.proposals.admin.proposal_note_created.email_subject;Jemand hat eine Notiz für Schadensmeldung %{resource_title} erstellt.
+91319;de;decidim.events.proposals.admin.proposal_note_created.email_outro;Sie haben diese Benachrichtigung erhalten, weil Sie diese Schadensmeldung bewerten können.
+91320;de;decidim.events.proposals.admin.proposal_note_created.email_intro;"Jemand hat eine Notiz zur Schadensmeldung ""%{resource_title}"" hinterlassen. Schauen Sie sich diese im <a href=""%{admin_proposal_info_url}"">Admin-Panel</a> an"
+91321;de;decidim.events.comments.comment_upvoted.email_outro;Sie haben diese Benachrichtigung erhalten, weil Sie der Autor der Schadensmeldungs sind.
+91322;de;decidim.events.accountability.proposal_linked.notification_title;"Die Schadensmeldung <a href=""%{proposal_path}"">%{proposal_title}</a> wurde im Ergebnis <a href=""%{resource_path}"">%{resource_title}</a> aufgenommen."
+91323;de;decidim.events.accountability.proposal_linked.email_intro;"Die Schadensmeldung ""%{proposal_title}"" wurde in ein Ergebnis aufgenommen. Sie können das auf dieser Seite sehen:"
+91324;de;decidim.decidim_awesome.map_component.map.show.view_proposal;Schadensmeldung ansehen
+91325;de;decidim.decidim_awesome.content_blocks.map.show_withdrawn;Zurückgezogene Schadensmeldungen anzeigen
+91326;de;decidim.proposals.proposals.wizard_steps.title; Meldung erfassen
+91327;de;decidim.proposals.proposals.wizard_steps.step_2;Veröffentlichen
+91328;de;decidim.reporting_proposals.admin.answer_overdue.datetime.distance_in_words.x_seconds.other;%{count} Sekunden überfällig
+91329;de;decidim.reporting_proposals.admin.answer_overdue.datetime.distance_in_words.x_minutes.other;%{count} Minuten überfällig
+91330;de;decidim.reporting_proposals.admin.answer_overdue.datetime.distance_in_words.x_days.other;%{count} Tage überfällig
+91331;de;decidim.reporting_proposals.admin.answer_overdue.datetime.distance_in_words.less_than_x_seconds.other;weniger als %{count} Sekunden überfällig
+91332;de;decidim.reporting_proposals.admin.answer_overdue.datetime.distance_in_words.less_than_x_minutes.other;weniger als %{count} Minuten überfällig
+91333;de;decidim.proposals.proposals.wizard_steps.step_compare;Vergleichen

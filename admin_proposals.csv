@@ -305,7 +305,7 @@ id;locale;key;value
 88071;de;decidim.proposals.proposals.voting_rules.vote_limit.description;Du kannst bis zu %{limit} Vorschläge auswählen.
 88072;de;decidim.proposals.proposals.voting_rules.vote_limit.votes;Stimmen
 88073;de;decidim.proposals.proposals.wizard_aside.back_from_step_2;Zurück zu Vorschlägen
-88074;de;decidim.proposals.proposals.wizard_steps.step_2;Vergleichen
+88074;de;decidim.proposals.proposals.wizard_steps.step_2;Veröffentlichen
 88075;de;decidim.proposals.proposals.wizard_steps.title;Schritten zur Erstellung von Vorschlägen
 88076;de;decidim.proposals.proposals_picker.no_proposals;Kein Vorschlag entspricht deinen Suchkriterien oder es ist keine Vorschlag geplant.
 ;de;decidim.reporting_proposals.proposals.compare.geocoding.description;Dies sind Vorschläge, die in einem Radius von %{meters} zu dem von dir erstellten sind. Allenfalls hat eine andere Person die die gleiche Situation gemeldet. In diesem Fall können du die bestehende Meldung Unterstützen, anstatt eine neue zu erstellen.

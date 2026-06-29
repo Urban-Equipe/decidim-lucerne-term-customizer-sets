@@ -194,5 +194,4 @@ id;locale;key;value
 ;de;errors.messages.not_saved;Bei der Bearbeitung deiner Anfrage sind mehrere Fehler aufgetreten:
 88248;de;forms.correct_errors;Es gibt Fehler auf dem Formular, bitte korrigiere sie, um fortzufahren.
 88249;de;forms.required_explanation;* Muss ausgefüllt werden
-88250;de;invisible_captcha.sentence_for_humans;Wenn du ein Mensch bist, ignorieren dieses Feld
-88270;de;social_share_button.wechat_footer;"Öffne dein WeChat, tippen auf ""Discover"" und dann im ""Scan QR Code"" Menü."
+88250;de;invisible_captcha.sentence_for_humans;Wenn du ein Mensch bist, ignoriere dieses Feld
